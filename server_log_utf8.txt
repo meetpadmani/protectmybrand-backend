@@ -1,0 +1,18 @@
+﻿
+> backend@1.0.0 start
+> node server.js
+
+[dotenv@17.3.1] injecting env (9) from .env -- tip: ΓÜí∩╕Å secrets for agents: https://dotenvx.com/as2
+--- Environment Check ---
+PORT: 5001
+RAPIDAPI_KEY: Loaded (starts with c55d7...)
+RAPIDAPI_HOST: Loaded (trademark-lookup-api.p.rapidapi.com)
+-------------------------
+Attempting to connect to primary MongoDB Atlas...
+--- adminRoutes.js loaded ---
+Initializing Cloudinary with: dvvdfcj6f
+Cloudinary Config Check: { cloud_name: 'Loaded', api_key: 'Loaded', api_secret: 'Loaded' }
+Registering /api/admin routes...
+/api/admin routes registered.
+Server running on port 5001
+Γ£à MongoDB connected successfully to primary URI (Atlas)

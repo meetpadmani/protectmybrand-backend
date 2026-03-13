@@ -1,0 +1,150 @@
+{
+    "maxPerPage":  10,
+    "page":  1,
+    "totalPages":  1,
+    "totalResults":  2,
+    "list":  [
+                 {
+                     "id":  "63b5e019197b5c6d8c91c475",
+                     "markIdentification":  "JINALEXIA LEATHER",
+                     "filingDate":  "2022-12-30",
+                     "transactionDate":  "2023-01-03",
+                     "statusDate":  "2023-01-03",
+                     "serialNumber":  97737623,
+                     "registrationNumber":  "0000000",
+                     "classification":  [
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "5",
+                                                "internationalCode":  [
+                                                                          "018"
+                                                                      ],
+                                                "usCode":  [
+                                                               "001",
+                                                               "002",
+                                                               "003",
+                                                               "022",
+                                                               "041"
+                                                           ],
+                                                "statusCode":  "6",
+                                                "statusDate":  "2023-01-03",
+                                                "firstUseAnywhereDate":  "2022-12-23",
+                                                "firstUseInCommerceDate":  "2022-12-23",
+                                                "primaryCode":  "018"
+                                            }
+                                        ],
+                     "events":  [
+                                    {
+                                        "code":  "NWAP",
+                                        "type":  "I",
+                                        "descriptionText":  "NEW APPLICATION ENTERED IN TRAM",
+                                        "date":  "2023-01-03",
+                                        "number":  1
+                                    }
+                                ],
+                     "owners":  [
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "10",
+                                        "nationality":  [
+                                                            "IN"
+                                                        ],
+                                        "legalEntityTypeCode":  "01",
+                                        "partyName":  "VICKY PANWAR",
+                                        "address1":  "Pratap Nagar Main Road",
+                                        "address2":  "National Handloom Ke Piche",
+                                        "city":  "Jodhpur, Rajasthan",
+                                        "country":  "IN",
+                                        "state":  null,
+                                        "postcode":  "342003",
+                                        "nameChangeExplanation":  null
+                                    }
+                                ],
+                     "markDrawingCode":  "4000",
+                     "caseFileStatements":  {
+                                                "GS0181":  "Backpacks; Duffel bags; Leather bags; Travel bags",
+                                                "D10000":  "\"LEATHER\""
+                                            },
+                     "correspondenceName":  "MICHAEL CHESAL",
+                     "correspondenceAddress1":  "PERETZ CHESAL ",
+                     "correspondenceAddress2":  "1 SE 3RD AVE STE 1820",
+                     "attorneyName":  "Michael Chesal ",
+                     "attorneyDocketNumber":  "PNW.001UST",
+                     "currentLocation":  "NEW APPLICATION PROCESSING",
+                     "statusCode":  "630",
+                     "liveOrDeadStatus":  "Live",
+                     "logo":  "https://tsdr.uspto.gov/img/97737623/large"
+                 },
+                 {
+                     "id":  "64aa8d465377650bd112d2c6",
+                     "markIdentification":  "JINALYZE",
+                     "filingDate":  "2023-07-05",
+                     "transactionDate":  "2023-07-08",
+                     "statusDate":  "2023-07-08",
+                     "serialNumber":  98072225,
+                     "registrationNumber":  "0000000",
+                     "classification":  [
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "6",
+                                                "internationalCode":  [
+                                                                          "020"
+                                                                      ],
+                                                "usCode":  [
+                                                               "002",
+                                                               "013",
+                                                               "022",
+                                                               "025",
+                                                               "032",
+                                                               "050"
+                                                           ],
+                                                "statusCode":  "6",
+                                                "statusDate":  "2023-07-08",
+                                                "firstUseAnywhereDate":  "2023-06-25",
+                                                "firstUseInCommerceDate":  "2023-06-25",
+                                                "primaryCode":  "020"
+                                            }
+                                        ],
+                     "events":  [
+                                    {
+                                        "code":  "NWAP",
+                                        "type":  "I",
+                                        "descriptionText":  "NEW APPLICATION ENTERED",
+                                        "date":  "2023-07-08",
+                                        "number":  1
+                                    }
+                                ],
+                     "owners":  [
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "10",
+                                        "nationality":  [
+                                                            "CN"
+                                                        ],
+                                        "legalEntityTypeCode":  "99",
+                                        "partyName":  "Zhongshan Wanlian Information Technology Co., Ltd.",
+                                        "address1":  "One of Room 12D, Building 1, Baijingtai",
+                                        "address2":  "No. 383, Fuhua Road, West District",
+                                        "city":  "Zhongshan",
+                                        "country":  "CN",
+                                        "state":  null,
+                                        "postcode":  "528400",
+                                        "nameChangeExplanation":  null
+                                    }
+                                ],
+                     "markDrawingCode":  "4000",
+                     "caseFileStatements":  {
+                                                "GS0201":  "Boxes of wood or plastic; Display stands; Furniture parts; Jewellery organizer displays; Works of art of wood, wax, plaster or plastic"
+                                            },
+                     "correspondenceName":  "OMAR F. DARWICH",
+                     "correspondenceAddress1":  "THE DARWICH LAW FIRM, LLC",
+                     "correspondenceAddress2":  "300 WEATHERSTONE DR #190",
+                     "attorneyName":  "Omar F. Darwich ",
+                     "attorneyDocketNumber":  null,
+                     "currentLocation":  "NEW APPLICATION PROCESSING",
+                     "statusCode":  "630",
+                     "liveOrDeadStatus":  "Live",
+                     "logo":  "https://tsdr.uspto.gov/img/98072225/large"
+                 }
+             ]
+}

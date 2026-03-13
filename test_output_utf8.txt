@@ -1,0 +1,83 @@
+﻿[dotenv@17.3.1] injecting env (9) from .env -- tip: ΓÜí∩╕Å secrets for agents: https://dotenvx.com/as2
+RAPIDAPI_KEY: Present
+RAPIDAPI_HOST: trademark-lookup-api.p.rapidapi.com
+Status: 200
+Keys: [ 'maxPerPage', 'page', 'totalPages', 'totalResults', 'list' ]
+Full Data (Sample): {
+  "maxPerPage": 10,
+  "page": 1,
+  "totalPages": 21,
+  "totalResults": 202,
+  "list": [
+    {
+      "id": "62a86d9508c6f9240d1f3f5a",
+      "markIdentification": "GOOGLE",
+      "filingDate": "1996-03-12",
+      "transactionDate": "2020-05-31",
+      "statusDate": "1997-07-22",
+      "serialNumber": 75071072,
+      "registrationNumber": "0000000",
+      "classification": [
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "2",
+          "internationalCode": [
+            "025"
+          ],
+          "usCode": [
+            "022",
+            "039"
+          ],
+          "statusCode": "8",
+          "statusDate": "1999-08-04",
+          "firstUseAnywhereDate": null,
+          "firstUseInCommerceDate": null,
+          "primaryCode": "025"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "4",
+          "internationalCode": [
+            "028"
+          ],
+          "usCode": [
+            "022",
+            "023",
+            "038",
+            "050"
+          ],
+          "statusCode": "8",
+          "statusDate": "1999-08-04",
+          "firstUseAnywhereDate": null,
+          "firstUseInCommerceDate": null,
+          "primaryCode": "028"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "1",
+          "internationalCode": [
+            "029"
+          ],
+          "usCode": [
+            "046"
+          ],
+          "statusCode": "8",
+          "statusDate": "1999-08-04",
+          "firstUseAnywhereDate": null,
+          "firstUseInCommerceDate": null,
+          "primaryCode": "029"
+        }
+      ],
+      "events": [
+        {
+          "code": "ABN6",
+          "type": "S",
+          "descriptionText": "ABANDONMENT - NO USE STATEMENT FILED",
+          "date": "1997-07-22",
+          "number": 8
+        },
+        {
+          "code": "NOAM",
+          "type": "O",
+          "descriptionText": "NOA MAILED - SOU REQUIRED FROM APPLICANT",
+          "date"

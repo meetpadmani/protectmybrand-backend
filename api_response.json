@@ -1,0 +1,4104 @@
+{
+  "maxPerPage": 10,
+  "page": 1,
+  "totalPages": 21,
+  "totalResults": 202,
+  "list": [
+    {
+      "id": "62a86d9508c6f9240d1f3f5a",
+      "markIdentification": "GOOGLE",
+      "filingDate": "1996-03-12",
+      "transactionDate": "2020-05-31",
+      "statusDate": "1997-07-22",
+      "serialNumber": 75071072,
+      "registrationNumber": "0000000",
+      "classification": [
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "2",
+          "internationalCode": [
+            "025"
+          ],
+          "usCode": [
+            "022",
+            "039"
+          ],
+          "statusCode": "8",
+          "statusDate": "1999-08-04",
+          "firstUseAnywhereDate": null,
+          "firstUseInCommerceDate": null,
+          "primaryCode": "025"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "4",
+          "internationalCode": [
+            "028"
+          ],
+          "usCode": [
+            "022",
+            "023",
+            "038",
+            "050"
+          ],
+          "statusCode": "8",
+          "statusDate": "1999-08-04",
+          "firstUseAnywhereDate": null,
+          "firstUseInCommerceDate": null,
+          "primaryCode": "028"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "1",
+          "internationalCode": [
+            "029"
+          ],
+          "usCode": [
+            "046"
+          ],
+          "statusCode": "8",
+          "statusDate": "1999-08-04",
+          "firstUseAnywhereDate": null,
+          "firstUseInCommerceDate": null,
+          "primaryCode": "029"
+        }
+      ],
+      "events": [
+        {
+          "code": "ABN6",
+          "type": "S",
+          "descriptionText": "ABANDONMENT - NO USE STATEMENT FILED",
+          "date": "1997-07-22",
+          "number": 8
+        },
+        {
+          "code": "NOAM",
+          "type": "O",
+          "descriptionText": "NOA MAILED - SOU REQUIRED FROM APPLICANT",
+          "date": "1997-01-21",
+          "number": 7
+        },
+        {
+          "code": "PUBO",
+          "type": "A",
+          "descriptionText": "PUBLISHED FOR OPPOSITION",
+          "date": "1996-10-29",
+          "number": 6
+        },
+        {
+          "code": "NPUB",
+          "type": "O",
+          "descriptionText": "NOTICE OF PUBLICATION",
+          "date": "1996-09-27",
+          "number": 5
+        },
+        {
+          "code": "CNSA",
+          "type": "P",
+          "descriptionText": "APPROVED FOR PUB - PRINCIPAL REGISTER",
+          "date": "1996-08-10",
+          "number": 4
+        },
+        {
+          "code": "CNEA",
+          "type": "F",
+          "descriptionText": "EXAMINER'S AMENDMENT MAILED",
+          "date": "1996-08-05",
+          "number": 3
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "1996-07-31",
+          "number": 2
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "1996-07-31",
+          "number": 1
+        }
+      ],
+      "owners": [
+        {
+          "entryNumber": 1,
+          "partyType": "20",
+          "nationality": [
+            "CA"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Groove Track Productions",
+          "address1": "1427 Third Street Promenade, Suite 201",
+          "address2": null,
+          "city": "Santa Monica",
+          "country": null,
+          "state": "CA",
+          "postcode": "90403",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "10",
+          "nationality": [
+            "CA"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Groove Track Productions",
+          "address1": "1427 Third Street Promenade, Suite 201",
+          "address2": null,
+          "city": "Santa Monica",
+          "country": null,
+          "state": "CA",
+          "postcode": "90403",
+          "nameChangeExplanation": null
+        }
+      ],
+      "markDrawingCode": "1000",
+      "caseFileStatements": {
+        "GS0291": "candy",
+        "GS0281": "all purpose sport bags, toys and games, namely, board games, stuffed and other plush toys",
+        "GS0251": "clothing and wearing apparel, namely, jackets, warm-up shirts and suits, sweatshirts, T-shirts, sports shirts, polo shirts, sweaters, tank tops, sports jerseys and uniforms, headbands, wristbands, shorts, overalls, sweat pants and hats and shoes and athletic footwear"
+      },
+      "correspondenceName": "Michael E. Harris",
+      "correspondenceAddress1": "POMS, SMITH, LANDE ",
+      "correspondenceAddress2": "2029 Century Park East, Suite 3800",
+      "attorneyName": "Michael E. Harris ",
+      "attorneyDocketNumber": "117.215",
+      "currentLocation": "FILE REPOSITORY (FRANCONIA)",
+      "statusCode": "606",
+      "liveOrDeadStatus": "Dead",
+      "logo": "https://tsdr.uspto.gov/img/75071072/large"
+    },
+    {
+      "id": "62a86f0b08c6f9240d269f9c",
+      "markIdentification": "GOOGLE",
+      "filingDate": "1998-09-16",
+      "transactionDate": "2020-08-25",
+      "statusDate": "2019-02-01",
+      "serialNumber": 75554461,
+      "registrationNumber": "2884502",
+      "classification": [
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "5",
+          "internationalCode": [
+            "009"
+          ],
+          "usCode": [
+            "021",
+            "023",
+            "026",
+            "036",
+            "038"
+          ],
+          "statusCode": "6",
+          "statusDate": "1998-10-30",
+          "firstUseAnywhereDate": "2000-01-26",
+          "firstUseInCommerceDate": "2000-01-26",
+          "primaryCode": "009"
+        }
+      ],
+      "events": [
+        {
+          "code": "TMBN",
+          "type": "T",
+          "descriptionText": "TTAB RELEASE CASE TO TRADEMARKS",
+          "date": "2019-02-01",
+          "number": 57
+        },
+        {
+          "code": "CANT",
+          "type": "T",
+          "descriptionText": "CANCELLATION TERMINATED NO. 999999",
+          "date": "2019-02-01",
+          "number": 56
+        },
+        {
+          "code": "CAND",
+          "type": "T",
+          "descriptionText": "CANCELLATION DENIED NO. 999999",
+          "date": "2019-02-01",
+          "number": 55
+        },
+        {
+          "code": "NOSU",
+          "type": "I",
+          "descriptionText": "NOTICE OF SUIT",
+          "date": "2018-11-08",
+          "number": 54
+        },
+        {
+          "code": "NOSU",
+          "type": "I",
+          "descriptionText": "NOTICE OF SUIT",
+          "date": "2018-07-24",
+          "number": 53
+        },
+        {
+          "code": "ASCK",
+          "type": "I",
+          "descriptionText": "ASSIGNMENT OF OWNERSHIP NOT UPDATED AUTOMATICALLY",
+          "date": "2017-11-22",
+          "number": 52
+        },
+        {
+          "code": "NOSU",
+          "type": "I",
+          "descriptionText": "NOTICE OF SUIT",
+          "date": "2015-07-28",
+          "number": 51
+        },
+        {
+          "code": "NA89",
+          "type": "E",
+          "descriptionText": "NOTICE OF ACCEPTANCE OF SEC. 8 ",
+          "date": "2013-09-21",
+          "number": 50
+        },
+        {
+          "code": "RNL1",
+          "type": "Q",
+          "descriptionText": "REGISTERED AND RENEWED (FIRST RENEWAL - 10 YRS)",
+          "date": "2013-09-21",
+          "number": 49
+        },
+        {
+          "code": "89AG",
+          "type": "O",
+          "descriptionText": "REGISTERED - SEC. 8 (10-YR) ACCEPTED/SEC. 9 GRANTED",
+          "date": "2013-09-21",
+          "number": 48
+        },
+        {
+          "code": "89AF",
+          "type": "I",
+          "descriptionText": "REGISTERED - COMBINED SECTION 8 (10-YR) ",
+          "date": "2013-09-17",
+          "number": 47
+        },
+        {
+          "code": "APRE",
+          "type": "A",
+          "descriptionText": "CASE ASSIGNED TO POST REGISTRATION PARALEGAL",
+          "date": "2013-09-21",
+          "number": 46
+        },
+        {
+          "code": "E89R",
+          "type": "I",
+          "descriptionText": "TEAS SECTION 8 ",
+          "date": "2013-09-17",
+          "number": 45
+        },
+        {
+          "code": "TCCA",
+          "type": "I",
+          "descriptionText": "TEAS CHANGE OF CORRESPONDENCE RECEIVED",
+          "date": "2013-09-16",
+          "number": 44
+        },
+        {
+          "code": "NOSU",
+          "type": "I",
+          "descriptionText": "NOTICE OF SUIT",
+          "date": "2013-04-18",
+          "number": 43
+        },
+        {
+          "code": "NOSU",
+          "type": "I",
+          "descriptionText": "NOTICE OF SUIT",
+          "date": "2013-01-24",
+          "number": 42
+        },
+        {
+          "code": "NOSU",
+          "type": "I",
+          "descriptionText": "NOTICE OF SUIT",
+          "date": "2012-08-08",
+          "number": 41
+        },
+        {
+          "code": "NOSU",
+          "type": "I",
+          "descriptionText": "NOTICE OF SUIT",
+          "date": "2012-08-07",
+          "number": 40
+        },
+        {
+          "code": "PETC",
+          "type": "T",
+          "descriptionText": "CANCELLATION INSTITUTED NO. 999999",
+          "date": "2012-04-24",
+          "number": 39
+        },
+        {
+          "code": "C15A",
+          "type": "O",
+          "descriptionText": "REGISTERED - SEC. 8 (6-YR) ACCEPTED ",
+          "date": "2010-03-25",
+          "number": 38
+        },
+        {
+          "code": "E815",
+          "type": "I",
+          "descriptionText": "TEAS SECTION 8 ",
+          "date": "2010-03-22",
+          "number": 37
+        },
+        {
+          "code": "ARAA",
+          "type": "I",
+          "descriptionText": "ATTORNEY/DOM.REP.REVOKED AND/OR APPOINTED",
+          "date": "2008-10-21",
+          "number": 36
+        },
+        {
+          "code": "REAP",
+          "type": "I",
+          "descriptionText": "TEAS REVOKE/APP/CHANGE ADDR OF ATTY/DOM REP RECEIVED",
+          "date": "2008-10-21",
+          "number": 35
+        },
+        {
+          "code": "COC.",
+          "type": "O",
+          "descriptionText": "CORRECTION UNDER SECTION 7 ¿ PROCESSED",
+          "date": "2007-11-10",
+          "number": 34
+        },
+        {
+          "code": "PLGL",
+          "type": "A",
+          "descriptionText": "ASSIGNED TO PARALEGAL",
+          "date": "2007-11-06",
+          "number": 33
+        },
+        {
+          "code": "AMD7",
+          "type": "I",
+          "descriptionText": "SEC 7 REQUEST FILED",
+          "date": "2007-09-20",
+          "number": 32
+        },
+        {
+          "code": "MAIL",
+          "type": "I",
+          "descriptionText": "PAPER RECEIVED",
+          "date": "2007-09-20",
+          "number": 31
+        },
+        {
+          "code": "COAR",
+          "type": "I",
+          "descriptionText": "TEAS CHANGE OF OWNER ADDRESS RECEIVED",
+          "date": "2005-02-10",
+          "number": 30
+        },
+        {
+          "code": "TCCA",
+          "type": "I",
+          "descriptionText": "TEAS CHANGE OF CORRESPONDENCE RECEIVED",
+          "date": "2004-09-22",
+          "number": 29
+        },
+        {
+          "code": "R.PR",
+          "type": "A",
+          "descriptionText": "REGISTERED-PRINCIPAL REGISTER",
+          "date": "2004-09-14",
+          "number": 28
+        },
+        {
+          "code": "CNPR",
+          "type": "P",
+          "descriptionText": "ALLOWED PRINCIPAL REGISTER - SOU ACCEPTED",
+          "date": "2004-07-06",
+          "number": 27
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "2004-06-28",
+          "number": 26
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "2004-06-21",
+          "number": 25
+        },
+        {
+          "code": "SUPC",
+          "type": "I",
+          "descriptionText": "STATEMENT OF USE PROCESSING COMPLETE",
+          "date": "2004-06-17",
+          "number": 24
+        },
+        {
+          "code": "IUAF",
+          "type": "S",
+          "descriptionText": "USE AMENDMENT FILED",
+          "date": "2004-06-08",
+          "number": 23
+        },
+        {
+          "code": "CFIT",
+          "type": "O",
+          "descriptionText": "CASE FILE IN TICRS",
+          "date": "2004-06-15",
+          "number": 22
+        },
+        {
+          "code": "EISU",
+          "type": "I",
+          "descriptionText": "TEAS STATEMENT OF USE RECEIVED",
+          "date": "2004-06-08",
+          "number": 21
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "2004-04-26",
+          "number": 20
+        },
+        {
+          "code": "NOAM",
+          "type": "O",
+          "descriptionText": "NOA MAILED - SOU REQUIRED FROM APPLICANT",
+          "date": "2004-01-20",
+          "number": 19
+        },
+        {
+          "code": "OP.T",
+          "type": "T",
+          "descriptionText": "OPPOSITION TERMINATED NO. 999999",
+          "date": "2003-11-18",
+          "number": 18
+        },
+        {
+          "code": "OP.T",
+          "type": "T",
+          "descriptionText": "OPPOSITION TERMINATED NO. 999999",
+          "date": "2003-11-18",
+          "number": 17
+        },
+        {
+          "code": "OP.D",
+          "type": "T",
+          "descriptionText": "OPPOSITION DISMISSED NO. 999999",
+          "date": "2003-11-18",
+          "number": 16
+        },
+        {
+          "code": "OP.I",
+          "type": "T",
+          "descriptionText": "OPPOSITION INSTITUTED NO. 999999",
+          "date": "2001-08-16",
+          "number": 15
+        },
+        {
+          "code": "ETOF",
+          "type": "T",
+          "descriptionText": "EXTENSION OF TIME TO OPPOSE RECEIVED",
+          "date": "2001-06-04",
+          "number": 14
+        },
+        {
+          "code": "PUBO",
+          "type": "A",
+          "descriptionText": "PUBLISHED FOR OPPOSITION",
+          "date": "2001-05-08",
+          "number": 13
+        },
+        {
+          "code": "NPUB",
+          "type": "O",
+          "descriptionText": "NOTICE OF PUBLICATION",
+          "date": "2001-04-25",
+          "number": 12
+        },
+        {
+          "code": "CNSA",
+          "type": "P",
+          "descriptionText": "APPROVED FOR PUB - PRINCIPAL REGISTER",
+          "date": "2000-11-09",
+          "number": 11
+        },
+        {
+          "code": "CRFA",
+          "type": "I",
+          "descriptionText": "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+          "date": "1999-11-23",
+          "number": 10
+        },
+        {
+          "code": "AUPC",
+          "type": "I",
+          "descriptionText": "AMENDMENT TO USE PROCESSING COMPLETE",
+          "date": "1999-11-06",
+          "number": 9
+        },
+        {
+          "code": "IUAF",
+          "type": "S",
+          "descriptionText": "USE AMENDMENT FILED",
+          "date": "1999-03-19",
+          "number": 8
+        },
+        {
+          "code": "CRFA",
+          "type": "I",
+          "descriptionText": "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+          "date": "1999-03-19",
+          "number": 7
+        },
+        {
+          "code": "DPCC",
+          "type": "D",
+          "descriptionText": "DIVISIONAL PROCESSING COMPLETE",
+          "date": "1999-06-25",
+          "number": 4
+        },
+        {
+          "code": "DRRR",
+          "type": "I",
+          "descriptionText": "DIVISIONAL REQUEST RECEIVED",
+          "date": "1999-03-19",
+          "number": 3
+        },
+        {
+          "code": "CNRT",
+          "type": "F",
+          "descriptionText": "NON-FINAL ACTION MAILED",
+          "date": "1999-05-20",
+          "number": 2
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "1999-04-27",
+          "number": 1
+        }
+      ],
+      "owners": [
+        {
+          "entryNumber": 1,
+          "partyType": "30",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "GOOGLE INC.",
+          "address1": "1600 AMPHITHEATRE PARKWAY",
+          "address2": "BUILDING 41",
+          "city": "MOUNTAIN VIEW",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "21",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "GOOGLE INC.",
+          "address1": "BUILDING 41",
+          "address2": "160 AMPITHEATRE PARKWAY",
+          "city": "MOUNTAIN VIEW",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "20",
+          "nationality": [
+            "CA"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "2400 Bayshore Parkway",
+          "address2": null,
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "10",
+          "nationality": [
+            "CA"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "2400 Bayshore Parkway",
+          "address2": null,
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        }
+      ],
+      "markDrawingCode": "1000",
+      "caseFileStatements": {
+        "GS0091": "computer hardware; computer software for creating indexes of information, indexes of web sites and indexes of other information resources",
+        "B00001": "Statement(s): In the statement, Column 1, line 3, \"160\" should be deleted, and 1600 should be inserted."
+      },
+      "correspondenceName": "JANET L CULLUM",
+      "correspondenceAddress1": "COOLEY LLP",
+      "correspondenceAddress2": "1299 PENNSYLVANIA AVENUE NW, SUITE 700",
+      "attorneyName": "Terri Chen ",
+      "attorneyDocketNumber": null,
+      "currentLocation": "GENERIC WEB UPDATE",
+      "statusCode": "700",
+      "liveOrDeadStatus": "Live",
+      "logo": "https://tsdr.uspto.gov/img/75554461/large"
+    },
+    {
+      "id": "62a8701e08c6f9240d2caed4",
+      "markIdentification": "GOOGLE",
+      "filingDate": "1999-09-16",
+      "transactionDate": "2020-08-25",
+      "statusDate": "2019-02-01",
+      "serialNumber": 75978469,
+      "registrationNumber": "2806075",
+      "classification": [
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "3",
+          "internationalCode": [
+            "038"
+          ],
+          "usCode": [
+            "100",
+            "101",
+            "104"
+          ],
+          "statusCode": "6",
+          "statusDate": "2001-01-15",
+          "firstUseAnywhereDate": "1997-09-01",
+          "firstUseInCommerceDate": "1997-09-01",
+          "primaryCode": "038"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "2",
+          "internationalCode": [
+            "042"
+          ],
+          "usCode": [
+            "100",
+            "101"
+          ],
+          "statusCode": "6",
+          "statusDate": "1998-10-30",
+          "firstUseAnywhereDate": "1997-09-01",
+          "firstUseInCommerceDate": "1997-09-01",
+          "primaryCode": "042"
+        }
+      ],
+      "events": [
+        {
+          "code": "TMBN",
+          "type": "T",
+          "descriptionText": "TTAB RELEASE CASE TO TRADEMARKS",
+          "date": "2019-02-01",
+          "number": 49
+        },
+        {
+          "code": "CANT",
+          "type": "T",
+          "descriptionText": "CANCELLATION TERMINATED NO. 999999",
+          "date": "2019-02-01",
+          "number": 48
+        },
+        {
+          "code": "CAND",
+          "type": "T",
+          "descriptionText": "CANCELLATION DENIED NO. 999999",
+          "date": "2019-02-01",
+          "number": 47
+        },
+        {
+          "code": "NOSU",
+          "type": "I",
+          "descriptionText": "NOTICE OF SUIT",
+          "date": "2018-11-08",
+          "number": 46
+        },
+        {
+          "code": "NOSU",
+          "type": "I",
+          "descriptionText": "NOTICE OF SUIT",
+          "date": "2018-07-24",
+          "number": 45
+        },
+        {
+          "code": "ASCK",
+          "type": "I",
+          "descriptionText": "ASSIGNMENT OF OWNERSHIP NOT UPDATED AUTOMATICALLY",
+          "date": "2017-11-22",
+          "number": 44
+        },
+        {
+          "code": "NOSU",
+          "type": "I",
+          "descriptionText": "NOTICE OF SUIT",
+          "date": "2015-07-28",
+          "number": 43
+        },
+        {
+          "code": "NOSU",
+          "type": "I",
+          "descriptionText": "NOTICE OF SUIT",
+          "date": "2013-04-18",
+          "number": 42
+        },
+        {
+          "code": "NA89",
+          "type": "E",
+          "descriptionText": "NOTICE OF ACCEPTANCE OF SEC. 8 ",
+          "date": "2013-02-07",
+          "number": 41
+        },
+        {
+          "code": "RNL1",
+          "type": "Q",
+          "descriptionText": "REGISTERED AND RENEWED (FIRST RENEWAL - 10 YRS)",
+          "date": "2013-02-07",
+          "number": 40
+        },
+        {
+          "code": "89AG",
+          "type": "O",
+          "descriptionText": "REGISTERED - SEC. 8 (10-YR) ACCEPTED/SEC. 9 GRANTED",
+          "date": "2013-02-07",
+          "number": 39
+        },
+        {
+          "code": "APRE",
+          "type": "A",
+          "descriptionText": "CASE ASSIGNED TO POST REGISTRATION PARALEGAL",
+          "date": "2013-02-07",
+          "number": 38
+        },
+        {
+          "code": "NOSU",
+          "type": "I",
+          "descriptionText": "NOTICE OF SUIT",
+          "date": "2013-01-24",
+          "number": 37
+        },
+        {
+          "code": "E89R",
+          "type": "I",
+          "descriptionText": "TEAS SECTION 8 ",
+          "date": "2013-01-22",
+          "number": 36
+        },
+        {
+          "code": "NOSU",
+          "type": "I",
+          "descriptionText": "NOTICE OF SUIT",
+          "date": "2012-08-08",
+          "number": 35
+        },
+        {
+          "code": "PETC",
+          "type": "T",
+          "descriptionText": "CANCELLATION INSTITUTED NO. 999999",
+          "date": "2012-04-24",
+          "number": 34
+        },
+        {
+          "code": "C15A",
+          "type": "O",
+          "descriptionText": "REGISTERED - SEC. 8 (6-YR) ACCEPTED ",
+          "date": "2009-02-05",
+          "number": 33
+        },
+        {
+          "code": "PLGL",
+          "type": "A",
+          "descriptionText": "ASSIGNED TO PARALEGAL",
+          "date": "2009-01-30",
+          "number": 32
+        },
+        {
+          "code": "E815",
+          "type": "I",
+          "descriptionText": "TEAS SECTION 8 ",
+          "date": "2009-01-28",
+          "number": 31
+        },
+        {
+          "code": "TMBN",
+          "type": "T",
+          "descriptionText": "TTAB RELEASE CASE TO TRADEMARKS",
+          "date": "2008-06-26",
+          "number": 30
+        },
+        {
+          "code": "CANT",
+          "type": "T",
+          "descriptionText": "CANCELLATION TERMINATED NO. 999999",
+          "date": "2008-06-26",
+          "number": 29
+        },
+        {
+          "code": "CAND",
+          "type": "T",
+          "descriptionText": "CANCELLATION DENIED NO. 999999",
+          "date": "2008-06-26",
+          "number": 28
+        },
+        {
+          "code": "COC.",
+          "type": "O",
+          "descriptionText": "CORRECTION UNDER SECTION 7 ¿ PROCESSED",
+          "date": "2007-01-19",
+          "number": 27
+        },
+        {
+          "code": "PLGL",
+          "type": "A",
+          "descriptionText": "ASSIGNED TO PARALEGAL",
+          "date": "2007-01-08",
+          "number": 26
+        },
+        {
+          "code": "AMD7",
+          "type": "I",
+          "descriptionText": "SEC 7 REQUEST FILED",
+          "date": "2006-11-08",
+          "number": 25
+        },
+        {
+          "code": "FAXX",
+          "type": "I",
+          "descriptionText": "FAX RECEIVED",
+          "date": "2006-11-08",
+          "number": 24
+        },
+        {
+          "code": "PETC",
+          "type": "T",
+          "descriptionText": "CANCELLATION INSTITUTED NO. 999999",
+          "date": "2006-05-08",
+          "number": 23
+        },
+        {
+          "code": "CANT",
+          "type": "T",
+          "descriptionText": "CANCELLATION TERMINATED NO. 999999",
+          "date": "2005-03-08",
+          "number": 22
+        },
+        {
+          "code": "CAND",
+          "type": "T",
+          "descriptionText": "CANCELLATION DENIED NO. 999999",
+          "date": "2005-03-08",
+          "number": 21
+        },
+        {
+          "code": "COAR",
+          "type": "I",
+          "descriptionText": "TEAS CHANGE OF OWNER ADDRESS RECEIVED",
+          "date": "2005-02-10",
+          "number": 20
+        },
+        {
+          "code": "PETC",
+          "type": "T",
+          "descriptionText": "CANCELLATION INSTITUTED NO. 999999",
+          "date": "2004-07-13",
+          "number": 19
+        },
+        {
+          "code": "R.PR",
+          "type": "A",
+          "descriptionText": "REGISTERED-PRINCIPAL REGISTER",
+          "date": "2004-01-20",
+          "number": 18
+        },
+        {
+          "code": "OP.T",
+          "type": "T",
+          "descriptionText": "OPPOSITION TERMINATED NO. 999999",
+          "date": "2003-11-18",
+          "number": 17
+        },
+        {
+          "code": "OP.T",
+          "type": "T",
+          "descriptionText": "OPPOSITION TERMINATED NO. 999999",
+          "date": "2003-11-18",
+          "number": 16
+        },
+        {
+          "code": "OP.D",
+          "type": "T",
+          "descriptionText": "OPPOSITION DISMISSED NO. 999999",
+          "date": "2003-11-18",
+          "number": 15
+        },
+        {
+          "code": "OP.I",
+          "type": "T",
+          "descriptionText": "OPPOSITION INSTITUTED NO. 999999",
+          "date": "2002-03-13",
+          "number": 14
+        },
+        {
+          "code": "ETOF",
+          "type": "T",
+          "descriptionText": "EXTENSION OF TIME TO OPPOSE RECEIVED",
+          "date": "2002-01-10",
+          "number": 13
+        },
+        {
+          "code": "PUBO",
+          "type": "A",
+          "descriptionText": "PUBLISHED FOR OPPOSITION",
+          "date": "2001-12-04",
+          "number": 12
+        },
+        {
+          "code": "NPUB",
+          "type": "O",
+          "descriptionText": "NOTICE OF PUBLICATION",
+          "date": "2001-11-14",
+          "number": 11
+        },
+        {
+          "code": "CNSA",
+          "type": "O",
+          "descriptionText": "APPROVED FOR PUB - PRINCIPAL REGISTER",
+          "date": "2001-08-23",
+          "number": 10
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "2001-08-23",
+          "number": 9
+        },
+        {
+          "code": "CRFA",
+          "type": "I",
+          "descriptionText": "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+          "date": "2000-11-23",
+          "number": 8
+        },
+        {
+          "code": "IUAA",
+          "type": "P",
+          "descriptionText": "USE AMENDMENT ACCEPTED",
+          "date": "1999-10-21",
+          "number": 7
+        },
+        {
+          "code": "CRFA",
+          "type": "I",
+          "descriptionText": "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+          "date": "1999-11-23",
+          "number": 6
+        },
+        {
+          "code": "AUPC",
+          "type": "I",
+          "descriptionText": "AMENDMENT TO USE PROCESSING COMPLETE",
+          "date": "1999-08-05",
+          "number": 5
+        },
+        {
+          "code": "IUAF",
+          "type": "S",
+          "descriptionText": "USE AMENDMENT FILED",
+          "date": "1999-03-19",
+          "number": 4
+        },
+        {
+          "code": "DPCC",
+          "type": "D",
+          "descriptionText": "DIVISIONAL PROCESSING COMPLETE",
+          "date": "1999-06-25",
+          "number": 3
+        },
+        {
+          "code": "CNRT",
+          "type": "F",
+          "descriptionText": "NON-FINAL ACTION MAILED",
+          "date": "1999-05-20",
+          "number": 2
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "1999-04-27",
+          "number": 1
+        }
+      ],
+      "owners": [
+        {
+          "entryNumber": 1,
+          "partyType": "31",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "GOOGLE INC.",
+          "address1": "1600 Amphitheatre Parkway",
+          "address2": null,
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "30",
+          "nationality": [
+            "CA"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "2400 Bayshore Parkway",
+          "address2": null,
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "20",
+          "nationality": [
+            "CA"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "2400 Bayshore Parkway",
+          "address2": null,
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "10",
+          "nationality": [
+            "CA"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "2400 Bayshore Parkway",
+          "address2": null,
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        }
+      ],
+      "markDrawingCode": "1000",
+      "caseFileStatements": {
+        "B00001": "In the statement, Column 2, line 10 \" 3-0-1997 \" should be deleted and 9-0-1997 should be inserted.",
+        "GS0381": "Providing electronic mail and workgroup communications services over computer networks; providing multiple user access to proprietary collections of information by means of global computer information networks",
+        "GS0421": "computer services, namely, providing software interfaces available over a network in order to create a personalized on-line information service; extraction and retrieval of information and data mining by means of global computer networks; creating indexes of information, indexes of web sites and indexes of other information sources in connection with global computer networks; providing information from searchable indexes and databases of information, including text, electronic documents, databases, graphics and audio visual information, by means of global computer information networks"
+      },
+      "correspondenceName": "JANET L CULLUM",
+      "correspondenceAddress1": "COOLEY LLP",
+      "correspondenceAddress2": "1299 PENNSYLVANIA AVENUE NW, SUITE 700",
+      "attorneyName": "Monique Liburd ",
+      "attorneyDocketNumber": "GT-0001-US-2",
+      "currentLocation": "GENERIC WEB UPDATE",
+      "statusCode": "700",
+      "liveOrDeadStatus": "Live",
+      "logo": "https://tsdr.uspto.gov/img/75978469/large"
+    },
+    {
+      "id": "62a8713408c6f9240d319125",
+      "markIdentification": "GOOGLE",
+      "filingDate": "2001-09-18",
+      "transactionDate": "2020-05-31",
+      "statusDate": "2014-06-13",
+      "serialNumber": 76314783,
+      "registrationNumber": "2954071",
+      "classification": [
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "5",
+          "internationalCode": [
+            "009"
+          ],
+          "usCode": [
+            "021",
+            "023",
+            "026",
+            "036",
+            "038"
+          ],
+          "statusCode": "6",
+          "statusDate": "2001-10-03",
+          "firstUseAnywhereDate": "1999-01-01",
+          "firstUseInCommerceDate": "1999-07-31",
+          "primaryCode": "009"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "5",
+          "internationalCode": [
+            "011"
+          ],
+          "usCode": [
+            "013",
+            "021",
+            "023",
+            "031",
+            "034"
+          ],
+          "statusCode": "6",
+          "statusDate": "2001-10-03",
+          "firstUseAnywhereDate": "1999-01-01",
+          "firstUseInCommerceDate": "1999-07-31",
+          "primaryCode": "011"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "6",
+          "internationalCode": [
+            "012"
+          ],
+          "usCode": [
+            "019",
+            "021",
+            "023",
+            "031",
+            "035",
+            "044"
+          ],
+          "statusCode": "B",
+          "statusDate": "2014-06-13",
+          "firstUseAnywhereDate": "1999-01-01",
+          "firstUseInCommerceDate": "1999-07-31",
+          "primaryCode": "012"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "8",
+          "internationalCode": [
+            "016"
+          ],
+          "usCode": [
+            "002",
+            "005",
+            "022",
+            "023",
+            "029",
+            "037",
+            "038",
+            "050"
+          ],
+          "statusCode": "6",
+          "statusDate": "2001-10-03",
+          "firstUseAnywhereDate": "1999-01-01",
+          "firstUseInCommerceDate": "1999-07-31",
+          "primaryCode": "016"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "5",
+          "internationalCode": [
+            "018"
+          ],
+          "usCode": [
+            "001",
+            "002",
+            "003",
+            "022",
+            "041"
+          ],
+          "statusCode": "6",
+          "statusDate": "2001-10-03",
+          "firstUseAnywhereDate": "1999-01-01",
+          "firstUseInCommerceDate": "1999-07-31",
+          "primaryCode": "018"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "8",
+          "internationalCode": [
+            "021"
+          ],
+          "usCode": [
+            "002",
+            "013",
+            "023",
+            "029",
+            "030",
+            "033",
+            "040",
+            "050"
+          ],
+          "statusCode": "6",
+          "statusDate": "2001-10-03",
+          "firstUseAnywhereDate": "1999-01-01",
+          "firstUseInCommerceDate": "1999-07-31",
+          "primaryCode": "021"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "2",
+          "internationalCode": [
+            "025"
+          ],
+          "usCode": [
+            "022",
+            "039"
+          ],
+          "statusCode": "6",
+          "statusDate": "2001-10-03",
+          "firstUseAnywhereDate": "1999-01-01",
+          "firstUseInCommerceDate": "1999-07-31",
+          "primaryCode": "025"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "4",
+          "internationalCode": [
+            "028"
+          ],
+          "usCode": [
+            "022",
+            "023",
+            "038",
+            "050"
+          ],
+          "statusCode": "6",
+          "statusDate": "2001-10-03",
+          "firstUseAnywhereDate": "1999-01-01",
+          "firstUseInCommerceDate": "1999-07-31",
+          "primaryCode": "028"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "3",
+          "internationalCode": [
+            "035"
+          ],
+          "usCode": [
+            "100",
+            "101",
+            "102"
+          ],
+          "statusCode": "6",
+          "statusDate": "2001-10-03",
+          "firstUseAnywhereDate": "1999-09-01",
+          "firstUseInCommerceDate": "1999-09-01",
+          "primaryCode": "035"
+        }
+      ],
+      "events": [
+        {
+          "code": "ASGN",
+          "type": "I",
+          "descriptionText": "AUTOMATIC UPDATE OF ASSIGNMENT OF OWNERSHIP",
+          "date": "2017-11-22",
+          "number": 37
+        },
+        {
+          "code": "NAS8",
+          "type": "E",
+          "descriptionText": "NOTICE OF ACCEPTANCE OF SEC. 8 - E-MAILED",
+          "date": "2014-06-13",
+          "number": 36
+        },
+        {
+          "code": "RNL1",
+          "type": "Q",
+          "descriptionText": "REGISTERED AND RENEWED (FIRST RENEWAL - 10 YRS)",
+          "date": "2014-06-13",
+          "number": 35
+        },
+        {
+          "code": "9G8P",
+          "type": "O",
+          "descriptionText": "REGISTERED - SEC. 9 GRANTED/CHECK RECORD FOR SEC. 8",
+          "date": "2014-06-13",
+          "number": 34
+        },
+        {
+          "code": "8PRT",
+          "type": "O",
+          "descriptionText": "REGISTERED - PARTIAL SEC. 8 (10-YR) ACCEPTED",
+          "date": "2014-06-13",
+          "number": 33
+        },
+        {
+          "code": "APRE",
+          "type": "A",
+          "descriptionText": "CASE ASSIGNED TO POST REGISTRATION PARALEGAL",
+          "date": "2014-06-13",
+          "number": 32
+        },
+        {
+          "code": "E89R",
+          "type": "I",
+          "descriptionText": "TEAS SECTION 8 ",
+          "date": "2014-05-27",
+          "number": 31
+        },
+        {
+          "code": "C15A",
+          "type": "O",
+          "descriptionText": "REGISTERED - SEC. 8 (6-YR) ACCEPTED ",
+          "date": "2010-06-30",
+          "number": 30
+        },
+        {
+          "code": "APRE",
+          "type": "A",
+          "descriptionText": "CASE ASSIGNED TO POST REGISTRATION PARALEGAL",
+          "date": "2010-06-11",
+          "number": 29
+        },
+        {
+          "code": "E815",
+          "type": "I",
+          "descriptionText": "TEAS SECTION 8 ",
+          "date": "2010-05-25",
+          "number": 28
+        },
+        {
+          "code": "ARAA",
+          "type": "I",
+          "descriptionText": "ATTORNEY/DOM.REP.REVOKED AND/OR APPOINTED",
+          "date": "2006-04-13",
+          "number": 27
+        },
+        {
+          "code": "REAP",
+          "type": "I",
+          "descriptionText": "TEAS REVOKE/APP/CHANGE ADDR OF ATTY/DOM REP RECEIVED",
+          "date": "2006-04-13",
+          "number": 26
+        },
+        {
+          "code": "R.PR",
+          "type": "A",
+          "descriptionText": "REGISTERED-PRINCIPAL REGISTER",
+          "date": "2005-05-24",
+          "number": 25
+        },
+        {
+          "code": "OP.T",
+          "type": "T",
+          "descriptionText": "OPPOSITION TERMINATED NO. 999999",
+          "date": "2005-03-22",
+          "number": 24
+        },
+        {
+          "code": "OP.D",
+          "type": "T",
+          "descriptionText": "OPPOSITION DISMISSED NO. 999999",
+          "date": "2005-03-22",
+          "number": 23
+        },
+        {
+          "code": "COAR",
+          "type": "I",
+          "descriptionText": "TEAS CHANGE OF OWNER ADDRESS RECEIVED",
+          "date": "2005-02-10",
+          "number": 22
+        },
+        {
+          "code": "COAR",
+          "type": "I",
+          "descriptionText": "TEAS CHANGE OF OWNER ADDRESS RECEIVED",
+          "date": "2005-02-10",
+          "number": 21
+        },
+        {
+          "code": "OP.I",
+          "type": "T",
+          "descriptionText": "OPPOSITION INSTITUTED NO. 999999",
+          "date": "2004-07-14",
+          "number": 20
+        },
+        {
+          "code": "OPPF",
+          "type": "T",
+          "descriptionText": "OPPOSITION PAPERS RECEIVED AT TTAB",
+          "date": "2004-07-13",
+          "number": 19
+        },
+        {
+          "code": "PUBO",
+          "type": "A",
+          "descriptionText": "PUBLISHED FOR OPPOSITION",
+          "date": "2004-07-06",
+          "number": 18
+        },
+        {
+          "code": "NPUB",
+          "type": "O",
+          "descriptionText": "NOTICE OF PUBLICATION",
+          "date": "2004-06-16",
+          "number": 17
+        },
+        {
+          "code": "CNSA",
+          "type": "O",
+          "descriptionText": "APPROVED FOR PUB - PRINCIPAL REGISTER",
+          "date": "2004-04-13",
+          "number": 16
+        },
+        {
+          "code": "CFIT",
+          "type": "O",
+          "descriptionText": "CASE FILE IN TICRS",
+          "date": "2004-03-30",
+          "number": 15
+        },
+        {
+          "code": "PETG",
+          "type": "O",
+          "descriptionText": "PETITION TO REVIVE-GRANTED",
+          "date": "2004-03-29",
+          "number": 14
+        },
+        {
+          "code": "PETR",
+          "type": "I",
+          "descriptionText": "PETITION TO REVIVE-RECEIVED",
+          "date": "2003-11-24",
+          "number": 13
+        },
+        {
+          "code": "MAIL",
+          "type": "I",
+          "descriptionText": "PAPER RECEIVED",
+          "date": "2003-11-21",
+          "number": 12
+        },
+        {
+          "code": "ABN2",
+          "type": "O",
+          "descriptionText": "ABANDONMENT - FAILURE TO RESPOND OR LATE RESPONSE",
+          "date": "2003-10-29",
+          "number": 11
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "2003-10-27",
+          "number": 10
+        },
+        {
+          "code": "GNSI",
+          "type": "S",
+          "descriptionText": "INQUIRY TO SUSPENSION E-MAILED",
+          "date": "2003-03-13",
+          "number": 9
+        },
+        {
+          "code": "TCCA",
+          "type": "I",
+          "descriptionText": "TEAS CHANGE OF CORRESPONDENCE RECEIVED",
+          "date": "2002-11-04",
+          "number": 8
+        },
+        {
+          "code": "CNSL",
+          "type": "S",
+          "descriptionText": "LETTER OF SUSPENSION MAILED",
+          "date": "2002-08-15",
+          "number": 7
+        },
+        {
+          "code": "CRFA",
+          "type": "I",
+          "descriptionText": "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+          "date": "2002-06-20",
+          "number": 6
+        },
+        {
+          "code": "CRFA",
+          "type": "I",
+          "descriptionText": "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+          "date": "2002-06-24",
+          "number": 5
+        },
+        {
+          "code": "MAIL",
+          "type": "I",
+          "descriptionText": "PAPER RECEIVED",
+          "date": "2002-06-24",
+          "number": 4
+        },
+        {
+          "code": "CNRT",
+          "type": "F",
+          "descriptionText": "NON-FINAL ACTION MAILED",
+          "date": "2001-12-20",
+          "number": 3
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "2001-12-13",
+          "number": 2
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "2001-12-03",
+          "number": 1
+        }
+      ],
+      "owners": [
+        {
+          "entryNumber": 1,
+          "partyType": "31",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "16",
+          "partyName": "GOOGLE LLC",
+          "address1": "1600 AMPHITHEATRE PARKWAY",
+          "address2": null,
+          "city": "MOUNTAIN VIEW",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "30",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "1600 Amphitheatre Parkway",
+          "address2": "TRADEMARK DEPT",
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "20",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "2400 BAYSHORE PARKWAY",
+          "address2": "TRADEMARK DEPT",
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "10",
+          "nationality": [
+            "CA"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "2400 Bayshore Parkway",
+          "address2": null,
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        }
+      ],
+      "markDrawingCode": "1000",
+      "caseFileStatements": {
+        "GS0091": "Mouse pads[, calculators]",
+        "GS0181": "Bags, namely, tote bags, duffle bags, backpacks; luggage tags; umbrellas",
+        "GS0281": "sporting equipment, namely, plastic exercise balls",
+        "GS0161": "[Books, namely, children's books, books on the subject of computers,] notebooks, pens, greeting cards, stickers, decals",
+        "GS0251": "Clothing, namely, shirts, t-shirts,[ vests,] hats, caps,[ boxer shorts]",
+        "GS0351": "Electronic retailing services via computer featuring mouse pads, flashlights, lamps, [ license plate frames and holders, ] books, notebooks, pens, greeting cards, stickers, decals, tote bags, duffel bags, backpacks, luggage tags, umbrellas, mugs, tumblers, shirts, t-shirts,[ modem cords, vests, ]",
+        "GS0121": "[ License plate frames and holders ]",
+        "GS0111": "Flashlights, lamps",
+        "GS0211": "Mugs, tumblers"
+      },
+      "correspondenceName": "Monique Liburd",
+      "correspondenceAddress1": "Google Inc.",
+      "correspondenceAddress2": "1600 Amphitheatre Parkway",
+      "attorneyName": "Monique Liburd ",
+      "attorneyDocketNumber": "GT-0001-US-3",
+      "currentLocation": "TMO LAW OFFICE 114",
+      "statusCode": "800",
+      "liveOrDeadStatus": "Live",
+      "logo": "https://tsdr.uspto.gov/img/76314783/large"
+    },
+    {
+      "id": "62a8713408c6f9240d319141",
+      "markIdentification": "GOOGLE",
+      "filingDate": "2001-09-18",
+      "transactionDate": "2020-05-31",
+      "statusDate": "2017-04-14",
+      "serialNumber": 76314811,
+      "registrationNumber": "3140793",
+      "classification": [
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "5",
+          "internationalCode": [
+            "009"
+          ],
+          "usCode": [
+            "021",
+            "023",
+            "026",
+            "036",
+            "038"
+          ],
+          "statusCode": "2",
+          "statusDate": "2017-04-14",
+          "firstUseAnywhereDate": "2000-11-01",
+          "firstUseInCommerceDate": "2000-11-01",
+          "primaryCode": "009"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "5",
+          "internationalCode": [
+            "011"
+          ],
+          "usCode": [
+            "013",
+            "021",
+            "023",
+            "031",
+            "034"
+          ],
+          "statusCode": "2",
+          "statusDate": "2017-04-14",
+          "firstUseAnywhereDate": "2002-06-01",
+          "firstUseInCommerceDate": "2002-06-01",
+          "primaryCode": "011"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "6",
+          "internationalCode": [
+            "012"
+          ],
+          "usCode": [
+            "019",
+            "021",
+            "023",
+            "031",
+            "035",
+            "044"
+          ],
+          "statusCode": "2",
+          "statusDate": "2017-04-14",
+          "firstUseAnywhereDate": "2002-06-01",
+          "firstUseInCommerceDate": "2002-06-01",
+          "primaryCode": "012"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "8",
+          "internationalCode": [
+            "016"
+          ],
+          "usCode": [
+            "002",
+            "005",
+            "022",
+            "023",
+            "029",
+            "037",
+            "038",
+            "050"
+          ],
+          "statusCode": "2",
+          "statusDate": "2017-04-14",
+          "firstUseAnywhereDate": "2002-06-01",
+          "firstUseInCommerceDate": "2002-06-01",
+          "primaryCode": "016"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "5",
+          "internationalCode": [
+            "018"
+          ],
+          "usCode": [
+            "001",
+            "002",
+            "003",
+            "022",
+            "041"
+          ],
+          "statusCode": "2",
+          "statusDate": "2017-04-14",
+          "firstUseAnywhereDate": "2002-06-01",
+          "firstUseInCommerceDate": "2002-06-01",
+          "primaryCode": "018"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "8",
+          "internationalCode": [
+            "021"
+          ],
+          "usCode": [
+            "002",
+            "013",
+            "023",
+            "029",
+            "030",
+            "033",
+            "040",
+            "050"
+          ],
+          "statusCode": "2",
+          "statusDate": "2017-04-14",
+          "firstUseAnywhereDate": "2002-06-01",
+          "firstUseInCommerceDate": "2002-06-01",
+          "primaryCode": "021"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "2",
+          "internationalCode": [
+            "025"
+          ],
+          "usCode": [
+            "022",
+            "039"
+          ],
+          "statusCode": "2",
+          "statusDate": "2017-04-14",
+          "firstUseAnywhereDate": "2001-01-01",
+          "firstUseInCommerceDate": "2001-01-01",
+          "primaryCode": "025"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "4",
+          "internationalCode": [
+            "028"
+          ],
+          "usCode": [
+            "022",
+            "023",
+            "038",
+            "050"
+          ],
+          "statusCode": "2",
+          "statusDate": "2017-04-14",
+          "firstUseAnywhereDate": "2001-01-01",
+          "firstUseInCommerceDate": "2001-01-01",
+          "primaryCode": "028"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "3",
+          "internationalCode": [
+            "035"
+          ],
+          "usCode": [
+            "100",
+            "101",
+            "102"
+          ],
+          "statusCode": "2",
+          "statusDate": "2017-04-14",
+          "firstUseAnywhereDate": "1999-07-31",
+          "firstUseInCommerceDate": "1999-07-31",
+          "primaryCode": "035"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "3",
+          "internationalCode": [
+            "038"
+          ],
+          "usCode": [
+            "100",
+            "101",
+            "104"
+          ],
+          "statusCode": "2",
+          "statusDate": "2017-04-14",
+          "firstUseAnywhereDate": "1997-09-01",
+          "firstUseInCommerceDate": "1997-09-01",
+          "primaryCode": "038"
+        },
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "2",
+          "internationalCode": [
+            "042"
+          ],
+          "usCode": [
+            "100",
+            "101"
+          ],
+          "statusCode": "2",
+          "statusDate": "2017-04-14",
+          "firstUseAnywhereDate": "1997-09-01",
+          "firstUseInCommerceDate": "1997-09-01",
+          "primaryCode": "042"
+        }
+      ],
+      "events": [
+        {
+          "code": "CAEX",
+          "type": "O",
+          "descriptionText": "CANCELLED SEC. 8 (10-YR)/EXPIRED SECTION 9",
+          "date": "2017-04-14",
+          "number": 53
+        },
+        {
+          "code": "REM2",
+          "type": "E",
+          "descriptionText": "COURTESY REMINDER - SEC. 8 (10-YR)/SEC. 9 E-MAILED",
+          "date": "2015-09-12",
+          "number": 52
+        },
+        {
+          "code": "A7OK",
+          "type": "O",
+          "descriptionText": "AMENDMENT UNDER SECTION 7 ¿ PROCESSED",
+          "date": "2012-02-22",
+          "number": 51
+        },
+        {
+          "code": "ES7R",
+          "type": "I",
+          "descriptionText": "TEAS SECTION 7 REQUEST RECEIVED",
+          "date": "2012-02-15",
+          "number": 50
+        },
+        {
+          "code": "NA85",
+          "type": "E",
+          "descriptionText": "NOTICE OF ACCEPTANCE OF SEC. 8 ",
+          "date": "2011-11-15",
+          "number": 49
+        },
+        {
+          "code": "C15P",
+          "type": "O",
+          "descriptionText": "REGISTERED - PARTIAL SEC. 8 (6-YR) ACCEPTED ",
+          "date": "2011-11-15",
+          "number": 48
+        },
+        {
+          "code": "815F",
+          "type": "I",
+          "descriptionText": "REGISTERED - SEC. 8 (6-YR) ",
+          "date": "2011-10-14",
+          "number": 47
+        },
+        {
+          "code": "APRE",
+          "type": "A",
+          "descriptionText": "CASE ASSIGNED TO POST REGISTRATION PARALEGAL",
+          "date": "2011-11-15",
+          "number": 46
+        },
+        {
+          "code": "E815",
+          "type": "I",
+          "descriptionText": "TEAS SECTION 8 ",
+          "date": "2011-10-14",
+          "number": 45
+        },
+        {
+          "code": "R.PR",
+          "type": "A",
+          "descriptionText": "REGISTERED-PRINCIPAL REGISTER",
+          "date": "2006-09-12",
+          "number": 44
+        },
+        {
+          "code": "OP.T",
+          "type": "T",
+          "descriptionText": "OPPOSITION TERMINATED NO. 999999",
+          "date": "2006-07-30",
+          "number": 43
+        },
+        {
+          "code": "OP.D",
+          "type": "T",
+          "descriptionText": "OPPOSITION DISMISSED NO. 999999",
+          "date": "2006-07-30",
+          "number": 42
+        },
+        {
+          "code": "OP.I",
+          "type": "T",
+          "descriptionText": "OPPOSITION INSTITUTED NO. 999999",
+          "date": "2006-04-08",
+          "number": 41
+        },
+        {
+          "code": "OPPF",
+          "type": "T",
+          "descriptionText": "OPPOSITION PAPERS RECEIVED AT TTAB",
+          "date": "2006-03-31",
+          "number": 40
+        },
+        {
+          "code": "ETOP",
+          "type": "T",
+          "descriptionText": "EXTENSION OF TIME TO OPPOSE PROCESS - TERMINATED",
+          "date": "2006-04-01",
+          "number": 39
+        },
+        {
+          "code": "ETOF",
+          "type": "T",
+          "descriptionText": "EXTENSION OF TIME TO OPPOSE RECEIVED",
+          "date": "2005-11-27",
+          "number": 38
+        },
+        {
+          "code": "PUBO",
+          "type": "A",
+          "descriptionText": "PUBLISHED FOR OPPOSITION",
+          "date": "2005-11-01",
+          "number": 37
+        },
+        {
+          "code": "NPUB",
+          "type": "O",
+          "descriptionText": "NOTICE OF PUBLICATION",
+          "date": "2005-10-12",
+          "number": 36
+        },
+        {
+          "code": "PREV",
+          "type": "O",
+          "descriptionText": "LAW OFFICE PUBLICATION REVIEW COMPLETED",
+          "date": "2005-09-06",
+          "number": 35
+        },
+        {
+          "code": "ALIE",
+          "type": "A",
+          "descriptionText": "ASSIGNED TO LIE",
+          "date": "2005-09-06",
+          "number": 34
+        },
+        {
+          "code": "ALIE",
+          "type": "A",
+          "descriptionText": "ASSIGNED TO LIE",
+          "date": "2005-08-26",
+          "number": 33
+        },
+        {
+          "code": "CNSA",
+          "type": "O",
+          "descriptionText": "APPROVED FOR PUB - PRINCIPAL REGISTER",
+          "date": "2005-08-24",
+          "number": 32
+        },
+        {
+          "code": "GNEA",
+          "type": "O",
+          "descriptionText": "EXAMINERS AMENDMENT E-MAILED",
+          "date": "2005-08-24",
+          "number": 31
+        },
+        {
+          "code": "CNEA",
+          "type": "R",
+          "descriptionText": "EXAMINERS AMENDMENT -WRITTEN",
+          "date": "2005-08-24",
+          "number": 30
+        },
+        {
+          "code": "ZZZX",
+          "type": "Z",
+          "descriptionText": "PREVIOUS ALLOWANCE COUNT WITHDRAWN",
+          "date": "2005-08-10",
+          "number": 29
+        },
+        {
+          "code": "CWBP",
+          "type": "Z",
+          "descriptionText": "WITHDRAWN BEFORE PUBLICATION",
+          "date": "2005-07-29",
+          "number": 28
+        },
+        {
+          "code": "PREV",
+          "type": "O",
+          "descriptionText": "LAW OFFICE PUBLICATION REVIEW COMPLETED",
+          "date": "2005-04-22",
+          "number": 27
+        },
+        {
+          "code": "ALIE",
+          "type": "A",
+          "descriptionText": "ASSIGNED TO LIE",
+          "date": "2005-04-18",
+          "number": 26
+        },
+        {
+          "code": "ALIE",
+          "type": "A",
+          "descriptionText": "ASSIGNED TO LIE",
+          "date": "2005-04-15",
+          "number": 25
+        },
+        {
+          "code": "CNSA",
+          "type": "O",
+          "descriptionText": "APPROVED FOR PUB - PRINCIPAL REGISTER",
+          "date": "2005-04-13",
+          "number": 24
+        },
+        {
+          "code": "ACEC",
+          "type": "I",
+          "descriptionText": "AMENDMENT FROM APPLICANT ENTERED",
+          "date": "2005-03-22",
+          "number": 23
+        },
+        {
+          "code": "CRFA",
+          "type": "I",
+          "descriptionText": "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+          "date": "2005-02-17",
+          "number": 22
+        },
+        {
+          "code": "TROA",
+          "type": "I",
+          "descriptionText": "TEAS RESPONSE TO OFFICE ACTION RECEIVED",
+          "date": "2005-02-17",
+          "number": 21
+        },
+        {
+          "code": "PETG",
+          "type": "O",
+          "descriptionText": "PETITION TO REVIVE-GRANTED",
+          "date": "2005-02-17",
+          "number": 20
+        },
+        {
+          "code": "PROA",
+          "type": "I",
+          "descriptionText": "TEAS PETITION TO REVIVE RECEIVED",
+          "date": "2005-02-17",
+          "number": 19
+        },
+        {
+          "code": "COAR",
+          "type": "I",
+          "descriptionText": "TEAS CHANGE OF OWNER ADDRESS RECEIVED",
+          "date": "2005-02-10",
+          "number": 18
+        },
+        {
+          "code": "TCCA",
+          "type": "I",
+          "descriptionText": "TEAS CHANGE OF CORRESPONDENCE RECEIVED",
+          "date": "2005-02-10",
+          "number": 17
+        },
+        {
+          "code": "MAB2",
+          "type": "O",
+          "descriptionText": "ABANDONMENT NOTICE MAILED - FAILURE TO RESPOND",
+          "date": "2005-01-06",
+          "number": 16
+        },
+        {
+          "code": "ABN2",
+          "type": "O",
+          "descriptionText": "ABANDONMENT - FAILURE TO RESPOND OR LATE RESPONSE",
+          "date": "2005-01-06",
+          "number": 15
+        },
+        {
+          "code": "GNFR",
+          "type": "O",
+          "descriptionText": "FINAL REFUSAL E-MAILED",
+          "date": "2004-06-04",
+          "number": 14
+        },
+        {
+          "code": "CFIT",
+          "type": "O",
+          "descriptionText": "CASE FILE IN TICRS",
+          "date": "2003-10-08",
+          "number": 13
+        },
+        {
+          "code": "CNSL",
+          "type": "S",
+          "descriptionText": "LETTER OF SUSPENSION MAILED",
+          "date": "2003-03-28",
+          "number": 12
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "2003-01-03",
+          "number": 11
+        },
+        {
+          "code": "PETG",
+          "type": "O",
+          "descriptionText": "PETITION TO REVIVE-GRANTED",
+          "date": "2002-12-30",
+          "number": 10
+        },
+        {
+          "code": "PETR",
+          "type": "I",
+          "descriptionText": "PETITION TO REVIVE-RECEIVED",
+          "date": "2002-10-28",
+          "number": 9
+        },
+        {
+          "code": "CRFA",
+          "type": "I",
+          "descriptionText": "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+          "date": "2002-10-28",
+          "number": 8
+        },
+        {
+          "code": "MAIL",
+          "type": "I",
+          "descriptionText": "PAPER RECEIVED",
+          "date": "2002-10-28",
+          "number": 7
+        },
+        {
+          "code": "TCCA",
+          "type": "I",
+          "descriptionText": "TEAS CHANGE OF CORRESPONDENCE RECEIVED",
+          "date": "2002-11-04",
+          "number": 6
+        },
+        {
+          "code": "ABN2",
+          "type": "O",
+          "descriptionText": "ABANDONMENT - FAILURE TO RESPOND OR LATE RESPONSE",
+          "date": "2002-09-19",
+          "number": 5
+        },
+        {
+          "code": "CNRT",
+          "type": "F",
+          "descriptionText": "NON-FINAL ACTION MAILED",
+          "date": "2002-01-17",
+          "number": 4
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "2002-01-15",
+          "number": 3
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "2001-12-28",
+          "number": 2
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "2001-12-04",
+          "number": 1
+        }
+      ],
+      "owners": [
+        {
+          "entryNumber": 1,
+          "partyType": "30",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "GOOGLE INC.",
+          "address1": "1600 Amphitheatre Parkway",
+          "address2": "Building 41",
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "20",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "GOOGLE INC.",
+          "address1": "1600 Amphitheatre Parkway",
+          "address2": "Building 41",
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "11",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "GOOGLE INC.",
+          "address1": "1600 Amphitheatre Parkway",
+          "address2": "Building 41",
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "10",
+          "nationality": [
+            "CA"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "2400 Bayshore Parkway",
+          "address2": null,
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        }
+      ],
+      "markDrawingCode": "5000",
+      "caseFileStatements": {
+        "DM0000": "The mark consists of a stylized version of the word GOOGLE. The first letter \"G\" is blue; the second letter \"O\" is red; the third letter \"O\" is yellow; the fourth letter \"G\" is blue; the fifth letter \" L\" is green; and the sixth letter \"E\" is red.",
+        "GS0091": "Computer software for searching, compiling, indexing and organizing information on computer networks; computer hardware, computer software for searching, compiling, indexing, and organizing information within individual workstations and personal computers; computer software for creating indexes of information, indexes of web sites and indexes of other information resources; mouse pads",
+        "A00001": "The drawing is amended to appear as follows: PUBLISH CUT",
+        "GS0181": "Bags, namely, tote bags, duffle bags, backpacks; umbrellas",
+        "GS0281": "Toys and sporting equipment, namely plastic exercise balls",
+        "GS0161": "notebooks, pens, stickers, decals",
+        "GS0381": "providing multiple user access to proprietary collections of information by means of global computer information networks",
+        "GS0251": "Clothing, namely, shirts, t-shirts, vests, hats, caps, boxer shorts; children's clothing, namely, t-shirts",
+        "GS0351": "Electronic retailing services via computer featuring mouse pads, lamps, license plate frames and holders, notebooks, pens, stickers, decals, tote bags, duffle bags, backpacks, umbrellas, mugs, tumblers, shirts, t-shirts, modem cords, toys, vests, caps, hats, and other clothing items",
+        "CC0000": "The color(s) blue, red, yellow, and green is/are claimed as a feature of the mark.",
+        "GS0121": "License plate frames and holders",
+        "GS0111": "lamps",
+        "GS0211": "Mugs, tumblers",
+        "GS0421": "Computer services, namely, providing software interfaces available over a network in order to create personalized on-line information services; extraction and retrieval of information and data mining by means of global computer networks; creating indexes of information, indexes of web sites and indexes of other information sources in connection with global computer network; providing information from searchable indexes and databases of information, including text, electronic documents, databases, graphic and audio visual information, by means of global computer information networks"
+      },
+      "correspondenceName": "Johanna Sistek",
+      "correspondenceAddress1": "Google Inc.",
+      "correspondenceAddress2": "1600 Amphitheatre Parkway",
+      "attorneyName": "Johanna Sistek ",
+      "attorneyDocketNumber": "08164.0114",
+      "currentLocation": null,
+      "statusCode": "710",
+      "liveOrDeadStatus": "Live",
+      "logo": "https://tsdr.uspto.gov/img/76314811/large"
+    },
+    {
+      "id": "62a8730208c6f9240d3915a2",
+      "markIdentification": "GOOGLE",
+      "filingDate": "2007-01-12",
+      "transactionDate": "2022-01-17",
+      "statusDate": "2018-04-04",
+      "serialNumber": 77082272,
+      "registrationNumber": "4202570",
+      "classification": [
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "2",
+          "internationalCode": [
+            "042"
+          ],
+          "usCode": [
+            "100",
+            "101"
+          ],
+          "statusCode": "6",
+          "statusDate": "2007-01-19",
+          "firstUseAnywhereDate": "1997-09-01",
+          "firstUseInCommerceDate": "1997-09-01",
+          "primaryCode": "042"
+        }
+      ],
+      "events": [
+        {
+          "code": "E89R",
+          "type": "I",
+          "descriptionText": "TEAS SECTION 8 ",
+          "date": "2022-01-14",
+          "number": 48
+        },
+        {
+          "code": "REM2",
+          "type": "E",
+          "descriptionText": "COURTESY REMINDER - SEC. 8 (10-YR)/SEC. 9 E-MAILED",
+          "date": "2021-09-04",
+          "number": 47
+        },
+        {
+          "code": "NOSU",
+          "type": "I",
+          "descriptionText": "NOTICE OF SUIT",
+          "date": "2018-11-08",
+          "number": 46
+        },
+        {
+          "code": "NOSU",
+          "type": "I",
+          "descriptionText": "NOTICE OF SUIT",
+          "date": "2018-07-24",
+          "number": 45
+        },
+        {
+          "code": "NA85",
+          "type": "E",
+          "descriptionText": "NOTICE OF ACCEPTANCE OF SEC. 8 ",
+          "date": "2018-04-04",
+          "number": 44
+        },
+        {
+          "code": "C15A",
+          "type": "O",
+          "descriptionText": "REGISTERED - SEC. 8 (6-YR) ACCEPTED ",
+          "date": "2018-04-04",
+          "number": 43
+        },
+        {
+          "code": "APRE",
+          "type": "A",
+          "descriptionText": "CASE ASSIGNED TO POST REGISTRATION PARALEGAL",
+          "date": "2018-04-04",
+          "number": 42
+        },
+        {
+          "code": "E815",
+          "type": "I",
+          "descriptionText": "TEAS SECTION 8 ",
+          "date": "2018-03-26",
+          "number": 41
+        },
+        {
+          "code": "TCCA",
+          "type": "I",
+          "descriptionText": "TEAS CHANGE OF CORRESPONDENCE RECEIVED",
+          "date": "2018-03-26",
+          "number": 40
+        },
+        {
+          "code": "ASGN",
+          "type": "I",
+          "descriptionText": "AUTOMATIC UPDATE OF ASSIGNMENT OF OWNERSHIP",
+          "date": "2017-11-22",
+          "number": 39
+        },
+        {
+          "code": "REM1",
+          "type": "E",
+          "descriptionText": "COURTESY REMINDER - SEC. 8 (6-YR) E-MAILED",
+          "date": "2017-09-04",
+          "number": 38
+        },
+        {
+          "code": "R.PR",
+          "type": "A",
+          "descriptionText": "REGISTERED-PRINCIPAL REGISTER",
+          "date": "2012-09-04",
+          "number": 37
+        },
+        {
+          "code": "SUNA",
+          "type": "E",
+          "descriptionText": "NOTICE OF ACCEPTANCE OF STATEMENT OF USE E-MAILED",
+          "date": "2012-07-31",
+          "number": 36
+        },
+        {
+          "code": "REGV",
+          "type": "O",
+          "descriptionText": "LAW OFFICE REGISTRATION REVIEW COMPLETED",
+          "date": "2012-07-30",
+          "number": 35
+        },
+        {
+          "code": "CNPR",
+          "type": "P",
+          "descriptionText": "ALLOWED PRINCIPAL REGISTER - SOU ACCEPTED",
+          "date": "2012-07-25",
+          "number": 34
+        },
+        {
+          "code": "EXRA",
+          "type": "E",
+          "descriptionText": "NOTICE OF APPROVAL OF EXTENSION REQUEST E-MAILED",
+          "date": "2012-07-21",
+          "number": 33
+        },
+        {
+          "code": "SUPC",
+          "type": "I",
+          "descriptionText": "STATEMENT OF USE PROCESSING COMPLETE",
+          "date": "2012-07-20",
+          "number": 32
+        },
+        {
+          "code": "IUAF",
+          "type": "S",
+          "descriptionText": "USE AMENDMENT FILED",
+          "date": "2012-06-14",
+          "number": 31
+        },
+        {
+          "code": "EX1G",
+          "type": "S",
+          "descriptionText": "EXTENSION 1 GRANTED",
+          "date": "2012-07-20",
+          "number": 30
+        },
+        {
+          "code": "EXT1",
+          "type": "S",
+          "descriptionText": "EXTENSION 1 FILED",
+          "date": "2012-06-14",
+          "number": 29
+        },
+        {
+          "code": "AITU",
+          "type": "A",
+          "descriptionText": "CASE ASSIGNED TO INTENT TO USE PARALEGAL",
+          "date": "2012-07-03",
+          "number": 28
+        },
+        {
+          "code": "EEXT",
+          "type": "I",
+          "descriptionText": "TEAS EXTENSION RECEIVED",
+          "date": "2012-06-14",
+          "number": 27
+        },
+        {
+          "code": "EISU",
+          "type": "I",
+          "descriptionText": "TEAS STATEMENT OF USE RECEIVED",
+          "date": "2012-06-14",
+          "number": 26
+        },
+        {
+          "code": "NOAM",
+          "type": "E",
+          "descriptionText": "NOA E-MAILED - SOU REQUIRED FROM APPLICANT",
+          "date": "2012-02-28",
+          "number": 25
+        },
+        {
+          "code": "NPUB",
+          "type": "E",
+          "descriptionText": "OFFICIAL GAZETTE PUBLICATION CONFIRMATION E-MAILED",
+          "date": "2012-01-03",
+          "number": 24
+        },
+        {
+          "code": "PUBO",
+          "type": "A",
+          "descriptionText": "PUBLISHED FOR OPPOSITION",
+          "date": "2012-01-03",
+          "number": 23
+        },
+        {
+          "code": "NONP",
+          "type": "E",
+          "descriptionText": "NOTIFICATION OF NOTICE OF PUBLICATION E-MAILED",
+          "date": "2011-12-14",
+          "number": 22
+        },
+        {
+          "code": "PREV",
+          "type": "O",
+          "descriptionText": "LAW OFFICE PUBLICATION REVIEW COMPLETED",
+          "date": "2011-11-30",
+          "number": 21
+        },
+        {
+          "code": "CNSA",
+          "type": "P",
+          "descriptionText": "APPROVED FOR PUB - PRINCIPAL REGISTER",
+          "date": "2011-11-21",
+          "number": 20
+        },
+        {
+          "code": "RCCK",
+          "type": "S",
+          "descriptionText": "SUSPENSION CHECKED ¿ TO ATTORNEY FOR ACTION",
+          "date": "2011-11-17",
+          "number": 19
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2011-05-17",
+          "number": 18
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2010-11-17",
+          "number": 17
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2010-05-14",
+          "number": 16
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2009-11-12",
+          "number": 15
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2009-05-11",
+          "number": 14
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2008-11-10",
+          "number": 13
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2008-05-07",
+          "number": 12
+        },
+        {
+          "code": "ALIE",
+          "type": "A",
+          "descriptionText": "ASSIGNED TO LIE",
+          "date": "2008-05-07",
+          "number": 11
+        },
+        {
+          "code": "GNS3",
+          "type": "O",
+          "descriptionText": "NOTIFICATION OF LETTER OF SUSPENSION E-MAILED",
+          "date": "2007-11-07",
+          "number": 10
+        },
+        {
+          "code": "GNSL",
+          "type": "S",
+          "descriptionText": "LETTER OF SUSPENSION E-MAILED",
+          "date": "2007-11-07",
+          "number": 9
+        },
+        {
+          "code": "CNSL",
+          "type": "R",
+          "descriptionText": "SUSPENSION LETTER  WRITTEN",
+          "date": "2007-11-07",
+          "number": 8
+        },
+        {
+          "code": "TEME",
+          "type": "I",
+          "descriptionText": "TEAS/EMAIL CORRESPONDENCE ENTERED",
+          "date": "2007-11-03",
+          "number": 7
+        },
+        {
+          "code": "CRFA",
+          "type": "I",
+          "descriptionText": "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+          "date": "2007-11-02",
+          "number": 6
+        },
+        {
+          "code": "TROA",
+          "type": "I",
+          "descriptionText": "TEAS RESPONSE TO OFFICE ACTION RECEIVED",
+          "date": "2007-11-02",
+          "number": 5
+        },
+        {
+          "code": "GNRT",
+          "type": "F",
+          "descriptionText": "NON-FINAL ACTION E-MAILED",
+          "date": "2007-05-02",
+          "number": 4
+        },
+        {
+          "code": "CNRT",
+          "type": "R",
+          "descriptionText": "NON-FINAL ACTION  WRITTEN",
+          "date": "2007-05-02",
+          "number": 3
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "2007-05-02",
+          "number": 2
+        },
+        {
+          "code": "NWAP",
+          "type": "I",
+          "descriptionText": "NEW APPLICATION ENTERED IN TRAM",
+          "date": "2007-01-19",
+          "number": 1
+        }
+      ],
+      "owners": [
+        {
+          "entryNumber": 1,
+          "partyType": "31",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "16",
+          "partyName": "GOOGLE LLC",
+          "address1": null,
+          "address2": "1600 AMPHITHEATRE PARKWAY",
+          "city": "MOUNTAIN VIEW",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "30",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "1600 Amphitheatre Parkway",
+          "address2": null,
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "20",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "1600 Amphitheatre Parkway",
+          "address2": null,
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "10",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "1600 Amphitheatre Parkway",
+          "address2": null,
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        }
+      ],
+      "markDrawingCode": "4000",
+      "caseFileStatements": {
+        "GS0421": "Computer services, namely, search engine services; computer services, namely, acting as an application service provider to host the applications of others; computer services, namely, acting as an application service provider to host, manage, develop, and maintain applications, software, websites, and databases in the field of in personal productivity, collaboration, communication, and publishing; computer services, namely, monitoring, tracking and reporting on the performance of the website and online content of others; computer services in the nature of customized web pages featuring user defined information, personal profiles, and information; providing on-line non-downloadable software for use in personal productivity, collaboration, communication, and publishing; providing on-line non-downloadable software for use in database management, for use as a spreadsheet, and for word processing; providing on-line non-downloadable computer software for tracking documents over computer networks, intranets and the Internet; providing on-line non-downloadable software for creating and maintaining websites and blogs; providing on-line non-downloadable software for document collaboration and revision tracking; providing on-line non-downloadable software for granting and controlling access to documents; providing on-line non-downloadable software for managing individual and group calendars and schedules; providing on-line non-downloadable software featuring online storage of documents and databases; providing on-line non-downloadable software for language translation; providing on-line computer mapping services; mapping services, namely, providing a website and website links to geographic information, map images, and trip routing; providing online non-downloadable software for tracking, managing, and optimizing advertising and promotional campaigns, and calculating return on investment in connection with the same; providing online non-downloadable software for tracking website traffic, e-commerce activity, customer loyalty, and sales conversion rates; providing online non-downloadable software for optimizing website navigation; providing online non-downloadable software for managing, collecting, monitoring and analyzing web, blog and other online site traffic, user preferences and links in real time; technical support services, namely, troubleshooting of problems of software for managing, collecting, monitoring and analyzing web, blog and other online site traffic, user preferences and links; technical support services, namely, troubleshooting of computer hardware, computer software, and network problems; computer and computer software consultation services"
+      },
+      "correspondenceName": "Monique E. Liburd",
+      "correspondenceAddress1": "1600 AMPHITHEATRE PARKWAY",
+      "correspondenceAddress2": "MOUNTAIN VIEW CA 94043",
+      "attorneyName": "Monique E. Liburd ",
+      "attorneyDocketNumber": null,
+      "currentLocation": "TMO LAW OFFICE 115",
+      "statusCode": "702",
+      "liveOrDeadStatus": "Live",
+      "logo": "https://tsdr.uspto.gov/img/77082272/large"
+    },
+    {
+      "id": "62a9bd8b08c6f9240d4fc108",
+      "markIdentification": "GOOGLE",
+      "filingDate": "2004-06-10",
+      "transactionDate": "2022-03-04",
+      "statusDate": "2022-03-04",
+      "serialNumber": 78433507,
+      "registrationNumber": "4123471",
+      "classification": [
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "3",
+          "internationalCode": [
+            "035"
+          ],
+          "usCode": [
+            "100",
+            "101",
+            "102"
+          ],
+          "statusCode": "6",
+          "statusDate": "2004-06-17",
+          "firstUseAnywhereDate": "2000-10-01",
+          "firstUseInCommerceDate": "2000-10-01",
+          "primaryCode": "035"
+        }
+      ],
+      "events": [
+        {
+          "code": "NA89",
+          "type": "E",
+          "descriptionText": "NOTICE OF ACCEPTANCE OF SEC. 8 ",
+          "date": "2022-03-04",
+          "number": 46
+        },
+        {
+          "code": "RNL1",
+          "type": "Q",
+          "descriptionText": "REGISTERED AND RENEWED (FIRST RENEWAL - 10 YRS)",
+          "date": "2022-03-04",
+          "number": 45
+        },
+        {
+          "code": "89AG",
+          "type": "O",
+          "descriptionText": "REGISTERED - SEC. 8 (10-YR) ACCEPTED/SEC. 9 GRANTED",
+          "date": "2022-03-04",
+          "number": 44
+        },
+        {
+          "code": "APRE",
+          "type": "A",
+          "descriptionText": "CASE ASSIGNED TO POST REGISTRATION PARALEGAL",
+          "date": "2022-03-04",
+          "number": 43
+        },
+        {
+          "code": "E89R",
+          "type": "I",
+          "descriptionText": "TEAS SECTION 8 ",
+          "date": "2021-10-14",
+          "number": 42
+        },
+        {
+          "code": "REM2",
+          "type": "E",
+          "descriptionText": "COURTESY REMINDER - SEC. 8 (10-YR)/SEC. 9 E-MAILED",
+          "date": "2021-04-10",
+          "number": 41
+        },
+        {
+          "code": "NOSU",
+          "type": "I",
+          "descriptionText": "NOTICE OF SUIT",
+          "date": "2018-11-08",
+          "number": 40
+        },
+        {
+          "code": "NOSU",
+          "type": "I",
+          "descriptionText": "NOTICE OF SUIT",
+          "date": "2018-07-24",
+          "number": 39
+        },
+        {
+          "code": "ASGN",
+          "type": "I",
+          "descriptionText": "AUTOMATIC UPDATE OF ASSIGNMENT OF OWNERSHIP",
+          "date": "2017-11-22",
+          "number": 38
+        },
+        {
+          "code": "NA85",
+          "type": "E",
+          "descriptionText": "NOTICE OF ACCEPTANCE OF SEC. 8 ",
+          "date": "2017-09-25",
+          "number": 37
+        },
+        {
+          "code": "C15A",
+          "type": "O",
+          "descriptionText": "REGISTERED - SEC. 8 (6-YR) ACCEPTED ",
+          "date": "2017-09-25",
+          "number": 36
+        },
+        {
+          "code": "APRE",
+          "type": "A",
+          "descriptionText": "CASE ASSIGNED TO POST REGISTRATION PARALEGAL",
+          "date": "2017-09-25",
+          "number": 35
+        },
+        {
+          "code": "E815",
+          "type": "I",
+          "descriptionText": "TEAS SECTION 8 ",
+          "date": "2017-08-22",
+          "number": 34
+        },
+        {
+          "code": "TCCA",
+          "type": "I",
+          "descriptionText": "TEAS CHANGE OF CORRESPONDENCE RECEIVED",
+          "date": "2017-08-22",
+          "number": 33
+        },
+        {
+          "code": "REM1",
+          "type": "E",
+          "descriptionText": "COURTESY REMINDER - SEC. 8 (6-YR) E-MAILED",
+          "date": "2017-04-10",
+          "number": 32
+        },
+        {
+          "code": "R.PR",
+          "type": "A",
+          "descriptionText": "REGISTERED-PRINCIPAL REGISTER",
+          "date": "2012-04-10",
+          "number": 31
+        },
+        {
+          "code": "NPUB",
+          "type": "E",
+          "descriptionText": "OFFICIAL GAZETTE PUBLICATION CONFIRMATION E-MAILED",
+          "date": "2012-01-24",
+          "number": 30
+        },
+        {
+          "code": "PUBO",
+          "type": "A",
+          "descriptionText": "PUBLISHED FOR OPPOSITION",
+          "date": "2012-01-24",
+          "number": 29
+        },
+        {
+          "code": "NONP",
+          "type": "E",
+          "descriptionText": "NOTIFICATION OF NOTICE OF PUBLICATION E-MAILED",
+          "date": "2012-01-04",
+          "number": 28
+        },
+        {
+          "code": "PREV",
+          "type": "O",
+          "descriptionText": "LAW OFFICE PUBLICATION REVIEW COMPLETED",
+          "date": "2011-12-18",
+          "number": 27
+        },
+        {
+          "code": "CNSA",
+          "type": "O",
+          "descriptionText": "APPROVED FOR PUB - PRINCIPAL REGISTER",
+          "date": "2011-12-06",
+          "number": 26
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2011-09-23",
+          "number": 25
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2011-03-23",
+          "number": 24
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2010-09-23",
+          "number": 23
+        },
+        {
+          "code": "ALIE",
+          "type": "A",
+          "descriptionText": "ASSIGNED TO LIE",
+          "date": "2010-09-22",
+          "number": 22
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2010-03-17",
+          "number": 21
+        },
+        {
+          "code": "ALIE",
+          "type": "A",
+          "descriptionText": "ASSIGNED TO LIE",
+          "date": "2010-03-04",
+          "number": 20
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2009-09-04",
+          "number": 19
+        },
+        {
+          "code": "ALIE",
+          "type": "A",
+          "descriptionText": "ASSIGNED TO LIE",
+          "date": "2009-09-03",
+          "number": 18
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2009-03-03",
+          "number": 17
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2008-08-28",
+          "number": 16
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2008-02-28",
+          "number": 15
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2007-08-28",
+          "number": 14
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2007-02-28",
+          "number": 13
+        },
+        {
+          "code": "ALIE",
+          "type": "A",
+          "descriptionText": "ASSIGNED TO LIE",
+          "date": "2007-02-28",
+          "number": 12
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2006-08-21",
+          "number": 11
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2006-01-24",
+          "number": 10
+        },
+        {
+          "code": "GNSL",
+          "type": "S",
+          "descriptionText": "LETTER OF SUSPENSION E-MAILED",
+          "date": "2005-07-22",
+          "number": 9
+        },
+        {
+          "code": "CNSL",
+          "type": "R",
+          "descriptionText": "SUSPENSION LETTER  WRITTEN",
+          "date": "2005-07-22",
+          "number": 8
+        },
+        {
+          "code": "ACEC",
+          "type": "I",
+          "descriptionText": "AMENDMENT FROM APPLICANT ENTERED",
+          "date": "2005-07-21",
+          "number": 7
+        },
+        {
+          "code": "CRFA",
+          "type": "I",
+          "descriptionText": "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+          "date": "2005-07-06",
+          "number": 6
+        },
+        {
+          "code": "TROA",
+          "type": "I",
+          "descriptionText": "TEAS RESPONSE TO OFFICE ACTION RECEIVED",
+          "date": "2005-07-06",
+          "number": 5
+        },
+        {
+          "code": "GNRT",
+          "type": "F",
+          "descriptionText": "NON-FINAL ACTION E-MAILED",
+          "date": "2005-01-11",
+          "number": 4
+        },
+        {
+          "code": "CNRT",
+          "type": "R",
+          "descriptionText": "NON-FINAL ACTION  WRITTEN",
+          "date": "2005-01-11",
+          "number": 3
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "2005-01-11",
+          "number": 2
+        },
+        {
+          "code": "NWAP",
+          "type": "I",
+          "descriptionText": "NEW APPLICATION ENTERED IN TRAM",
+          "date": "2004-06-17",
+          "number": 1
+        }
+      ],
+      "owners": [
+        {
+          "entryNumber": 1,
+          "partyType": "31",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "16",
+          "partyName": "GOOGLE LLC",
+          "address1": null,
+          "address2": "1600 AMPHITHEATRE PARKWAY",
+          "city": "MOUNTAIN VIEW",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "30",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "1600 Amphitheatre Parkway",
+          "address2": null,
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "20",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "2400 BAYSHORE PARKWAY",
+          "address2": "TRADEMARK DEPT",
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "10",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "2400 BAYSHORE PARKWAY",
+          "address2": "TRADEMARK DEPT",
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        }
+      ],
+      "markDrawingCode": "4000",
+      "caseFileStatements": {
+        "GS0351": "Dissemination of advertising for others via the Internet"
+      },
+      "correspondenceName": "Monique E. Liburd",
+      "correspondenceAddress1": "1600 Amphitheatre Parkway",
+      "correspondenceAddress2": "Mountain View, CA 94043",
+      "attorneyName": "Monique E. Liburd ",
+      "attorneyDocketNumber": null,
+      "currentLocation": "GENERIC WEB UPDATE",
+      "statusCode": "800",
+      "liveOrDeadStatus": "Live",
+      "logo": "https://tsdr.uspto.gov/img/78433507/large"
+    },
+    {
+      "id": "62a9bf0908c6f9240d55c635",
+      "markIdentification": "GOOGLE",
+      "filingDate": "2006-03-02",
+      "transactionDate": "2022-03-08",
+      "statusDate": "2017-09-29",
+      "serialNumber": 78828042,
+      "registrationNumber": "4120012",
+      "classification": [
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "3",
+          "internationalCode": [
+            "038"
+          ],
+          "usCode": [
+            "100",
+            "101",
+            "104"
+          ],
+          "statusCode": "6",
+          "statusDate": "2006-03-09",
+          "firstUseAnywhereDate": "2001-02-12",
+          "firstUseInCommerceDate": "2001-02-12",
+          "primaryCode": "038"
+        }
+      ],
+      "events": [
+        {
+          "code": "E89R",
+          "type": "I",
+          "descriptionText": "TEAS SECTION 8 ",
+          "date": "2022-03-07",
+          "number": 39
+        },
+        {
+          "code": "REM2",
+          "type": "E",
+          "descriptionText": "COURTESY REMINDER - SEC. 8 (10-YR)/SEC. 9 E-MAILED",
+          "date": "2021-04-03",
+          "number": 38
+        },
+        {
+          "code": "NOSU",
+          "type": "I",
+          "descriptionText": "NOTICE OF SUIT",
+          "date": "2018-11-08",
+          "number": 37
+        },
+        {
+          "code": "NOSU",
+          "type": "I",
+          "descriptionText": "NOTICE OF SUIT",
+          "date": "2018-07-24",
+          "number": 36
+        },
+        {
+          "code": "ASGN",
+          "type": "I",
+          "descriptionText": "AUTOMATIC UPDATE OF ASSIGNMENT OF OWNERSHIP",
+          "date": "2017-11-22",
+          "number": 35
+        },
+        {
+          "code": "NA85",
+          "type": "E",
+          "descriptionText": "NOTICE OF ACCEPTANCE OF SEC. 8 ",
+          "date": "2017-09-29",
+          "number": 34
+        },
+        {
+          "code": "C15A",
+          "type": "O",
+          "descriptionText": "REGISTERED - SEC. 8 (6-YR) ACCEPTED ",
+          "date": "2017-09-29",
+          "number": 33
+        },
+        {
+          "code": "APRE",
+          "type": "A",
+          "descriptionText": "CASE ASSIGNED TO POST REGISTRATION PARALEGAL",
+          "date": "2017-09-25",
+          "number": 32
+        },
+        {
+          "code": "E815",
+          "type": "I",
+          "descriptionText": "TEAS SECTION 8 ",
+          "date": "2017-08-22",
+          "number": 31
+        },
+        {
+          "code": "TCCA",
+          "type": "I",
+          "descriptionText": "TEAS CHANGE OF CORRESPONDENCE RECEIVED",
+          "date": "2017-08-22",
+          "number": 30
+        },
+        {
+          "code": "REM1",
+          "type": "E",
+          "descriptionText": "COURTESY REMINDER - SEC. 8 (6-YR) E-MAILED",
+          "date": "2017-04-03",
+          "number": 29
+        },
+        {
+          "code": "R.PR",
+          "type": "A",
+          "descriptionText": "REGISTERED-PRINCIPAL REGISTER",
+          "date": "2012-04-03",
+          "number": 28
+        },
+        {
+          "code": "NPUB",
+          "type": "E",
+          "descriptionText": "OFFICIAL GAZETTE PUBLICATION CONFIRMATION E-MAILED",
+          "date": "2012-01-17",
+          "number": 27
+        },
+        {
+          "code": "PUBO",
+          "type": "A",
+          "descriptionText": "PUBLISHED FOR OPPOSITION",
+          "date": "2012-01-17",
+          "number": 26
+        },
+        {
+          "code": "NONP",
+          "type": "E",
+          "descriptionText": "NOTIFICATION OF NOTICE OF PUBLICATION E-MAILED",
+          "date": "2011-12-28",
+          "number": 25
+        },
+        {
+          "code": "PREV",
+          "type": "O",
+          "descriptionText": "LAW OFFICE PUBLICATION REVIEW COMPLETED",
+          "date": "2011-12-12",
+          "number": 24
+        },
+        {
+          "code": "CNSA",
+          "type": "O",
+          "descriptionText": "APPROVED FOR PUB - PRINCIPAL REGISTER",
+          "date": "2011-12-07",
+          "number": 23
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2011-08-29",
+          "number": 22
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2011-02-27",
+          "number": 21
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2010-08-27",
+          "number": 20
+        },
+        {
+          "code": "ALIE",
+          "type": "A",
+          "descriptionText": "ASSIGNED TO LIE",
+          "date": "2010-08-27",
+          "number": 19
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2010-02-25",
+          "number": 18
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2009-08-24",
+          "number": 17
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2009-02-23",
+          "number": 16
+        },
+        {
+          "code": "ALIE",
+          "type": "A",
+          "descriptionText": "ASSIGNED TO LIE",
+          "date": "2009-02-23",
+          "number": 15
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2008-08-20",
+          "number": 14
+        },
+        {
+          "code": "ALIE",
+          "type": "A",
+          "descriptionText": "ASSIGNED TO LIE",
+          "date": "2008-08-19",
+          "number": 13
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2008-02-15",
+          "number": 12
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2007-08-14",
+          "number": 11
+        },
+        {
+          "code": "ALIE",
+          "type": "A",
+          "descriptionText": "ASSIGNED TO LIE",
+          "date": "2007-08-14",
+          "number": 10
+        },
+        {
+          "code": "GNSL",
+          "type": "S",
+          "descriptionText": "LETTER OF SUSPENSION E-MAILED",
+          "date": "2007-01-29",
+          "number": 9
+        },
+        {
+          "code": "CNSL",
+          "type": "R",
+          "descriptionText": "SUSPENSION LETTER  WRITTEN",
+          "date": "2007-01-29",
+          "number": 8
+        },
+        {
+          "code": "TEME",
+          "type": "I",
+          "descriptionText": "TEAS/EMAIL CORRESPONDENCE ENTERED",
+          "date": "2007-01-12",
+          "number": 7
+        },
+        {
+          "code": "CRFA",
+          "type": "I",
+          "descriptionText": "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+          "date": "2007-01-11",
+          "number": 6
+        },
+        {
+          "code": "TROA",
+          "type": "I",
+          "descriptionText": "TEAS RESPONSE TO OFFICE ACTION RECEIVED",
+          "date": "2007-01-11",
+          "number": 5
+        },
+        {
+          "code": "GNRT",
+          "type": "F",
+          "descriptionText": "NON-FINAL ACTION E-MAILED",
+          "date": "2006-08-31",
+          "number": 4
+        },
+        {
+          "code": "CNRT",
+          "type": "R",
+          "descriptionText": "NON-FINAL ACTION  WRITTEN",
+          "date": "2006-08-31",
+          "number": 3
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "2006-08-18",
+          "number": 2
+        },
+        {
+          "code": "NWAP",
+          "type": "I",
+          "descriptionText": "NEW APPLICATION ENTERED IN TRAM",
+          "date": "2006-03-09",
+          "number": 1
+        }
+      ],
+      "owners": [
+        {
+          "entryNumber": 1,
+          "partyType": "31",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "16",
+          "partyName": "GOOGLE LLC",
+          "address1": null,
+          "address2": "1600 AMPHITHEATRE PARKWAY",
+          "city": "MOUNTAIN VIEW",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "30",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "1600 Amphitheatre Parkway",
+          "address2": null,
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "20",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "1600 Amphitheatre Parkway",
+          "address2": null,
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "10",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "1600 Amphitheatre Parkway",
+          "address2": null,
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        }
+      ],
+      "markDrawingCode": "4000",
+      "caseFileStatements": {
+        "GS0381": "Telecommunication services, namely, communications via multinational telecommunication networks; telecommunications services, namely, telecommunications access services; data transmission and reception services via telecommunication means; electronic exchange of voice, data, and graphics accessible via computer and telecommunication networks; providing multiple-user access to a global computer information network; internet cafe services, namely, providing telecommunications connections to the internet in a cafe environment; providing online bulletin boards for transmission of messages among users in the field of general interest; providing online discussion groups for transmission of messages among users in the field of general interest; electronic mail services; workgroup communications services over computer networks; instant messaging services; voice over ip services; communications by computer terminals; wireless broadband communication services; mobile phone communication services"
+      },
+      "correspondenceName": "Monique E. Liburd",
+      "correspondenceAddress1": "1600 Amphitheatre Parkway",
+      "correspondenceAddress2": "MOUNTAIN VIEW CA 94043",
+      "attorneyName": "Monique E. Liburd ",
+      "attorneyDocketNumber": null,
+      "currentLocation": "TMO LAW OFFICE 113",
+      "statusCode": "702",
+      "liveOrDeadStatus": "Live",
+      "logo": "https://tsdr.uspto.gov/img/78828042/large"
+    },
+    {
+      "id": "62a9bf0908c6f9240d55c640",
+      "markIdentification": "GOOGLE",
+      "filingDate": "2006-03-02",
+      "transactionDate": "2020-05-31",
+      "statusDate": "2018-08-03",
+      "serialNumber": 78828053,
+      "registrationNumber": "3570103",
+      "classification": [
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "3",
+          "internationalCode": [
+            "036"
+          ],
+          "usCode": [
+            "100",
+            "101",
+            "102"
+          ],
+          "statusCode": "6",
+          "statusDate": "2006-03-09",
+          "firstUseAnywhereDate": "2003-04-01",
+          "firstUseInCommerceDate": "2003-04-01",
+          "primaryCode": "036"
+        }
+      ],
+      "events": [
+        {
+          "code": "NA89",
+          "type": "E",
+          "descriptionText": "NOTICE OF ACCEPTANCE OF SEC. 8 ",
+          "date": "2018-08-03",
+          "number": 37
+        },
+        {
+          "code": "RNL1",
+          "type": "Q",
+          "descriptionText": "REGISTERED AND RENEWED (FIRST RENEWAL - 10 YRS)",
+          "date": "2018-08-03",
+          "number": 36
+        },
+        {
+          "code": "89AG",
+          "type": "O",
+          "descriptionText": "REGISTERED - SEC. 8 (10-YR) ACCEPTED/SEC. 9 GRANTED",
+          "date": "2018-08-03",
+          "number": 35
+        },
+        {
+          "code": "APRE",
+          "type": "A",
+          "descriptionText": "CASE ASSIGNED TO POST REGISTRATION PARALEGAL",
+          "date": "2018-08-03",
+          "number": 34
+        },
+        {
+          "code": "E89R",
+          "type": "I",
+          "descriptionText": "TEAS SECTION 8 ",
+          "date": "2018-07-24",
+          "number": 33
+        },
+        {
+          "code": "TCCA",
+          "type": "I",
+          "descriptionText": "TEAS CHANGE OF CORRESPONDENCE RECEIVED",
+          "date": "2018-07-24",
+          "number": 32
+        },
+        {
+          "code": "REM2",
+          "type": "E",
+          "descriptionText": "COURTESY REMINDER - SEC. 8 (10-YR)/SEC. 9 E-MAILED",
+          "date": "2018-02-03",
+          "number": 31
+        },
+        {
+          "code": "ASGN",
+          "type": "I",
+          "descriptionText": "AUTOMATIC UPDATE OF ASSIGNMENT OF OWNERSHIP",
+          "date": "2017-11-22",
+          "number": 30
+        },
+        {
+          "code": "NA85",
+          "type": "E",
+          "descriptionText": "NOTICE OF ACCEPTANCE OF SEC. 8 ",
+          "date": "2014-02-14",
+          "number": 29
+        },
+        {
+          "code": "C15A",
+          "type": "O",
+          "descriptionText": "REGISTERED - SEC. 8 (6-YR) ACCEPTED ",
+          "date": "2014-02-14",
+          "number": 28
+        },
+        {
+          "code": "815F",
+          "type": "I",
+          "descriptionText": "REGISTERED - SEC. 8 (6-YR) ",
+          "date": "2014-02-04",
+          "number": 27
+        },
+        {
+          "code": "APRE",
+          "type": "A",
+          "descriptionText": "CASE ASSIGNED TO POST REGISTRATION PARALEGAL",
+          "date": "2014-02-14",
+          "number": 26
+        },
+        {
+          "code": "E815",
+          "type": "I",
+          "descriptionText": "TEAS SECTION 8 ",
+          "date": "2014-02-04",
+          "number": 25
+        },
+        {
+          "code": "TCCA",
+          "type": "I",
+          "descriptionText": "TEAS CHANGE OF CORRESPONDENCE RECEIVED",
+          "date": "2014-02-04",
+          "number": 24
+        },
+        {
+          "code": "R.PR",
+          "type": "A",
+          "descriptionText": "REGISTERED-PRINCIPAL REGISTER",
+          "date": "2009-02-03",
+          "number": 23
+        },
+        {
+          "code": "PUBO",
+          "type": "A",
+          "descriptionText": "PUBLISHED FOR OPPOSITION",
+          "date": "2008-11-18",
+          "number": 22
+        },
+        {
+          "code": "NPUB",
+          "type": "O",
+          "descriptionText": "NOTICE OF PUBLICATION",
+          "date": "2008-10-29",
+          "number": 21
+        },
+        {
+          "code": "PREV",
+          "type": "O",
+          "descriptionText": "LAW OFFICE PUBLICATION REVIEW COMPLETED",
+          "date": "2008-10-11",
+          "number": 20
+        },
+        {
+          "code": "CNSA",
+          "type": "O",
+          "descriptionText": "APPROVED FOR PUB - PRINCIPAL REGISTER",
+          "date": "2008-10-06",
+          "number": 19
+        },
+        {
+          "code": "TEME",
+          "type": "I",
+          "descriptionText": "TEAS/EMAIL CORRESPONDENCE ENTERED",
+          "date": "2008-10-06",
+          "number": 18
+        },
+        {
+          "code": "CRFA",
+          "type": "I",
+          "descriptionText": "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+          "date": "2008-10-06",
+          "number": 17
+        },
+        {
+          "code": "TROA",
+          "type": "I",
+          "descriptionText": "TEAS RESPONSE TO OFFICE ACTION RECEIVED",
+          "date": "2008-10-06",
+          "number": 16
+        },
+        {
+          "code": "GNRN",
+          "type": "O",
+          "descriptionText": "NOTIFICATION OF NON-FINAL ACTION E-MAILED",
+          "date": "2008-05-29",
+          "number": 15
+        },
+        {
+          "code": "GNRT",
+          "type": "O",
+          "descriptionText": "NON-FINAL ACTION E-MAILED",
+          "date": "2008-05-29",
+          "number": 14
+        },
+        {
+          "code": "CNRT",
+          "type": "R",
+          "descriptionText": "NON-FINAL ACTION  WRITTEN",
+          "date": "2008-05-29",
+          "number": 13
+        },
+        {
+          "code": "RCCK",
+          "type": "S",
+          "descriptionText": "SUSPENSION CHECKED ¿ TO ATTORNEY FOR ACTION",
+          "date": "2008-03-29",
+          "number": 12
+        },
+        {
+          "code": "RCSC",
+          "type": "S",
+          "descriptionText": "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+          "date": "2007-09-29",
+          "number": 11
+        },
+        {
+          "code": "ALIE",
+          "type": "A",
+          "descriptionText": "ASSIGNED TO LIE",
+          "date": "2007-09-29",
+          "number": 10
+        },
+        {
+          "code": "GNSL",
+          "type": "S",
+          "descriptionText": "LETTER OF SUSPENSION E-MAILED",
+          "date": "2007-03-22",
+          "number": 9
+        },
+        {
+          "code": "CNSL",
+          "type": "R",
+          "descriptionText": "SUSPENSION LETTER  WRITTEN",
+          "date": "2007-03-22",
+          "number": 8
+        },
+        {
+          "code": "TEME",
+          "type": "I",
+          "descriptionText": "TEAS/EMAIL CORRESPONDENCE ENTERED",
+          "date": "2007-03-01",
+          "number": 7
+        },
+        {
+          "code": "CRFA",
+          "type": "I",
+          "descriptionText": "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+          "date": "2007-02-28",
+          "number": 6
+        },
+        {
+          "code": "TROA",
+          "type": "I",
+          "descriptionText": "TEAS RESPONSE TO OFFICE ACTION RECEIVED",
+          "date": "2007-02-28",
+          "number": 5
+        },
+        {
+          "code": "GNRT",
+          "type": "F",
+          "descriptionText": "NON-FINAL ACTION E-MAILED",
+          "date": "2006-08-31",
+          "number": 4
+        },
+        {
+          "code": "CNRT",
+          "type": "R",
+          "descriptionText": "NON-FINAL ACTION  WRITTEN",
+          "date": "2006-08-31",
+          "number": 3
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "2006-08-18",
+          "number": 2
+        },
+        {
+          "code": "NWAP",
+          "type": "I",
+          "descriptionText": "NEW APPLICATION ENTERED IN TRAM",
+          "date": "2006-03-09",
+          "number": 1
+        }
+      ],
+      "owners": [
+        {
+          "entryNumber": 1,
+          "partyType": "31",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "16",
+          "partyName": "GOOGLE LLC",
+          "address1": "1600 AMPHITHEATRE PARKWAY",
+          "address2": null,
+          "city": "MOUNTAIN VIEW",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "30",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "1600 Amphitheatre Parkway",
+          "address2": null,
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "20",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "1600 Amphitheatre Parkway",
+          "address2": null,
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        },
+        {
+          "entryNumber": 1,
+          "partyType": "10",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Google Inc.",
+          "address1": "1600 Amphitheatre Parkway",
+          "address2": null,
+          "city": "Mountain View",
+          "country": null,
+          "state": "CA",
+          "postcode": "94043",
+          "nameChangeExplanation": null
+        }
+      ],
+      "markDrawingCode": "4000",
+      "caseFileStatements": {
+        "GS0361": "charitable fundraising; providing grants to charitable organizations; financial services, namely, providing stock, bond, commodity, index, futures, options, securities, and currency prices and market information; financial services, namely, providing a web site with information concerning stocks, bonds, commodities, indexes, futures, options, securities, and currency prices, [ and where users can post ratings, reviews and recommendations on the same; ] financial transaction processing services, namely, clearing and reconciling financial transactions via a global computer network; bill payment services"
+      },
+      "correspondenceName": "GOOGLE LLC",
+      "correspondenceAddress1": "1600 Amphitheatre Parkway",
+      "correspondenceAddress2": "MOUNTAIN VIEW CA 94043",
+      "attorneyName": null,
+      "attorneyDocketNumber": "GT-0001-US-6",
+      "currentLocation": "GENERIC WEB UPDATE",
+      "statusCode": "800",
+      "liveOrDeadStatus": "Live",
+      "logo": "https://tsdr.uspto.gov/img/78828053/large"
+    },
+    {
+      "id": "62a9bf4608c6f9240d56f4ab",
+      "markIdentification": "GOOGLE",
+      "filingDate": "2006-06-11",
+      "transactionDate": "2020-05-31",
+      "statusDate": "2007-01-17",
+      "serialNumber": 78905472,
+      "registrationNumber": "0000000",
+      "classification": [
+        {
+          "internationalCodeTotalNo": "1",
+          "usCodeTotalNo": "4",
+          "internationalCode": [
+            "028"
+          ],
+          "usCode": [
+            "022",
+            "023",
+            "038",
+            "050"
+          ],
+          "statusCode": "6",
+          "statusDate": "2006-06-15",
+          "firstUseAnywhereDate": null,
+          "firstUseInCommerceDate": null,
+          "primaryCode": "028"
+        }
+      ],
+      "events": [
+        {
+          "code": "MAB1",
+          "type": "O",
+          "descriptionText": "ABANDONMENT NOTICE MAILED - EXPRESS ABANDONMENT",
+          "date": "2007-01-17",
+          "number": 9
+        },
+        {
+          "code": "ABN1",
+          "type": "O",
+          "descriptionText": "ABANDONMENT - EXPRESS MAILED",
+          "date": "2007-01-17",
+          "number": 8
+        },
+        {
+          "code": "LOAP",
+          "type": "I",
+          "descriptionText": "LETTER OF ABANDONMENT PROCESSED",
+          "date": "2006-12-14",
+          "number": 7
+        },
+        {
+          "code": "ALIE",
+          "type": "A",
+          "descriptionText": "ASSIGNED TO LIE",
+          "date": "2007-01-16",
+          "number": 6
+        },
+        {
+          "code": "MAIL",
+          "type": "I",
+          "descriptionText": "PAPER RECEIVED",
+          "date": "2006-12-14",
+          "number": 5
+        },
+        {
+          "code": "GNRT",
+          "type": "F",
+          "descriptionText": "NON-FINAL ACTION E-MAILED",
+          "date": "2006-11-14",
+          "number": 4
+        },
+        {
+          "code": "CNRT",
+          "type": "R",
+          "descriptionText": "NON-FINAL ACTION  WRITTEN",
+          "date": "2006-11-14",
+          "number": 3
+        },
+        {
+          "code": "DOCK",
+          "type": "D",
+          "descriptionText": "ASSIGNED TO EXAMINER",
+          "date": "2006-11-13",
+          "number": 2
+        },
+        {
+          "code": "NWAP",
+          "type": "I",
+          "descriptionText": "NEW APPLICATION ENTERED IN TRAM",
+          "date": "2006-06-15",
+          "number": 1
+        }
+      ],
+      "owners": [
+        {
+          "entryNumber": 1,
+          "partyType": "10",
+          "nationality": [
+            "DE"
+          ],
+          "legalEntityTypeCode": "03",
+          "partyName": "Central Mfg Co., a/k/a Central Mfg Inc.,",
+          "address1": "7115 W. North Avenue #272",
+          "address2": null,
+          "city": "Oak Park",
+          "country": null,
+          "state": "IL",
+          "postcode": "60302",
+          "nameChangeExplanation": null
+        }
+      ],
+      "markDrawingCode": "4000",
+      "caseFileStatements": {
+        "GS0281": "Ankle and wrist weights for exercise; Archery bows; Badminton racket strings; Ball bearings for in-line skates; Ball bearings for roller skates; Ball bearings for skateboards; Baseball bases; Baseball bats; Baseball batting gloves; Baseball gloves; Baseballs; Basket balls; Basketball hoops; Basketballs; Beach balls; Billiard balls; Billiard cue racks; Billiard cues; Cases for tennis balls; Chalk for billiard cues ; Chest protectors ; Crossbows; Cue sticks ; Exercise benches; Exercise doorway gym bars; Exercise equipment, namely, chest expanders; Exercise equipment, namely, chest pulls; Exercise equipment, namely, stationary cycles; Exercise machines; Exercise machines incorporating electronic and video game controllers,; Exercise platforms; Exercise wrist weights; Field hockey balls; Fishing equipment, namely, winging material for fishing jigs and streamers; Fishing floats; Fishing lines; Fishing lures; Fishing lures, namely, plastic worms; Fishing reels; Fishing rods; Fishing tackle boxes; Foot balls; Golf bag covers; Golf bags; Golf ball retrievers; Golf balls; Golf club bags; Golf club covers; Golf club heads; Golf club inserts; Golf club shafts; Hand balls; Ice skate blades; Ice skates; In-line skates; Inflatable float tubes for fishing; Inflatable pools for recreational use; Inflatable swimming pools ; Leg weights for exercising; Paddle balls; Play swimming pools; Playground balls; Pool cue cases; Pool cue racks; Pool cue tips; Pool cues; Racket balls; Racket cases ; Rackets and strings for rackets; Racquet ball gloves; Racquet ball racket covers; Racquet ball racket strings; Racquet ball rackets; Racquet balls; Roller skates; Rubber action balls; Rubber balls; Rubber baseballs; Snow boards; Snow shoes; Snow skis; Snow sleds for recreational use; Snowboard bindings; Snowboards; Soccer balls; Soft tennis balls; Sport balls; Sportsman's fishing bags; Squash balls; Squash racket strings; Squash rackets; Stationary exercise bicycles; Stress relief balls for hand exercise; Surf boards; Swimming boards; Table tennis rackets; Table-tennis balls; Tennis balls; Tennis balls ; Tennis racket covers; Tennis racket strings; Tennis racquets; Volley balls; Wake boards"
+      },
+      "correspondenceName": "CENTRAL MFG CO., A/K/A CENTRAL MFG INC.,",
+      "correspondenceAddress1": "7115 NORTH AVE # 272",
+      "correspondenceAddress2": "OAK PARK, IL 60302-1002",
+      "attorneyName": null,
+      "attorneyDocketNumber": null,
+      "currentLocation": "LAW OFFICE 117 - EXAMINING ATTORNEY ASSIGNED",
+      "statusCode": "601",
+      "liveOrDeadStatus": "Dead",
+      "logo": "https://tsdr.uspto.gov/img/78905472/large"
+    }
+  ]
+}

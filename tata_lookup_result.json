@@ -1,0 +1,2942 @@
+{
+    "maxPerPage":  10,
+    "page":  1,
+    "totalPages":  32,
+    "totalResults":  318,
+    "list":  [
+                 {
+                     "id":  "62a8698b08c6f9240d058a95",
+                     "markIdentification":  "TATA",
+                     "filingDate":  "1964-08-26",
+                     "transactionDate":  "2020-05-31",
+                     "statusDate":  "2015-04-28",
+                     "serialNumber":  72200676,
+                     "registrationNumber":  "0789432",
+                     "classification":  [
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "1",
+                                                "internationalCode":  [
+                                                                          "030"
+                                                                      ],
+                                                "usCode":  [
+                                                               "046"
+                                                           ],
+                                                "statusCode":  "6",
+                                                "statusDate":  "1999-11-02",
+                                                "firstUseAnywhereDate":  "1964-05-19",
+                                                "firstUseInCommerceDate":  "1964-05-19",
+                                                "primaryCode":  "046"
+                                            }
+                                        ],
+                     "events":  [
+                                    {
+                                        "code":  "ASGN",
+                                        "type":  "I",
+                                        "descriptionText":  "AUTOMATIC UPDATE OF ASSIGNMENT OF OWNERSHIP",
+                                        "date":  "2020-02-05",
+                                        "number":  17
+                                    },
+                                    {
+                                        "code":  "NA89",
+                                        "type":  "E",
+                                        "descriptionText":  "NOTICE OF ACCEPTANCE OF SEC. 8 ",
+                                        "date":  "2015-04-28",
+                                        "number":  16
+                                    },
+                                    {
+                                        "code":  "RNL3",
+                                        "type":  "Q",
+                                        "descriptionText":  "REGISTERED AND RENEWED (THIRD RENEWAL - 10 YRS)",
+                                        "date":  "2015-04-28",
+                                        "number":  15
+                                    },
+                                    {
+                                        "code":  "89AG",
+                                        "type":  "O",
+                                        "descriptionText":  "REGISTERED - SEC. 8 (10-YR) ACCEPTED/SEC. 9 GRANTED",
+                                        "date":  "2015-04-28",
+                                        "number":  14
+                                    },
+                                    {
+                                        "code":  "APRE",
+                                        "type":  "A",
+                                        "descriptionText":  "CASE ASSIGNED TO POST REGISTRATION PARALEGAL",
+                                        "date":  "2015-04-28",
+                                        "number":  13
+                                    },
+                                    {
+                                        "code":  "E89R",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS SECTION 8 ",
+                                        "date":  "2015-04-14",
+                                        "number":  12
+                                    },
+                                    {
+                                        "code":  "CORV",
+                                        "type":  "1",
+                                        "descriptionText":  "REVIEW OF CORRESPONDENCE COMPLETE - ADDRESS UPDATED",
+                                        "date":  "2012-09-21",
+                                        "number":  11
+                                    },
+                                    {
+                                        "code":  "MAIL",
+                                        "type":  "I",
+                                        "descriptionText":  "PAPER RECEIVED",
+                                        "date":  "2012-09-13",
+                                        "number":  10
+                                    },
+                                    {
+                                        "code":  "NOSU",
+                                        "type":  "I",
+                                        "descriptionText":  "NOTICE OF SUIT",
+                                        "date":  "2010-05-14",
+                                        "number":  9
+                                    },
+                                    {
+                                        "code":  "RNL2",
+                                        "type":  "Q",
+                                        "descriptionText":  "REGISTERED AND RENEWED (SECOND RENEWAL - 10 YRS)",
+                                        "date":  "2005-07-06",
+                                        "number":  8
+                                    },
+                                    {
+                                        "code":  "89AG",
+                                        "type":  "O",
+                                        "descriptionText":  "REGISTERED - SEC. 8 (10-YR) ACCEPTED/SEC. 9 GRANTED",
+                                        "date":  "2005-07-06",
+                                        "number":  7
+                                    },
+                                    {
+                                        "code":  "PLGL",
+                                        "type":  "A",
+                                        "descriptionText":  "ASSIGNED TO PARALEGAL",
+                                        "date":  "2005-07-06",
+                                        "number":  6
+                                    },
+                                    {
+                                        "code":  "89AF",
+                                        "type":  "I",
+                                        "descriptionText":  "REGISTERED - COMBINED SECTION 8 (10-YR) ",
+                                        "date":  "2005-05-02",
+                                        "number":  5
+                                    },
+                                    {
+                                        "code":  "MAIL",
+                                        "type":  "I",
+                                        "descriptionText":  "PAPER RECEIVED",
+                                        "date":  "2005-05-02",
+                                        "number":  4
+                                    },
+                                    {
+                                        "code":  "TCCA",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS CHANGE OF CORRESPONDENCE RECEIVED",
+                                        "date":  "2003-01-22",
+                                        "number":  3
+                                    },
+                                    {
+                                        "code":  "REN1",
+                                        "type":  "R",
+                                        "descriptionText":  "REGISTERED AND RENEWED (FIRST RENEWAL - 20 YRS)",
+                                        "date":  "1985-11-20",
+                                        "number":  2
+                                    },
+                                    {
+                                        "code":  "9.AF",
+                                        "type":  "I",
+                                        "descriptionText":  "REGISTERED - SEC. 9 FILED/CHECK RECORD FOR SEC. 8",
+                                        "date":  "1985-08-09",
+                                        "number":  1
+                                    }
+                                ],
+                     "owners":  [
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "42",
+                                        "nationality":  [
+                                                            "IN"
+                                                        ],
+                                        "legalEntityTypeCode":  "11",
+                                        "partyName":  "TATA SONS PRIVATE LMITED",
+                                        "address1":  "BOMBAY HOUSE, 24 HOMI MODY STREET",
+                                        "address2":  null,
+                                        "city":  "MUMBAI",
+                                        "country":  "IN",
+                                        "state":  null,
+                                        "postcode":  "400001",
+                                        "nameChangeExplanation":  null
+                                    },
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "41",
+                                        "nationality":  [
+                                                            "IN"
+                                                        ],
+                                        "legalEntityTypeCode":  "99",
+                                        "partyName":  "TATA SONS LIMITED",
+                                        "address1":  "24 HOMI MODY STREET",
+                                        "address2":  null,
+                                        "city":  "MUMBAI",
+                                        "country":  "IN",
+                                        "state":  null,
+                                        "postcode":  "400 001",
+                                        "nameChangeExplanation":  null
+                                    },
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "40",
+                                        "nationality":  [
+                                                            "IN"
+                                                        ],
+                                        "legalEntityTypeCode":  "03",
+                                        "partyName":  "TATA TEA LIMITED",
+                                        "address1":  null,
+                                        "address2":  "1 BISHOP LEFROY ROAD",
+                                        "city":  "CALCUTTA 700 020",
+                                        "country":  "IN",
+                                        "state":  null,
+                                        "postcode":  null,
+                                        "nameChangeExplanation":  "NC40000001ASSIGNEE OF"
+                                    },
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "30",
+                                        "nationality":  [
+                                                            "NY"
+                                                        ],
+                                        "legalEntityTypeCode":  "03",
+                                        "partyName":  "TATA INCORPORATED",
+                                        "address1":  null,
+                                        "address2":  "425 PARK AVE.",
+                                        "city":  "NEW YORK",
+                                        "country":  null,
+                                        "state":  "NY",
+                                        "postcode":  null,
+                                        "nameChangeExplanation":  null
+                                    }
+                                ],
+                     "markDrawingCode":  "1000",
+                     "caseFileStatements":  {
+                                                "GS0461":  "TEA"
+                                            },
+                     "correspondenceName":  "Paul F. Kilmer",
+                     "correspondenceAddress1":  "HOLLAND ",
+                     "correspondenceAddress2":  "Suite 1100",
+                     "attorneyName":  "Paul F. Kilmer ",
+                     "attorneyDocketNumber":  "072460.00002",
+                     "currentLocation":  "GENERIC WEB UPDATE",
+                     "statusCode":  "800",
+                     "liveOrDeadStatus":  "Live",
+                     "logo":  "https://tsdr.uspto.gov/img/72200676/large"
+                 },
+                 {
+                     "id":  "62a869ad08c6f9240d071c5d",
+                     "markIdentification":  "TATA",
+                     "filingDate":  "1972-04-18",
+                     "transactionDate":  "2020-05-31",
+                     "statusDate":  "2003-12-27",
+                     "serialNumber":  72421723,
+                     "registrationNumber":  "0955879",
+                     "classification":  [
+                                            {
+                                                "internationalCodeTotalNo":  "2",
+                                                "usCodeTotalNo":  "1",
+                                                "internationalCode":  [
+                                                                          "029",
+                                                                          "032"
+                                                                      ],
+                                                "usCode":  [
+                                                               "046"
+                                                           ],
+                                                "statusCode":  "9",
+                                                "statusDate":  "2003-12-27",
+                                                "firstUseAnywhereDate":  "1971-09-21",
+                                                "firstUseInCommerceDate":  "1971-09-21",
+                                                "primaryCode":  "046"
+                                            }
+                                        ],
+                     "events":  [
+                                    {
+                                        "code":  "CAEX",
+                                        "type":  "O",
+                                        "descriptionText":  "CANCELLED SEC. 8 (10-YR)/EXPIRED SECTION 9",
+                                        "date":  "2003-12-27",
+                                        "number":  6
+                                    },
+                                    {
+                                        "code":  "TCCA",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS CHANGE OF CORRESPONDENCE RECEIVED",
+                                        "date":  "2003-01-22",
+                                        "number":  5
+                                    },
+                                    {
+                                        "code":  "TCCA",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS CHANGE OF CORRESPONDENCE RECEIVED",
+                                        "date":  "2002-06-20",
+                                        "number":  4
+                                    },
+                                    {
+                                        "code":  "RNL1",
+                                        "type":  "Q",
+                                        "descriptionText":  "REGISTERED AND RENEWED (FIRST RENEWAL - 10 YRS)",
+                                        "date":  "1993-04-22",
+                                        "number":  3
+                                    },
+                                    {
+                                        "code":  "9.AF",
+                                        "type":  "I",
+                                        "descriptionText":  "REGISTERED - SEC. 9 FILED/CHECK RECORD FOR SEC. 8",
+                                        "date":  "1993-02-04",
+                                        "number":  2
+                                    },
+                                    {
+                                        "code":  "C15A",
+                                        "type":  "O",
+                                        "descriptionText":  "REGISTERED - SEC. 8 (6-YR) ACCEPTED ",
+                                        "date":  "1979-02-27",
+                                        "number":  1
+                                    }
+                                ],
+                     "owners":  [
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "30",
+                                        "nationality":  [
+                                                            "NY"
+                                                        ],
+                                        "legalEntityTypeCode":  "03",
+                                        "partyName":  "TATA INCORPORATED",
+                                        "address1":  null,
+                                        "address2":  "101 PARK AVENUE",
+                                        "city":  "NEW YORK",
+                                        "country":  null,
+                                        "state":  "NY",
+                                        "postcode":  "10178",
+                                        "nameChangeExplanation":  null
+                                    }
+                                ],
+                     "markDrawingCode":  "1000",
+                     "caseFileStatements":  {
+                                                "GS0461":  "[ FRUIT JUICE AND ] FISH"
+                                            },
+                     "correspondenceName":  "PAUL F. KILMER",
+                     "correspondenceAddress1":  "HOLLAND ",
+                     "correspondenceAddress2":  "SUITE 100",
+                     "attorneyName":  "DAVID WEILD, III ",
+                     "attorneyDocketNumber":  null,
+                     "currentLocation":  "FILE REPOSITORY (FRANCONIA)",
+                     "statusCode":  "900",
+                     "liveOrDeadStatus":  "Dead",
+                     "logo":  "https://tsdr.uspto.gov/img/72421723/large"
+                 },
+                 {
+                     "id":  "62a86b3d08c6f9240d11d96a",
+                     "markIdentification":  "TATA",
+                     "filingDate":  "1989-01-05",
+                     "transactionDate":  "2020-05-31",
+                     "statusDate":  "2004-02-21",
+                     "serialNumber":  73773358,
+                     "registrationNumber":  "1771286",
+                     "classification":  [
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "1",
+                                                "internationalCode":  [
+                                                                          "011"
+                                                                      ],
+                                                "usCode":  [
+                                                               "021"
+                                                           ],
+                                                "statusCode":  "2",
+                                                "statusDate":  "2004-02-21",
+                                                "firstUseAnywhereDate":  null,
+                                                "firstUseInCommerceDate":  null,
+                                                "primaryCode":  "011"
+                                            }
+                                        ],
+                     "events":  [
+                                    {
+                                        "code":  "CAEX",
+                                        "type":  "O",
+                                        "descriptionText":  "CANCELLED SEC. 8 (10-YR)/EXPIRED SECTION 9",
+                                        "date":  "2004-02-21",
+                                        "number":  24
+                                    },
+                                    {
+                                        "code":  "C15A",
+                                        "type":  "O",
+                                        "descriptionText":  "REGISTERED - SEC. 8 (6-YR) ACCEPTED ",
+                                        "date":  "1999-11-15",
+                                        "number":  23
+                                    },
+                                    {
+                                        "code":  "PR23",
+                                        "type":  "I",
+                                        "descriptionText":  "RESPONSE RECEIVED TO POST REG. ACTION - SEC. 8 ",
+                                        "date":  "1999-10-14",
+                                        "number":  22
+                                    },
+                                    {
+                                        "code":  "PR23",
+                                        "type":  "O",
+                                        "descriptionText":  "POST REGISTRATION ACTION MAILED - SEC. 8 ",
+                                        "date":  "1999-09-28",
+                                        "number":  21
+                                    },
+                                    {
+                                        "code":  "815F",
+                                        "type":  "I",
+                                        "descriptionText":  "REGISTERED - SEC. 8 (6-YR) ",
+                                        "date":  "1999-05-19",
+                                        "number":  20
+                                    },
+                                    {
+                                        "code":  "R.PR",
+                                        "type":  "A",
+                                        "descriptionText":  "REGISTERED-PRINCIPAL REGISTER",
+                                        "date":  "1993-05-18",
+                                        "number":  19
+                                    },
+                                    {
+                                        "code":  "PUBO",
+                                        "type":  "A",
+                                        "descriptionText":  "PUBLISHED FOR OPPOSITION",
+                                        "date":  "1993-02-23",
+                                        "number":  18
+                                    },
+                                    {
+                                        "code":  "NPUB",
+                                        "type":  "O",
+                                        "descriptionText":  "NOTICE OF PUBLICATION",
+                                        "date":  "1993-01-22",
+                                        "number":  17
+                                    },
+                                    {
+                                        "code":  "CNSA",
+                                        "type":  "O",
+                                        "descriptionText":  "APPROVED FOR PUB - PRINCIPAL REGISTER",
+                                        "date":  "1992-11-16",
+                                        "number":  16
+                                    },
+                                    {
+                                        "code":  "CNSI",
+                                        "type":  "O",
+                                        "descriptionText":  "INQUIRY AS TO SUSPENSION MAILED",
+                                        "date":  "1992-11-02",
+                                        "number":  15
+                                    },
+                                    {
+                                        "code":  "CNSL",
+                                        "type":  "F",
+                                        "descriptionText":  "LETTER OF SUSPENSION MAILED",
+                                        "date":  "1992-05-19",
+                                        "number":  14
+                                    },
+                                    {
+                                        "code":  "CRFA",
+                                        "type":  "I",
+                                        "descriptionText":  "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+                                        "date":  "1992-03-10",
+                                        "number":  13
+                                    },
+                                    {
+                                        "code":  "CNSI",
+                                        "type":  "O",
+                                        "descriptionText":  "INQUIRY AS TO SUSPENSION MAILED",
+                                        "date":  "1992-03-04",
+                                        "number":  12
+                                    },
+                                    {
+                                        "code":  "CNSL",
+                                        "type":  "F",
+                                        "descriptionText":  "LETTER OF SUSPENSION MAILED",
+                                        "date":  "1991-09-19",
+                                        "number":  11
+                                    },
+                                    {
+                                        "code":  "CRFA",
+                                        "type":  "I",
+                                        "descriptionText":  "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+                                        "date":  "1990-09-04",
+                                        "number":  10
+                                    },
+                                    {
+                                        "code":  "CNSL",
+                                        "type":  "F",
+                                        "descriptionText":  "LETTER OF SUSPENSION MAILED",
+                                        "date":  "1990-03-12",
+                                        "number":  9
+                                    },
+                                    {
+                                        "code":  "DOCK",
+                                        "type":  "D",
+                                        "descriptionText":  "ASSIGNED TO EXAMINER",
+                                        "date":  "1990-03-09",
+                                        "number":  8
+                                    },
+                                    {
+                                        "code":  "CRFA",
+                                        "type":  "I",
+                                        "descriptionText":  "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+                                        "date":  "1990-02-16",
+                                        "number":  7
+                                    },
+                                    {
+                                        "code":  "CNSL",
+                                        "type":  "O",
+                                        "descriptionText":  "LETTER OF SUSPENSION MAILED",
+                                        "date":  "1989-08-19",
+                                        "number":  6
+                                    },
+                                    {
+                                        "code":  "CRFA",
+                                        "type":  "I",
+                                        "descriptionText":  "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+                                        "date":  "1989-07-27",
+                                        "number":  5
+                                    },
+                                    {
+                                        "code":  "CNRT",
+                                        "type":  "O",
+                                        "descriptionText":  "NON-FINAL ACTION MAILED",
+                                        "date":  "1989-06-21",
+                                        "number":  4
+                                    },
+                                    {
+                                        "code":  "CRFA",
+                                        "type":  "I",
+                                        "descriptionText":  "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+                                        "date":  "1989-05-24",
+                                        "number":  3
+                                    },
+                                    {
+                                        "code":  "CNRT",
+                                        "type":  "F",
+                                        "descriptionText":  "NON-FINAL ACTION MAILED",
+                                        "date":  "1989-03-08",
+                                        "number":  2
+                                    },
+                                    {
+                                        "code":  "DOCK",
+                                        "type":  "D",
+                                        "descriptionText":  "ASSIGNED TO EXAMINER",
+                                        "date":  "1989-02-28",
+                                        "number":  1
+                                    }
+                                ],
+                     "owners":  [
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "41",
+                                        "nationality":  [
+                                                            "IT"
+                                                        ],
+                                        "legalEntityTypeCode":  "03",
+                                        "partyName":  "Beghelli S.P.A.",
+                                        "address1":  "VIA MOZZEGHINE 13-15",
+                                        "address2":  null,
+                                        "city":  "Monteveglio (BO)",
+                                        "country":  "IT",
+                                        "state":  null,
+                                        "postcode":  "40050",
+                                        "nameChangeExplanation":  "NC41000001BY CHANGE OF NAME, BY CHANGE OF NAME"
+                                    },
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "30",
+                                        "nationality":  [
+                                                            "IT"
+                                                        ],
+                                        "legalEntityTypeCode":  "10",
+                                        "partyName":  "G.P.B. BEGHELLI S.R.L.",
+                                        "address1":  null,
+                                        "address2":  "VIA J. BAROZZI 6",
+                                        "city":  "MONTEVEGLIO (BOLOGNA)",
+                                        "country":  "IT",
+                                        "state":  null,
+                                        "postcode":  null,
+                                        "nameChangeExplanation":  null
+                                    },
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "20",
+                                        "nationality":  [
+                                                            "IT"
+                                                        ],
+                                        "legalEntityTypeCode":  "10",
+                                        "partyName":  "G.P.B. BEGHELLI S.R.L.",
+                                        "address1":  null,
+                                        "address2":  "VIA J. BAROZZI 6",
+                                        "city":  "MONTEVEGLIO (BOLOGNA)",
+                                        "country":  "IT",
+                                        "state":  null,
+                                        "postcode":  null,
+                                        "nameChangeExplanation":  null
+                                    },
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "10",
+                                        "nationality":  [
+                                                            "IT"
+                                                        ],
+                                        "legalEntityTypeCode":  "10",
+                                        "partyName":  "G.P.B. BEGHELLI S.R.L.",
+                                        "address1":  null,
+                                        "address2":  "VIA J. BAROZZI 6",
+                                        "city":  "MONTEVEGLIO (BOLOGNA)",
+                                        "country":  "IT",
+                                        "state":  null,
+                                        "postcode":  null,
+                                        "nameChangeExplanation":  null
+                                    }
+                                ],
+                     "markDrawingCode":  "5R09",
+                     "caseFileStatements":  {
+                                                "GS0111":  "BATTERY-OPERATED RECHARGEABLE EMERGENCY HANDLAMPS"
+                                            },
+                     "correspondenceName":  "HERBERT DUBNO",
+                     "correspondenceAddress1":  "The Firm of Karl Ross",
+                     "correspondenceAddress2":  "5676 RIVERDALE AVENUE",
+                     "attorneyName":  "HERBERT DUBNO ",
+                     "attorneyDocketNumber":  null,
+                     "currentLocation":  "FILE REPOSITORY (FRANCONIA)",
+                     "statusCode":  "710",
+                     "liveOrDeadStatus":  "Live",
+                     "logo":  "https://tsdr.uspto.gov/img/73773358/large"
+                 },
+                 {
+                     "id":  "62a86d8f08c6f9240d1f20f2",
+                     "markIdentification":  "TATA",
+                     "filingDate":  "1996-02-22",
+                     "transactionDate":  "2020-05-31",
+                     "statusDate":  "1998-06-20",
+                     "serialNumber":  75063288,
+                     "registrationNumber":  "0000000",
+                     "classification":  [
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "2",
+                                                "internationalCode":  [
+                                                                          "042"
+                                                                      ],
+                                                "usCode":  [
+                                                               "100",
+                                                               "101"
+                                                           ],
+                                                "statusCode":  "8",
+                                                "statusDate":  "1999-08-04",
+                                                "firstUseAnywhereDate":  "1995-11-13",
+                                                "firstUseInCommerceDate":  "1995-11-13",
+                                                "primaryCode":  "042"
+                                            }
+                                        ],
+                     "events":  [
+                                    {
+                                        "code":  "PR.D",
+                                        "type":  "T",
+                                        "descriptionText":  "PETITION TO REVIVE DISMISSED",
+                                        "date":  "1998-06-15",
+                                        "number":  9
+                                    },
+                                    {
+                                        "code":  "PINM",
+                                        "type":  "O",
+                                        "descriptionText":  "INCOMPLETE PETITION NOTICE MAILED",
+                                        "date":  "1997-12-09",
+                                        "number":  8
+                                    },
+                                    {
+                                        "code":  "PETR",
+                                        "type":  "I",
+                                        "descriptionText":  "PETITION TO REVIVE-RECEIVED",
+                                        "date":  "1997-07-26",
+                                        "number":  7
+                                    },
+                                    {
+                                        "code":  "ABN2",
+                                        "type":  "O",
+                                        "descriptionText":  "ABANDONMENT - FAILURE TO RESPOND OR LATE RESPONSE",
+                                        "date":  "1997-07-06",
+                                        "number":  6
+                                    },
+                                    {
+                                        "code":  "CNRT",
+                                        "type":  "F",
+                                        "descriptionText":  "NON-FINAL ACTION MAILED",
+                                        "date":  "1996-10-31",
+                                        "number":  5
+                                    },
+                                    {
+                                        "code":  "DOCK",
+                                        "type":  "D",
+                                        "descriptionText":  "ASSIGNED TO EXAMINER",
+                                        "date":  "1996-10-01",
+                                        "number":  4
+                                    },
+                                    {
+                                        "code":  "DOCK",
+                                        "type":  "D",
+                                        "descriptionText":  "ASSIGNED TO EXAMINER",
+                                        "date":  "1996-09-09",
+                                        "number":  3
+                                    },
+                                    {
+                                        "code":  "DOCK",
+                                        "type":  "D",
+                                        "descriptionText":  "ASSIGNED TO EXAMINER",
+                                        "date":  "1996-09-03",
+                                        "number":  2
+                                    },
+                                    {
+                                        "code":  "DOCK",
+                                        "type":  "D",
+                                        "descriptionText":  "ASSIGNED TO EXAMINER",
+                                        "date":  "1996-08-16",
+                                        "number":  1
+                                    }
+                                ],
+                     "owners":  [
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "10",
+                                        "nationality":  [
+                                                            "DE"
+                                                        ],
+                                        "legalEntityTypeCode":  "03",
+                                        "partyName":  "American Network, Inc.",
+                                        "address1":  "60 East 56 Street",
+                                        "address2":  "9th Floor",
+                                        "city":  "New York",
+                                        "country":  null,
+                                        "state":  "NY",
+                                        "postcode":  "10022",
+                                        "nameChangeExplanation":  null
+                                    }
+                                ],
+                     "markDrawingCode":  "1000",
+                     "caseFileStatements":  {
+                                                "GS0421":  "leasing access time to a global network of computers on which uses can exchange information and on-line services and World Wide Web; selling services telecommunications companies"
+                                            },
+                     "correspondenceName":  "American Network, Inc.",
+                     "correspondenceAddress1":  "60 East 56 Street",
+                     "correspondenceAddress2":  "9th Floor",
+                     "attorneyName":  null,
+                     "attorneyDocketNumber":  null,
+                     "currentLocation":  "FILE REPOSITORY (FRANCONIA)",
+                     "statusCode":  "608",
+                     "liveOrDeadStatus":  "Dead",
+                     "logo":  "https://tsdr.uspto.gov/img/75063288/large"
+                 },
+                 {
+                     "id":  "62a86fc208c6f9240d2adbb5",
+                     "markIdentification":  "TATA",
+                     "filingDate":  "1999-10-26",
+                     "transactionDate":  "2020-05-31",
+                     "statusDate":  "2015-04-06",
+                     "serialNumber":  75831987,
+                     "registrationNumber":  "2929070",
+                     "classification":  [
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "7",
+                                                "internationalCode":  [
+                                                                          "006"
+                                                                      ],
+                                                "usCode":  [
+                                                               "002",
+                                                               "012",
+                                                               "013",
+                                                               "014",
+                                                               "023",
+                                                               "025",
+                                                               "050"
+                                                           ],
+                                                "statusCode":  "6",
+                                                "statusDate":  "2000-01-31",
+                                                "firstUseAnywhereDate":  "1999-01-01",
+                                                "firstUseInCommerceDate":  "1999-06-01",
+                                                "primaryCode":  "006"
+                                            },
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "5",
+                                                "internationalCode":  [
+                                                                          "009"
+                                                                      ],
+                                                "usCode":  [
+                                                               "021",
+                                                               "023",
+                                                               "026",
+                                                               "036",
+                                                               "038"
+                                                           ],
+                                                "statusCode":  "6",
+                                                "statusDate":  "2000-01-31",
+                                                "firstUseAnywhereDate":  "1999-07-01",
+                                                "firstUseInCommerceDate":  "1999-10-01",
+                                                "primaryCode":  "009"
+                                            },
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "8",
+                                                "internationalCode":  [
+                                                                          "016"
+                                                                      ],
+                                                "usCode":  [
+                                                               "002",
+                                                               "005",
+                                                               "022",
+                                                               "023",
+                                                               "029",
+                                                               "037",
+                                                               "038",
+                                                               "050"
+                                                           ],
+                                                "statusCode":  "6",
+                                                "statusDate":  "2000-01-31",
+                                                "firstUseAnywhereDate":  "1999-10-01",
+                                                "firstUseInCommerceDate":  "2000-01-01",
+                                                "primaryCode":  "016"
+                                            },
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "1",
+                                                "internationalCode":  [
+                                                                          "030"
+                                                                      ],
+                                                "usCode":  [
+                                                               "046"
+                                                           ],
+                                                "statusCode":  "6",
+                                                "statusDate":  "2000-01-31",
+                                                "firstUseAnywhereDate":  "1999-01-01",
+                                                "firstUseInCommerceDate":  "2003-06-03",
+                                                "primaryCode":  "030"
+                                            }
+                                        ],
+                     "events":  [
+                                    {
+                                        "code":  "ASGN",
+                                        "type":  "I",
+                                        "descriptionText":  "AUTOMATIC UPDATE OF ASSIGNMENT OF OWNERSHIP",
+                                        "date":  "2020-03-25",
+                                        "number":  50
+                                    },
+                                    {
+                                        "code":  "NA89",
+                                        "type":  "E",
+                                        "descriptionText":  "NOTICE OF ACCEPTANCE OF SEC. 8 ",
+                                        "date":  "2015-04-06",
+                                        "number":  49
+                                    },
+                                    {
+                                        "code":  "RNL1",
+                                        "type":  "Q",
+                                        "descriptionText":  "REGISTERED AND RENEWED (FIRST RENEWAL - 10 YRS)",
+                                        "date":  "2015-04-06",
+                                        "number":  48
+                                    },
+                                    {
+                                        "code":  "89AG",
+                                        "type":  "O",
+                                        "descriptionText":  "REGISTERED - SEC. 8 (10-YR) ACCEPTED/SEC. 9 GRANTED",
+                                        "date":  "2015-04-06",
+                                        "number":  47
+                                    },
+                                    {
+                                        "code":  "APRE",
+                                        "type":  "A",
+                                        "descriptionText":  "CASE ASSIGNED TO POST REGISTRATION PARALEGAL",
+                                        "date":  "2015-04-06",
+                                        "number":  46
+                                    },
+                                    {
+                                        "code":  "E89R",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS SECTION 8 ",
+                                        "date":  "2015-03-23",
+                                        "number":  45
+                                    },
+                                    {
+                                        "code":  "CORV",
+                                        "type":  "1",
+                                        "descriptionText":  "REVIEW OF CORRESPONDENCE COMPLETE - ADDRESS UPDATED",
+                                        "date":  "2012-09-22",
+                                        "number":  44
+                                    },
+                                    {
+                                        "code":  "MAIL",
+                                        "type":  "I",
+                                        "descriptionText":  "PAPER RECEIVED",
+                                        "date":  "2012-09-13",
+                                        "number":  43
+                                    },
+                                    {
+                                        "code":  "NA85",
+                                        "type":  "E",
+                                        "descriptionText":  "NOTICE OF ACCEPTANCE OF SEC. 8 ",
+                                        "date":  "2011-09-26",
+                                        "number":  42
+                                    },
+                                    {
+                                        "code":  "C15A",
+                                        "type":  "O",
+                                        "descriptionText":  "REGISTERED - SEC. 8 (6-YR) ACCEPTED ",
+                                        "date":  "2011-09-26",
+                                        "number":  41
+                                    },
+                                    {
+                                        "code":  "APRE",
+                                        "type":  "A",
+                                        "descriptionText":  "CASE ASSIGNED TO POST REGISTRATION PARALEGAL",
+                                        "date":  "2011-09-23",
+                                        "number":  40
+                                    },
+                                    {
+                                        "code":  "E815",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS SECTION 8 ",
+                                        "date":  "2011-08-23",
+                                        "number":  39
+                                    },
+                                    {
+                                        "code":  "NOSU",
+                                        "type":  "I",
+                                        "descriptionText":  "NOTICE OF SUIT",
+                                        "date":  "2010-05-14",
+                                        "number":  38
+                                    },
+                                    {
+                                        "code":  "R.PR",
+                                        "type":  "A",
+                                        "descriptionText":  "REGISTERED-PRINCIPAL REGISTER",
+                                        "date":  "2005-03-01",
+                                        "number":  37
+                                    },
+                                    {
+                                        "code":  "REGV",
+                                        "type":  "O",
+                                        "descriptionText":  "LAW OFFICE REGISTRATION REVIEW COMPLETED",
+                                        "date":  "2004-12-23",
+                                        "number":  36
+                                    },
+                                    {
+                                        "code":  "ALIE",
+                                        "type":  "A",
+                                        "descriptionText":  "ASSIGNED TO LIE",
+                                        "date":  "2004-12-20",
+                                        "number":  35
+                                    },
+                                    {
+                                        "code":  "CNPR",
+                                        "type":  "P",
+                                        "descriptionText":  "ALLOWED PRINCIPAL REGISTER - SOU ACCEPTED",
+                                        "date":  "2004-12-09",
+                                        "number":  34
+                                    },
+                                    {
+                                        "code":  "ACEC",
+                                        "type":  "I",
+                                        "descriptionText":  "AMENDMENT FROM APPLICANT ENTERED",
+                                        "date":  "2004-12-09",
+                                        "number":  33
+                                    },
+                                    {
+                                        "code":  "CRFA",
+                                        "type":  "I",
+                                        "descriptionText":  "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+                                        "date":  "2004-11-15",
+                                        "number":  32
+                                    },
+                                    {
+                                        "code":  "SUPC",
+                                        "type":  "I",
+                                        "descriptionText":  "STATEMENT OF USE PROCESSING COMPLETE",
+                                        "date":  "2004-12-07",
+                                        "number":  31
+                                    },
+                                    {
+                                        "code":  "IUAF",
+                                        "type":  "S",
+                                        "descriptionText":  "USE AMENDMENT FILED",
+                                        "date":  "2004-11-12",
+                                        "number":  30
+                                    },
+                                    {
+                                        "code":  "MAIL",
+                                        "type":  "I",
+                                        "descriptionText":  "PAPER RECEIVED",
+                                        "date":  "2004-11-15",
+                                        "number":  29
+                                    },
+                                    {
+                                        "code":  "EX2G",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 2 GRANTED",
+                                        "date":  "2004-06-07",
+                                        "number":  28
+                                    },
+                                    {
+                                        "code":  "EXT2",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 2 FILED",
+                                        "date":  "2004-05-11",
+                                        "number":  27
+                                    },
+                                    {
+                                        "code":  "MAIL",
+                                        "type":  "I",
+                                        "descriptionText":  "PAPER RECEIVED",
+                                        "date":  "2004-06-01",
+                                        "number":  26
+                                    },
+                                    {
+                                        "code":  "CFIT",
+                                        "type":  "O",
+                                        "descriptionText":  "CASE FILE IN TICRS",
+                                        "date":  "2004-05-21",
+                                        "number":  25
+                                    },
+                                    {
+                                        "code":  "MAIL",
+                                        "type":  "I",
+                                        "descriptionText":  "PAPER RECEIVED",
+                                        "date":  "2004-05-11",
+                                        "number":  24
+                                    },
+                                    {
+                                        "code":  "EX1G",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 1 GRANTED",
+                                        "date":  "2003-11-04",
+                                        "number":  23
+                                    },
+                                    {
+                                        "code":  "EXT1",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 1 FILED",
+                                        "date":  "2003-11-04",
+                                        "number":  22
+                                    },
+                                    {
+                                        "code":  "MAIL",
+                                        "type":  "I",
+                                        "descriptionText":  "PAPER RECEIVED",
+                                        "date":  "2003-11-04",
+                                        "number":  21
+                                    },
+                                    {
+                                        "code":  "NOAM",
+                                        "type":  "O",
+                                        "descriptionText":  "NOA MAILED - SOU REQUIRED FROM APPLICANT",
+                                        "date":  "2003-05-13",
+                                        "number":  20
+                                    },
+                                    {
+                                        "code":  "PUBO",
+                                        "type":  "A",
+                                        "descriptionText":  "PUBLISHED FOR OPPOSITION",
+                                        "date":  "2003-02-18",
+                                        "number":  19
+                                    },
+                                    {
+                                        "code":  "NPUB",
+                                        "type":  "O",
+                                        "descriptionText":  "NOTICE OF PUBLICATION",
+                                        "date":  "2003-01-29",
+                                        "number":  18
+                                    },
+                                    {
+                                        "code":  "CNSA",
+                                        "type":  "P",
+                                        "descriptionText":  "APPROVED FOR PUB - PRINCIPAL REGISTER",
+                                        "date":  "2002-12-03",
+                                        "number":  17
+                                    },
+                                    {
+                                        "code":  "CNEA",
+                                        "type":  "O",
+                                        "descriptionText":  "EXAMINERS AMENDMENT MAILED",
+                                        "date":  "2002-11-27",
+                                        "number":  16
+                                    },
+                                    {
+                                        "code":  "CRFA",
+                                        "type":  "I",
+                                        "descriptionText":  "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+                                        "date":  "2002-06-28",
+                                        "number":  15
+                                    },
+                                    {
+                                        "code":  "MAIL",
+                                        "type":  "I",
+                                        "descriptionText":  "PAPER RECEIVED",
+                                        "date":  "2002-06-28",
+                                        "number":  14
+                                    },
+                                    {
+                                        "code":  "CNRT",
+                                        "type":  "O",
+                                        "descriptionText":  "NON-FINAL ACTION MAILED",
+                                        "date":  "2002-07-01",
+                                        "number":  13
+                                    },
+                                    {
+                                        "code":  "MAIL",
+                                        "type":  "I",
+                                        "descriptionText":  "PAPER RECEIVED",
+                                        "date":  "2002-06-11",
+                                        "number":  12
+                                    },
+                                    {
+                                        "code":  "CRFA",
+                                        "type":  "I",
+                                        "descriptionText":  "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+                                        "date":  "2002-03-18",
+                                        "number":  11
+                                    },
+                                    {
+                                        "code":  "CNRT",
+                                        "type":  "O",
+                                        "descriptionText":  "NON-FINAL ACTION MAILED",
+                                        "date":  "2002-05-01",
+                                        "number":  10
+                                    },
+                                    {
+                                        "code":  "CRFA",
+                                        "type":  "I",
+                                        "descriptionText":  "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+                                        "date":  "2002-01-09",
+                                        "number":  9
+                                    },
+                                    {
+                                        "code":  "CNSL",
+                                        "type":  "S",
+                                        "descriptionText":  "LETTER OF SUSPENSION MAILED",
+                                        "date":  "2001-10-12",
+                                        "number":  8
+                                    },
+                                    {
+                                        "code":  "ZZZX",
+                                        "type":  "Z",
+                                        "descriptionText":  "PREVIOUS ALLOWANCE COUNT WITHDRAWN",
+                                        "date":  "2001-10-10",
+                                        "number":  7
+                                    },
+                                    {
+                                        "code":  "CNSA",
+                                        "type":  "P",
+                                        "descriptionText":  "APPROVED FOR PUB - PRINCIPAL REGISTER",
+                                        "date":  "2001-10-03",
+                                        "number":  6
+                                    },
+                                    {
+                                        "code":  "CRFA",
+                                        "type":  "I",
+                                        "descriptionText":  "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+                                        "date":  "2001-06-14",
+                                        "number":  5
+                                    },
+                                    {
+                                        "code":  "CNRT",
+                                        "type":  "F",
+                                        "descriptionText":  "NON-FINAL ACTION MAILED",
+                                        "date":  "2001-01-31",
+                                        "number":  4
+                                    },
+                                    {
+                                        "code":  "CRFA",
+                                        "type":  "I",
+                                        "descriptionText":  "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+                                        "date":  "2000-09-14",
+                                        "number":  3
+                                    },
+                                    {
+                                        "code":  "CNRT",
+                                        "type":  "F",
+                                        "descriptionText":  "NON-FINAL ACTION MAILED",
+                                        "date":  "2000-03-14",
+                                        "number":  2
+                                    },
+                                    {
+                                        "code":  "DOCK",
+                                        "type":  "D",
+                                        "descriptionText":  "ASSIGNED TO EXAMINER",
+                                        "date":  "2000-03-03",
+                                        "number":  1
+                                    }
+                                ],
+                     "owners":  [
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "31",
+                                        "nationality":  [
+                                                            "IN"
+                                                        ],
+                                        "legalEntityTypeCode":  "11",
+                                        "partyName":  "TATA SONS PRIVATE LIMITED",
+                                        "address1":  "BOMBAY HOUSE, 24 HOMI MODY STREET",
+                                        "address2":  null,
+                                        "city":  "MUMBAI",
+                                        "country":  "IN",
+                                        "state":  null,
+                                        "postcode":  "400001",
+                                        "nameChangeExplanation":  null
+                                    },
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "30",
+                                        "nationality":  [
+                                                            "IN"
+                                                        ],
+                                        "legalEntityTypeCode":  "11",
+                                        "partyName":  "TATA SONS LIMITED",
+                                        "address1":  "Bombay House, 24, Homi Mody Street",
+                                        "address2":  null,
+                                        "city":  "Mumbai 400 001",
+                                        "country":  "IN",
+                                        "state":  null,
+                                        "postcode":  null,
+                                        "nameChangeExplanation":  null
+                                    },
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "20",
+                                        "nationality":  [
+                                                            "IN"
+                                                        ],
+                                        "legalEntityTypeCode":  "11",
+                                        "partyName":  "TATA SONS LIMITED",
+                                        "address1":  "Bombay House, 24, Homi Mody Street",
+                                        "address2":  null,
+                                        "city":  "Mumbai 400 001",
+                                        "country":  "IN",
+                                        "state":  null,
+                                        "postcode":  null,
+                                        "nameChangeExplanation":  null
+                                    },
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "10",
+                                        "nationality":  [
+                                                            "IN"
+                                                        ],
+                                        "legalEntityTypeCode":  "11",
+                                        "partyName":  "TATA SONS LIMITED",
+                                        "address1":  "Bombay House, 24, Homi Mody Street",
+                                        "address2":  null,
+                                        "city":  "Mumbai 400 001",
+                                        "country":  "IN",
+                                        "state":  null,
+                                        "postcode":  null,
+                                        "nameChangeExplanation":  null
+                                    }
+                                ],
+                     "markDrawingCode":  "3000",
+                     "caseFileStatements":  {
+                                                "GS0301":  "Tea, coffee, rice, spices, flour and preparations made from cereals namely, processed cereals and breakfast cereals; bread, pastry and confectionery items namely pastries, chocolates and fudge bars; honey, mustard and sauces",
+                                                "GS0091":  "Computer programs for wireless communications for use in banking, securities, manufacturing, financial service industry, payment systems applications, insurance, healthcare, retail, electronic commerce, location identification and e-governance applications, a full line of computer software for business, home, education, and developer use, namely, computer programs for use in banking, securities, manufacturing, financial service industry, payment systems applications, insurance, healthcare, and retail industries, computer programs for developing system management solutions, computer programs for systems management namely, network management, asset management, configuration management, performance management, fault management, distribution management, security management and administration; computer systems comprised of operating programs, software and applications, database management programs, application software, transaction processing programs, security software, pre-recorded computer programs for use in banking, securities, manufacturing, financial service industry, payment systems applications, insurance, healthcare, and retail industries, electronic commerce, location identification and e-governance applications, compact discs featuring computer programs for use in banking, securities, manufacturing, financial service industry, payment systems applications, insurance, healthcare, and retail industries, electronic commerce, location identification and e-governance applications; computer operating system software to facilitate computer use and operation computer operating system software; computer operating programs; computer hardware and software for the development, maintenance, and use of local and wide area computer networks; software for use in operating and maintaining computer system such as operating systems, database management system, transaction processing system, security software; algorithm software programs for the operation and control of computers; parts, fittings, and testing apparatus for all the aforesaid goods; and user manuals for use with, and sold as a unit with, all the aforesaid goods",
+                                                "GS0061":  "Hot rolled steel bars, plates, sheets and coils; cold rolled steel sheets and coils; galvanized steel wire; stainless steel bars; high carbon steel wire; steel ropes; steel rods, steel in billet form; metal fasteners, namely nails, metal pipes and steel plates",
+                                                "GS0161":  "Business forms; computer printout paper and note pads, compositor and typewriter ribbons; image transfer paper; computer programs in the form of print; periodical publications containing articles about data processing and subjects of general interest; instruction books for the design, construction, maintenance, operation and programming of data processing equipment; electric typewriters; magnetic media typewriters; type; ad typing elements; electric and magnetic direct impression typing and composing machines; printed matter, namely, instructional manuals for computer programs, magazines, newsletters, newspaper inserts and booklets, all in the fields of computer software, computers, computer system hardware, network hardware, telecommunications, information technology, word processing, database management, multimedia, entertainment equipment and e-commerce; printed matter, namely, instructional manuals for computer programs, magazines, newsletters, newspaper inserts and booklets, all in the fields of designing, creating, implementing and maintaining web sites for others, computer systems and networks, and computer programming for others, all in relation to commercial interactions over a global computer network",
+                                                "CC0000":  "Color is not claimed as a feature of the mark."
+                                            },
+                     "correspondenceName":  "PAUL F. KILMER",
+                     "correspondenceAddress1":  "HOLLAND ",
+                     "correspondenceAddress2":  "800 17TH STREET NW",
+                     "attorneyName":  "Paul F. Kilmer ",
+                     "attorneyDocketNumber":  "072460-00002",
+                     "currentLocation":  "GENERIC WEB UPDATE",
+                     "statusCode":  "800",
+                     "liveOrDeadStatus":  "Live",
+                     "logo":  "https://tsdr.uspto.gov/img/75831987/large"
+                 },
+                 {
+                     "id":  "62a86fe608c6f9240d2b39c4",
+                     "markIdentification":  "TATA",
+                     "filingDate":  "1999-11-22",
+                     "transactionDate":  "2020-05-31",
+                     "statusDate":  "2006-02-02",
+                     "serialNumber":  75856065,
+                     "registrationNumber":  "0000000",
+                     "classification":  [
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "1",
+                                                "internationalCode":  [
+                                                                          "030"
+                                                                      ],
+                                                "usCode":  [
+                                                               "046"
+                                                           ],
+                                                "statusCode":  "6",
+                                                "statusDate":  "2000-03-03",
+                                                "firstUseAnywhereDate":  "1997-09-07",
+                                                "firstUseInCommerceDate":  "1997-09-07",
+                                                "primaryCode":  "030"
+                                            }
+                                        ],
+                     "events":  [
+                                    {
+                                        "code":  "MAB2",
+                                        "type":  "O",
+                                        "descriptionText":  "ABANDONMENT NOTICE MAILED - FAILURE TO RESPOND",
+                                        "date":  "2006-02-02",
+                                        "number":  13
+                                    },
+                                    {
+                                        "code":  "ABN2",
+                                        "type":  "O",
+                                        "descriptionText":  "ABANDONMENT - FAILURE TO RESPOND OR LATE RESPONSE",
+                                        "date":  "2006-02-02",
+                                        "number":  12
+                                    },
+                                    {
+                                        "code":  "CNRT",
+                                        "type":  "O",
+                                        "descriptionText":  "NON-FINAL ACTION MAILED",
+                                        "date":  "2005-07-07",
+                                        "number":  11
+                                    },
+                                    {
+                                        "code":  "CNRT",
+                                        "type":  "R",
+                                        "descriptionText":  "NON-FINAL ACTION  WRITTEN",
+                                        "date":  "2005-07-06",
+                                        "number":  10
+                                    },
+                                    {
+                                        "code":  "RCCK",
+                                        "type":  "S",
+                                        "descriptionText":  "SUSPENSION CHECKED ¿ TO ATTORNEY FOR ACTION",
+                                        "date":  "2005-06-28",
+                                        "number":  9
+                                    },
+                                    {
+                                        "code":  "RCSC",
+                                        "type":  "S",
+                                        "descriptionText":  "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+                                        "date":  "2004-12-17",
+                                        "number":  8
+                                    },
+                                    {
+                                        "code":  "RCSC",
+                                        "type":  "S",
+                                        "descriptionText":  "REPORT COMPLETED SUSPENSION CHECK CASE STILL SUSPENDED",
+                                        "date":  "2004-06-17",
+                                        "number":  7
+                                    },
+                                    {
+                                        "code":  "CFIT",
+                                        "type":  "O",
+                                        "descriptionText":  "CASE FILE IN TICRS",
+                                        "date":  "2003-04-23",
+                                        "number":  6
+                                    },
+                                    {
+                                        "code":  "CNSL",
+                                        "type":  "F",
+                                        "descriptionText":  "LETTER OF SUSPENSION MAILED",
+                                        "date":  "2001-01-22",
+                                        "number":  5
+                                    },
+                                    {
+                                        "code":  "CRFA",
+                                        "type":  "I",
+                                        "descriptionText":  "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+                                        "date":  "2000-10-23",
+                                        "number":  4
+                                    },
+                                    {
+                                        "code":  "CNRT",
+                                        "type":  "F",
+                                        "descriptionText":  "NON-FINAL ACTION MAILED",
+                                        "date":  "2000-05-10",
+                                        "number":  3
+                                    },
+                                    {
+                                        "code":  "DOCK",
+                                        "type":  "D",
+                                        "descriptionText":  "ASSIGNED TO EXAMINER",
+                                        "date":  "2000-04-22",
+                                        "number":  2
+                                    },
+                                    {
+                                        "code":  "DOCK",
+                                        "type":  "D",
+                                        "descriptionText":  "ASSIGNED TO EXAMINER",
+                                        "date":  "2000-04-21",
+                                        "number":  1
+                                    }
+                                ],
+                     "owners":  [
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "10",
+                                        "nationality":  [
+                                                            "CA"
+                                                        ],
+                                        "legalEntityTypeCode":  "03",
+                                        "partyName":  "Nuts ",
+                                        "address1":  "29266 Union City Blvd.",
+                                        "address2":  null,
+                                        "city":  "Union City",
+                                        "country":  null,
+                                        "state":  "CA",
+                                        "postcode":  "94587",
+                                        "nameChangeExplanation":  null
+                                    }
+                                ],
+                     "markDrawingCode":  "3000",
+                     "caseFileStatements":  {
+                                                "GS0301":  "Basmati Rice"
+                                            },
+                     "correspondenceName":  "E. RUSSELL TARLETON",
+                     "correspondenceAddress1":  "SEED AND BERRY LLP",
+                     "correspondenceAddress2":  "701 FIFTH AVENUE, SUITE 6300",
+                     "attorneyName":  "E. Russell Tarleton ",
+                     "attorneyDocketNumber":  "700111.204",
+                     "currentLocation":  "TMO LAW OFFICE 113 - EXAMINING ATTORNEY ASSIGNED",
+                     "statusCode":  "602",
+                     "liveOrDeadStatus":  "Dead",
+                     "logo":  "https://tsdr.uspto.gov/img/75856065/large"
+                 },
+                 {
+                     "id":  "62a871c508c6f9240d345123",
+                     "markIdentification":  "TATA",
+                     "filingDate":  "2003-03-06",
+                     "transactionDate":  "2020-05-31",
+                     "statusDate":  "2004-07-14",
+                     "serialNumber":  76495003,
+                     "registrationNumber":  "0000000",
+                     "classification":  [
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "4",
+                                                "internationalCode":  [
+                                                                          "028"
+                                                                      ],
+                                                "usCode":  [
+                                                               "022",
+                                                               "023",
+                                                               "038",
+                                                               "050"
+                                                           ],
+                                                "statusCode":  "6",
+                                                "statusDate":  "2003-03-21",
+                                                "firstUseAnywhereDate":  null,
+                                                "firstUseInCommerceDate":  null,
+                                                "primaryCode":  "028"
+                                            }
+                                        ],
+                     "events":  [
+                                    {
+                                        "code":  "ABN6",
+                                        "type":  "S",
+                                        "descriptionText":  "ABANDONMENT - NO USE STATEMENT FILED",
+                                        "date":  "2004-09-09",
+                                        "number":  6
+                                    },
+                                    {
+                                        "code":  "NOAM",
+                                        "type":  "O",
+                                        "descriptionText":  "NOA MAILED - SOU REQUIRED FROM APPLICANT",
+                                        "date":  "2004-01-13",
+                                        "number":  5
+                                    },
+                                    {
+                                        "code":  "PUBO",
+                                        "type":  "A",
+                                        "descriptionText":  "PUBLISHED FOR OPPOSITION",
+                                        "date":  "2003-10-21",
+                                        "number":  4
+                                    },
+                                    {
+                                        "code":  "NPUB",
+                                        "type":  "O",
+                                        "descriptionText":  "NOTICE OF PUBLICATION",
+                                        "date":  "2003-10-01",
+                                        "number":  3
+                                    },
+                                    {
+                                        "code":  "CNSA",
+                                        "type":  "P",
+                                        "descriptionText":  "APPROVED FOR PUB - PRINCIPAL REGISTER",
+                                        "date":  "2003-08-18",
+                                        "number":  2
+                                    },
+                                    {
+                                        "code":  "DOCK",
+                                        "type":  "D",
+                                        "descriptionText":  "ASSIGNED TO EXAMINER",
+                                        "date":  "2003-08-15",
+                                        "number":  1
+                                    }
+                                ],
+                     "owners":  [
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "20",
+                                        "nationality":  [
+                                                            "RI"
+                                                        ],
+                                        "legalEntityTypeCode":  "03",
+                                        "partyName":  "HASBRO, INC.",
+                                        "address1":  "1027 Newport Avenue",
+                                        "address2":  null,
+                                        "city":  "Pawtucket",
+                                        "country":  null,
+                                        "state":  "RI",
+                                        "postcode":  "02862",
+                                        "nameChangeExplanation":  null
+                                    },
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "10",
+                                        "nationality":  [
+                                                            "RI"
+                                                        ],
+                                        "legalEntityTypeCode":  "03",
+                                        "partyName":  "HASBRO, INC.",
+                                        "address1":  "1027 Newport Avenue",
+                                        "address2":  null,
+                                        "city":  "Pawtucket",
+                                        "country":  null,
+                                        "state":  "RI",
+                                        "postcode":  "02862",
+                                        "nameChangeExplanation":  null
+                                    }
+                                ],
+                     "markDrawingCode":  "1000",
+                     "caseFileStatements":  {
+                                                "GS0281":  "novelty toys, namely, electronic toy figures"
+                                            },
+                     "correspondenceName":  "PAUL N. VANASSE",
+                     "correspondenceAddress1":  "HASBRO, INC.",
+                     "correspondenceAddress2":  "1027 NEWPORT AVENUE",
+                     "attorneyName":  null,
+                     "attorneyDocketNumber":  null,
+                     "currentLocation":  "FILE REPOSITORY (FRANCONIA)",
+                     "statusCode":  "606",
+                     "liveOrDeadStatus":  "Dead",
+                     "logo":  "https://tsdr.uspto.gov/img/76495003/large"
+                 },
+                 {
+                     "id":  "62a872d208c6f9240d383468",
+                     "markIdentification":  "TATA",
+                     "filingDate":  "2006-10-19",
+                     "transactionDate":  "2020-09-27",
+                     "statusDate":  "2018-04-03",
+                     "serialNumber":  77024615,
+                     "registrationNumber":  "4031815",
+                     "classification":  [
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "7",
+                                                "internationalCode":  [
+                                                                          "006"
+                                                                      ],
+                                                "usCode":  [
+                                                               "002",
+                                                               "012",
+                                                               "013",
+                                                               "014",
+                                                               "023",
+                                                               "025",
+                                                               "050"
+                                                           ],
+                                                "statusCode":  "6",
+                                                "statusDate":  "2006-10-24",
+                                                "firstUseAnywhereDate":  "1999-01-31",
+                                                "firstUseInCommerceDate":  "1999-06-30",
+                                                "primaryCode":  "006"
+                                            },
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "5",
+                                                "internationalCode":  [
+                                                                          "009"
+                                                                      ],
+                                                "usCode":  [
+                                                               "021",
+                                                               "023",
+                                                               "026",
+                                                               "036",
+                                                               "038"
+                                                           ],
+                                                "statusCode":  "6",
+                                                "statusDate":  "2006-10-24",
+                                                "firstUseAnywhereDate":  "1999-07-01",
+                                                "firstUseInCommerceDate":  "1999-10-01",
+                                                "primaryCode":  "009"
+                                            },
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "8",
+                                                "internationalCode":  [
+                                                                          "016"
+                                                                      ],
+                                                "usCode":  [
+                                                               "002",
+                                                               "005",
+                                                               "022",
+                                                               "023",
+                                                               "029",
+                                                               "037",
+                                                               "038",
+                                                               "050"
+                                                           ],
+                                                "statusCode":  "6",
+                                                "statusDate":  "2006-10-24",
+                                                "firstUseAnywhereDate":  "1999-10-31",
+                                                "firstUseInCommerceDate":  "2000-01-31",
+                                                "primaryCode":  "016"
+                                            },
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "1",
+                                                "internationalCode":  [
+                                                                          "030"
+                                                                      ],
+                                                "usCode":  [
+                                                               "046"
+                                                           ],
+                                                "statusCode":  "6",
+                                                "statusDate":  "2006-10-24",
+                                                "firstUseAnywhereDate":  "1964-05-19",
+                                                "firstUseInCommerceDate":  "1964-05-19",
+                                                "primaryCode":  "030"
+                                            },
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "3",
+                                                "internationalCode":  [
+                                                                          "041"
+                                                                      ],
+                                                "usCode":  [
+                                                               "100",
+                                                               "101",
+                                                               "107"
+                                                           ],
+                                                "statusCode":  "6",
+                                                "statusDate":  "2006-10-24",
+                                                "firstUseAnywhereDate":  "2006-10-31",
+                                                "firstUseInCommerceDate":  "2006-10-31",
+                                                "primaryCode":  "041"
+                                            },
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "2",
+                                                "internationalCode":  [
+                                                                          "042"
+                                                                      ],
+                                                "usCode":  [
+                                                               "100",
+                                                               "101"
+                                                           ],
+                                                "statusCode":  "6",
+                                                "statusDate":  "2006-10-24",
+                                                "firstUseAnywhereDate":  "1975-11-30",
+                                                "firstUseInCommerceDate":  "1975-11-30",
+                                                "primaryCode":  "042"
+                                            }
+                                        ],
+                     "events":  [
+                                    {
+                                        "code":  "REM2",
+                                        "type":  "E",
+                                        "descriptionText":  "COURTESY REMINDER - SEC. 8 (10-YR)/SEC. 9 E-MAILED",
+                                        "date":  "2020-09-27",
+                                        "number":  67
+                                    },
+                                    {
+                                        "code":  "ASGN",
+                                        "type":  "I",
+                                        "descriptionText":  "AUTOMATIC UPDATE OF ASSIGNMENT OF OWNERSHIP",
+                                        "date":  "2020-03-25",
+                                        "number":  66
+                                    },
+                                    {
+                                        "code":  "NA85",
+                                        "type":  "E",
+                                        "descriptionText":  "NOTICE OF ACCEPTANCE OF SEC. 8 ",
+                                        "date":  "2018-04-03",
+                                        "number":  65
+                                    },
+                                    {
+                                        "code":  "C15A",
+                                        "type":  "O",
+                                        "descriptionText":  "REGISTERED - SEC. 8 (6-YR) ACCEPTED ",
+                                        "date":  "2018-04-03",
+                                        "number":  64
+                                    },
+                                    {
+                                        "code":  "APRE",
+                                        "type":  "A",
+                                        "descriptionText":  "CASE ASSIGNED TO POST REGISTRATION PARALEGAL",
+                                        "date":  "2018-04-03",
+                                        "number":  63
+                                    },
+                                    {
+                                        "code":  "E815",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS SECTION 8 ",
+                                        "date":  "2018-03-23",
+                                        "number":  62
+                                    },
+                                    {
+                                        "code":  "CORV",
+                                        "type":  "2",
+                                        "descriptionText":  "REVIEW OF CORRESPONDENCE COMPLETE - ADDRESS NOT UPDATED",
+                                        "date":  "2012-09-24",
+                                        "number":  61
+                                    },
+                                    {
+                                        "code":  "MAIL",
+                                        "type":  "I",
+                                        "descriptionText":  "PAPER RECEIVED",
+                                        "date":  "2012-09-13",
+                                        "number":  60
+                                    },
+                                    {
+                                        "code":  "R.PR",
+                                        "type":  "A",
+                                        "descriptionText":  "REGISTERED-PRINCIPAL REGISTER",
+                                        "date":  "2011-09-27",
+                                        "number":  59
+                                    },
+                                    {
+                                        "code":  "SUNA",
+                                        "type":  "E",
+                                        "descriptionText":  "NOTICE OF ACCEPTANCE OF STATEMENT OF USE E-MAILED",
+                                        "date":  "2011-08-20",
+                                        "number":  58
+                                    },
+                                    {
+                                        "code":  "REGV",
+                                        "type":  "O",
+                                        "descriptionText":  "LAW OFFICE REGISTRATION REVIEW COMPLETED",
+                                        "date":  "2011-08-19",
+                                        "number":  57
+                                    },
+                                    {
+                                        "code":  "ALIE",
+                                        "type":  "A",
+                                        "descriptionText":  "ASSIGNED TO LIE",
+                                        "date":  "2011-08-19",
+                                        "number":  56
+                                    },
+                                    {
+                                        "code":  "CNPR",
+                                        "type":  "P",
+                                        "descriptionText":  "ALLOWED PRINCIPAL REGISTER - SOU ACCEPTED",
+                                        "date":  "2011-08-09",
+                                        "number":  55
+                                    },
+                                    {
+                                        "code":  "SUPC",
+                                        "type":  "I",
+                                        "descriptionText":  "STATEMENT OF USE PROCESSING COMPLETE",
+                                        "date":  "2011-08-02",
+                                        "number":  54
+                                    },
+                                    {
+                                        "code":  "IUAF",
+                                        "type":  "S",
+                                        "descriptionText":  "USE AMENDMENT FILED",
+                                        "date":  "2011-07-15",
+                                        "number":  53
+                                    },
+                                    {
+                                        "code":  "EISU",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS STATEMENT OF USE RECEIVED",
+                                        "date":  "2011-07-15",
+                                        "number":  52
+                                    },
+                                    {
+                                        "code":  "NOAC",
+                                        "type":  "E",
+                                        "descriptionText":  "CORRECTED NOA E-MAILED",
+                                        "date":  "2011-04-07",
+                                        "number":  51
+                                    },
+                                    {
+                                        "code":  "DPCC",
+                                        "type":  "D",
+                                        "descriptionText":  "DIVISIONAL PROCESSING COMPLETE",
+                                        "date":  "2011-04-06",
+                                        "number":  50
+                                    },
+                                    {
+                                        "code":  "DRRR",
+                                        "type":  "I",
+                                        "descriptionText":  "DIVISIONAL REQUEST RECEIVED",
+                                        "date":  "2011-03-14",
+                                        "number":  49
+                                    },
+                                    {
+                                        "code":  "CHAN",
+                                        "type":  "I",
+                                        "descriptionText":  "APPLICANT/CORRESPONDENCE CHANGES (NON-RESPONSIVE) ENTERED",
+                                        "date":  "2011-04-06",
+                                        "number":  48
+                                    },
+                                    {
+                                        "code":  "TROA",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS RESPONSE TO OFFICE ACTION RECEIVED",
+                                        "date":  "2011-04-06",
+                                        "number":  47
+                                    },
+                                    {
+                                        "code":  "ERTD",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS REQUEST TO DIVIDE RECEIVED",
+                                        "date":  "2011-03-14",
+                                        "number":  46
+                                    },
+                                    {
+                                        "code":  "EXRA",
+                                        "type":  "E",
+                                        "descriptionText":  "NOTICE OF APPROVAL OF EXTENSION REQUEST E-MAILED",
+                                        "date":  "2011-01-13",
+                                        "number":  45
+                                    },
+                                    {
+                                        "code":  "EX5G",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 5 GRANTED",
+                                        "date":  "2011-01-11",
+                                        "number":  44
+                                    },
+                                    {
+                                        "code":  "EXT5",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 5 FILED",
+                                        "date":  "2011-01-11",
+                                        "number":  43
+                                    },
+                                    {
+                                        "code":  "EEXT",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS EXTENSION RECEIVED",
+                                        "date":  "2011-01-11",
+                                        "number":  42
+                                    },
+                                    {
+                                        "code":  "EXRA",
+                                        "type":  "E",
+                                        "descriptionText":  "NOTICE OF APPROVAL OF EXTENSION REQUEST E-MAILED",
+                                        "date":  "2010-07-16",
+                                        "number":  41
+                                    },
+                                    {
+                                        "code":  "EX4G",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 4 GRANTED",
+                                        "date":  "2010-07-14",
+                                        "number":  40
+                                    },
+                                    {
+                                        "code":  "EXT4",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 4 FILED",
+                                        "date":  "2010-07-14",
+                                        "number":  39
+                                    },
+                                    {
+                                        "code":  "EEXT",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS EXTENSION RECEIVED",
+                                        "date":  "2010-07-14",
+                                        "number":  38
+                                    },
+                                    {
+                                        "code":  "EX3G",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 3 GRANTED",
+                                        "date":  "2010-01-19",
+                                        "number":  37
+                                    },
+                                    {
+                                        "code":  "EXT3",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 3 FILED",
+                                        "date":  "2010-01-14",
+                                        "number":  36
+                                    },
+                                    {
+                                        "code":  "EEXT",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS EXTENSION RECEIVED",
+                                        "date":  "2010-01-14",
+                                        "number":  35
+                                    },
+                                    {
+                                        "code":  "EX2G",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 2 GRANTED",
+                                        "date":  "2009-08-07",
+                                        "number":  34
+                                    },
+                                    {
+                                        "code":  "EXT2",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 2 FILED",
+                                        "date":  "2009-07-14",
+                                        "number":  33
+                                    },
+                                    {
+                                        "code":  "AITU",
+                                        "type":  "A",
+                                        "descriptionText":  "CASE ASSIGNED TO INTENT TO USE PARALEGAL",
+                                        "date":  "2009-08-07",
+                                        "number":  32
+                                    },
+                                    {
+                                        "code":  "EEXT",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS EXTENSION RECEIVED",
+                                        "date":  "2009-07-14",
+                                        "number":  31
+                                    },
+                                    {
+                                        "code":  "EX1G",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 1 GRANTED",
+                                        "date":  "2009-01-08",
+                                        "number":  30
+                                    },
+                                    {
+                                        "code":  "EXT1",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 1 FILED",
+                                        "date":  "2009-01-08",
+                                        "number":  29
+                                    },
+                                    {
+                                        "code":  "EEXT",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS EXTENSION RECEIVED",
+                                        "date":  "2009-01-08",
+                                        "number":  28
+                                    },
+                                    {
+                                        "code":  "NOAM",
+                                        "type":  "O",
+                                        "descriptionText":  "NOA MAILED - SOU REQUIRED FROM APPLICANT",
+                                        "date":  "2008-07-15",
+                                        "number":  27
+                                    },
+                                    {
+                                        "code":  "PUBO",
+                                        "type":  "A",
+                                        "descriptionText":  "PUBLISHED FOR OPPOSITION",
+                                        "date":  "2008-04-22",
+                                        "number":  26
+                                    },
+                                    {
+                                        "code":  "NPUB",
+                                        "type":  "O",
+                                        "descriptionText":  "NOTICE OF PUBLICATION",
+                                        "date":  "2008-04-02",
+                                        "number":  25
+                                    },
+                                    {
+                                        "code":  "PREV",
+                                        "type":  "O",
+                                        "descriptionText":  "LAW OFFICE PUBLICATION REVIEW COMPLETED",
+                                        "date":  "2008-03-17",
+                                        "number":  24
+                                    },
+                                    {
+                                        "code":  "CNSA",
+                                        "type":  "P",
+                                        "descriptionText":  "APPROVED FOR PUB - PRINCIPAL REGISTER",
+                                        "date":  "2008-03-17",
+                                        "number":  23
+                                    },
+                                    {
+                                        "code":  "XAEC",
+                                        "type":  "I",
+                                        "descriptionText":  "EXAMINER\u0027S AMENDMENT ENTERED",
+                                        "date":  "2008-03-17",
+                                        "number":  22
+                                    },
+                                    {
+                                        "code":  "GNEN",
+                                        "type":  "O",
+                                        "descriptionText":  "NOTIFICATION OF EXAMINERS AMENDMENT E-MAILED",
+                                        "date":  "2008-03-17",
+                                        "number":  21
+                                    },
+                                    {
+                                        "code":  "GNEA",
+                                        "type":  "O",
+                                        "descriptionText":  "EXAMINERS AMENDMENT E-MAILED",
+                                        "date":  "2008-03-17",
+                                        "number":  20
+                                    },
+                                    {
+                                        "code":  "CNEA",
+                                        "type":  "R",
+                                        "descriptionText":  "EXAMINERS AMENDMENT -WRITTEN",
+                                        "date":  "2008-03-17",
+                                        "number":  19
+                                    },
+                                    {
+                                        "code":  "ZZZX",
+                                        "type":  "Z",
+                                        "descriptionText":  "PREVIOUS ALLOWANCE COUNT WITHDRAWN",
+                                        "date":  "2008-03-05",
+                                        "number":  18
+                                    },
+                                    {
+                                        "code":  "PBCR",
+                                        "type":  "Z",
+                                        "descriptionText":  "WITHDRAWN FROM PUB - OG REVIEW QUERY",
+                                        "date":  "2008-02-23",
+                                        "number":  17
+                                    },
+                                    {
+                                        "code":  "PREV",
+                                        "type":  "O",
+                                        "descriptionText":  "LAW OFFICE PUBLICATION REVIEW COMPLETED",
+                                        "date":  "2008-02-13",
+                                        "number":  16
+                                    },
+                                    {
+                                        "code":  "ALIE",
+                                        "type":  "A",
+                                        "descriptionText":  "ASSIGNED TO LIE",
+                                        "date":  "2008-02-13",
+                                        "number":  15
+                                    },
+                                    {
+                                        "code":  "CNSA",
+                                        "type":  "P",
+                                        "descriptionText":  "APPROVED FOR PUB - PRINCIPAL REGISTER",
+                                        "date":  "2008-01-14",
+                                        "number":  14
+                                    },
+                                    {
+                                        "code":  "TEME",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS/EMAIL CORRESPONDENCE ENTERED",
+                                        "date":  "2008-01-10",
+                                        "number":  13
+                                    },
+                                    {
+                                        "code":  "CRFA",
+                                        "type":  "I",
+                                        "descriptionText":  "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+                                        "date":  "2008-01-09",
+                                        "number":  12
+                                    },
+                                    {
+                                        "code":  "ERFR",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS REQUEST FOR RECONSIDERATION RECEIVED",
+                                        "date":  "2008-01-09",
+                                        "number":  11
+                                    },
+                                    {
+                                        "code":  "GNFN",
+                                        "type":  "O",
+                                        "descriptionText":  "NOTIFICATION OF FINAL REFUSAL EMAILED",
+                                        "date":  "2007-09-26",
+                                        "number":  10
+                                    },
+                                    {
+                                        "code":  "GNFR",
+                                        "type":  "O",
+                                        "descriptionText":  "FINAL REFUSAL E-MAILED",
+                                        "date":  "2007-09-26",
+                                        "number":  9
+                                    },
+                                    {
+                                        "code":  "CNFR",
+                                        "type":  "R",
+                                        "descriptionText":  "FINAL REFUSAL  WRITTEN",
+                                        "date":  "2007-09-26",
+                                        "number":  8
+                                    },
+                                    {
+                                        "code":  "TEME",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS/EMAIL CORRESPONDENCE ENTERED",
+                                        "date":  "2007-09-08",
+                                        "number":  7
+                                    },
+                                    {
+                                        "code":  "CRFA",
+                                        "type":  "I",
+                                        "descriptionText":  "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+                                        "date":  "2007-09-05",
+                                        "number":  6
+                                    },
+                                    {
+                                        "code":  "TROA",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS RESPONSE TO OFFICE ACTION RECEIVED",
+                                        "date":  "2007-09-05",
+                                        "number":  5
+                                    },
+                                    {
+                                        "code":  "GNRT",
+                                        "type":  "F",
+                                        "descriptionText":  "NON-FINAL ACTION E-MAILED",
+                                        "date":  "2007-03-07",
+                                        "number":  4
+                                    },
+                                    {
+                                        "code":  "CNRT",
+                                        "type":  "R",
+                                        "descriptionText":  "NON-FINAL ACTION  WRITTEN",
+                                        "date":  "2007-03-07",
+                                        "number":  3
+                                    },
+                                    {
+                                        "code":  "DOCK",
+                                        "type":  "D",
+                                        "descriptionText":  "ASSIGNED TO EXAMINER",
+                                        "date":  "2007-03-05",
+                                        "number":  2
+                                    },
+                                    {
+                                        "code":  "NWAP",
+                                        "type":  "I",
+                                        "descriptionText":  "NEW APPLICATION ENTERED IN TRAM",
+                                        "date":  "2006-10-24",
+                                        "number":  1
+                                    }
+                                ],
+                     "owners":  [
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "31",
+                                        "nationality":  [
+                                                            "IN"
+                                                        ],
+                                        "legalEntityTypeCode":  "11",
+                                        "partyName":  "TATA SONS PRIVATE LIMITED",
+                                        "address1":  "BOMBAY HOUSE, 24 HOMI MODY STREET",
+                                        "address2":  null,
+                                        "city":  "MUMBAI",
+                                        "country":  "IN",
+                                        "state":  null,
+                                        "postcode":  "400001",
+                                        "nameChangeExplanation":  null
+                                    },
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "30",
+                                        "nationality":  [
+                                                            "IN"
+                                                        ],
+                                        "legalEntityTypeCode":  "11",
+                                        "partyName":  "Tata Sons Limited",
+                                        "address1":  "Bombay House",
+                                        "address2":  "24 Homi Mody Street",
+                                        "city":  "Mumbai",
+                                        "country":  "IN",
+                                        "state":  null,
+                                        "postcode":  "400001",
+                                        "nameChangeExplanation":  null
+                                    },
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "20",
+                                        "nationality":  [
+                                                            "IN"
+                                                        ],
+                                        "legalEntityTypeCode":  "11",
+                                        "partyName":  "Tata Sons Limited",
+                                        "address1":  "Bombay House",
+                                        "address2":  "24 Homi Mody Street",
+                                        "city":  "Mumbai",
+                                        "country":  "IN",
+                                        "state":  null,
+                                        "postcode":  "400001",
+                                        "nameChangeExplanation":  null
+                                    },
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "10",
+                                        "nationality":  [
+                                                            "IN"
+                                                        ],
+                                        "legalEntityTypeCode":  "11",
+                                        "partyName":  "Tata Sons Limited",
+                                        "address1":  "Bombay House",
+                                        "address2":  "24 Homi Mody Street",
+                                        "city":  "Mumbai",
+                                        "country":  "IN",
+                                        "state":  null,
+                                        "postcode":  "400001",
+                                        "nameChangeExplanation":  null
+                                    }
+                                ],
+                     "markDrawingCode":  "4000",
+                     "caseFileStatements":  {
+                                                "GS0411":  "Conducting simulation workshops in the fields of performance enhancing products, content design and development, technology solutions in the fields of business studies, university and school education, language training, training services in the field of Information Technology, government and defense, airlines, healthcare, retail, telecom, manufacturing, banking, insurance and Fast Moving Consumer Goods",
+                                                "GS0301":  "Tea, coffee, rice, spices, flour and preparations made from cereals, namely, processed cereals and breakfast cereals; bread, pastry and confectionery items, namely, pastries, chocolates and fudge bars; honey, mustard, salt, and sauces",
+                                                "GS0091":  "Computer programs for wireless communications for use in banking, securities, manufacturing, financial service industry, payment systems applications, insurance, healthcare, retail, electronic commerce, location identification and e-governance applications; a full line of computer software for business, home, education, and developer use, namely, computer programs for use and facilitating services in banking, securities, manufacturing, financial service industry, payment systems applications, insurance, healthcare, and retail industries; computer programs for developing system management solutions; computer programs for systems management, namely, network management, asset management, configuration management, performance management, fault management, distribution management, security management and administration; computer software for computer source code review and software modeling; computer systems comprised of operating programs, software used for banking, securities, manufacturing, financial service industry, payment systems applications, insurance, healthcare, and retail industries, database management programs, application software, transaction processing programs, security software; computer operating system software to facilitate computer use and operation; computer operating system software; computer operating programs; computer hardware and software for the development, maintenance, and use of local and wide area computer networks; software for use in operating and maintaining computer systems, namely, operating systems, database management systems, transaction processing system, security software; algorithm software programs for the operation and control of computers; structural parts for all the aforesaid goods; and user manuals for use with, and sold as a unit with, all the aforesaid goods; computer operating programs used for banking, securities, manufacturing, financial service industry, payment systems applications, insurance, healthcare, and retail industries",
+                                                "GS0061":  "Common metals and their alloys for further manufacture; steel wires; tinplate for further manufacture; metal building material, namely, structural steel, decking; hot rolled steel bars, plates, sheets and coils; cold rolled steel sheets and coils; galvanized steel wire; stainless steel bars; high carbon steel wire; steel rods, steel in billet form; metal fasteners, namely, metal pipes and steel plates; transportable buildings of metal; materials of metal for railway tracks; non-electric cables and wires of common metal; and pipes and tubes of metal; common metal bolts; linings of metal for building purposes",
+                                                "GS0161":  "Envelopes, index cards, Business forms; computer printout paper and note pads, compositor and typewriter ribbons; image transfer paper; periodical publications containing articles about data processing and subjects of general interest; instruction books for the design, construction, maintenance, operation and programming of data processing equipment; electric typewriters; magnetic media typewriters; printing types; ad printing typing elements; printed matter, namely, instructional manuals for computer programs, magazines, newsletters, newspaper inserts and booklets, all in the fields of computer software, computers, computer system hardware, network hardware, telecommunications, information technology, word processing, database management, multimedia, entertainment equipment and e-commerce; printed matter, namely, instructional manuals for computer programs, magazines, newsletters, newspaper inserts and booklets, all in the fields of designing, creating, implementing and maintaining web sites for others, computer systems and networks, and computer programming for others, all in relation to commercial interactions over a global computer network",
+                                                "GS0421":  "Database development services, namely, information technology infrastructure development; computer project management services featuring the development of information technology infrastructures; computer network design for others; computer technology consultation; computer programming for others; computer software design for others and mechanical, electrical and systems engineering services for others"
+                                            },
+                     "correspondenceName":  "Paul F. Kilmer",
+                     "correspondenceAddress1":  "HOLLAND ",
+                     "correspondenceAddress2":  "Suite 1100",
+                     "attorneyName":  "Paul F. Kilmer ",
+                     "attorneyDocketNumber":  "072460.00002",
+                     "currentLocation":  "TMEG LAW OFFICE 102",
+                     "statusCode":  "702",
+                     "liveOrDeadStatus":  "Live",
+                     "logo":  "https://tsdr.uspto.gov/img/77024615/large"
+                 },
+                 {
+                     "id":  "62a872de08c6f9240d38663a",
+                     "markIdentification":  "TATA",
+                     "filingDate":  "2006-11-06",
+                     "transactionDate":  "2021-02-09",
+                     "statusDate":  "2021-01-02",
+                     "serialNumber":  77037369,
+                     "registrationNumber":  "3858676",
+                     "classification":  [
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "5",
+                                                "internationalCode":  [
+                                                                          "018"
+                                                                      ],
+                                                "usCode":  [
+                                                               "001",
+                                                               "002",
+                                                               "003",
+                                                               "022",
+                                                               "041"
+                                                           ],
+                                                "statusCode":  "B",
+                                                "statusDate":  "2017-05-17",
+                                                "firstUseAnywhereDate":  null,
+                                                "firstUseInCommerceDate":  null,
+                                                "primaryCode":  "018"
+                                            },
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "8",
+                                                "internationalCode":  [
+                                                                          "021"
+                                                                      ],
+                                                "usCode":  [
+                                                               "002",
+                                                               "013",
+                                                               "023",
+                                                               "029",
+                                                               "030",
+                                                               "033",
+                                                               "040",
+                                                               "050"
+                                                           ],
+                                                "statusCode":  "B",
+                                                "statusDate":  "2017-05-17",
+                                                "firstUseAnywhereDate":  null,
+                                                "firstUseInCommerceDate":  null,
+                                                "primaryCode":  "021"
+                                            },
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "2",
+                                                "internationalCode":  [
+                                                                          "025"
+                                                                      ],
+                                                "usCode":  [
+                                                               "022",
+                                                               "039"
+                                                           ],
+                                                "statusCode":  "B",
+                                                "statusDate":  "2017-05-17",
+                                                "firstUseAnywhereDate":  null,
+                                                "firstUseInCommerceDate":  null,
+                                                "primaryCode":  "025"
+                                            },
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "3",
+                                                "internationalCode":  [
+                                                                          "036"
+                                                                      ],
+                                                "usCode":  [
+                                                               "100",
+                                                               "101",
+                                                               "102"
+                                                           ],
+                                                "statusCode":  "B",
+                                                "statusDate":  "2017-05-17",
+                                                "firstUseAnywhereDate":  null,
+                                                "firstUseInCommerceDate":  null,
+                                                "primaryCode":  "036"
+                                            },
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "3",
+                                                "internationalCode":  [
+                                                                          "038"
+                                                                      ],
+                                                "usCode":  [
+                                                               "100",
+                                                               "101",
+                                                               "104"
+                                                           ],
+                                                "statusCode":  "6",
+                                                "statusDate":  "2006-11-09",
+                                                "firstUseAnywhereDate":  null,
+                                                "firstUseInCommerceDate":  null,
+                                                "primaryCode":  "038"
+                                            },
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "3",
+                                                "internationalCode":  [
+                                                                          "041"
+                                                                      ],
+                                                "usCode":  [
+                                                               "100",
+                                                               "101",
+                                                               "107"
+                                                           ],
+                                                "statusCode":  "6",
+                                                "statusDate":  "2006-11-09",
+                                                "firstUseAnywhereDate":  null,
+                                                "firstUseInCommerceDate":  null,
+                                                "primaryCode":  "041"
+                                            },
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "2",
+                                                "internationalCode":  [
+                                                                          "042"
+                                                                      ],
+                                                "usCode":  [
+                                                               "100",
+                                                               "101"
+                                                           ],
+                                                "statusCode":  "6",
+                                                "statusDate":  "2007-09-08",
+                                                "firstUseAnywhereDate":  null,
+                                                "firstUseInCommerceDate":  null,
+                                                "primaryCode":  "042"
+                                            }
+                                        ],
+                     "events":  [
+                                    {
+                                        "code":  "NA89",
+                                        "type":  "E",
+                                        "descriptionText":  "NOTICE OF ACCEPTANCE OF SEC. 8 ",
+                                        "date":  "2021-01-02",
+                                        "number":  56
+                                    },
+                                    {
+                                        "code":  "RNL1",
+                                        "type":  "Q",
+                                        "descriptionText":  "REGISTERED AND RENEWED (FIRST RENEWAL - 10 YRS)",
+                                        "date":  "2021-01-02",
+                                        "number":  55
+                                    },
+                                    {
+                                        "code":  "89AG",
+                                        "type":  "O",
+                                        "descriptionText":  "REGISTERED - SEC. 8 (10-YR) ACCEPTED/SEC. 9 GRANTED",
+                                        "date":  "2021-01-02",
+                                        "number":  54
+                                    },
+                                    {
+                                        "code":  "APRE",
+                                        "type":  "A",
+                                        "descriptionText":  "CASE ASSIGNED TO POST REGISTRATION PARALEGAL",
+                                        "date":  "2021-01-02",
+                                        "number":  53
+                                    },
+                                    {
+                                        "code":  "E89R",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS SECTION 8 ",
+                                        "date":  "2020-10-09",
+                                        "number":  52
+                                    },
+                                    {
+                                        "code":  "ASGN",
+                                        "type":  "I",
+                                        "descriptionText":  "AUTOMATIC UPDATE OF ASSIGNMENT OF OWNERSHIP",
+                                        "date":  "2020-02-05",
+                                        "number":  51
+                                    },
+                                    {
+                                        "code":  "REM2",
+                                        "type":  "E",
+                                        "descriptionText":  "COURTESY REMINDER - SEC. 8 (10-YR)/SEC. 9 E-MAILED",
+                                        "date":  "2019-10-12",
+                                        "number":  50
+                                    },
+                                    {
+                                        "code":  "NA85",
+                                        "type":  "E",
+                                        "descriptionText":  "NOTICE OF ACCEPTANCE OF SEC. 8 ",
+                                        "date":  "2017-05-17",
+                                        "number":  49
+                                    },
+                                    {
+                                        "code":  "C15P",
+                                        "type":  "O",
+                                        "descriptionText":  "REGISTERED - PARTIAL SEC. 8 (6-YR) ACCEPTED ",
+                                        "date":  "2017-05-17",
+                                        "number":  48
+                                    },
+                                    {
+                                        "code":  "APRE",
+                                        "type":  "A",
+                                        "descriptionText":  "CASE ASSIGNED TO POST REGISTRATION PARALEGAL",
+                                        "date":  "2017-05-17",
+                                        "number":  47
+                                    },
+                                    {
+                                        "code":  "E815",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS SECTION 8 ",
+                                        "date":  "2017-04-05",
+                                        "number":  46
+                                    },
+                                    {
+                                        "code":  "CORV",
+                                        "type":  "2",
+                                        "descriptionText":  "REVIEW OF CORRESPONDENCE COMPLETE - ADDRESS NOT UPDATED",
+                                        "date":  "2012-09-25",
+                                        "number":  45
+                                    },
+                                    {
+                                        "code":  "MAIL",
+                                        "type":  "I",
+                                        "descriptionText":  "PAPER RECEIVED",
+                                        "date":  "2012-09-13",
+                                        "number":  44
+                                    },
+                                    {
+                                        "code":  "R.PR",
+                                        "type":  "A",
+                                        "descriptionText":  "REGISTERED-PRINCIPAL REGISTER",
+                                        "date":  "2010-10-12",
+                                        "number":  43
+                                    },
+                                    {
+                                        "code":  "NPUB",
+                                        "type":  "E",
+                                        "descriptionText":  "OFFICIAL GAZETTE PUBLICATION CONFIRMATION E-MAILED",
+                                        "date":  "2010-07-27",
+                                        "number":  42
+                                    },
+                                    {
+                                        "code":  "PUBO",
+                                        "type":  "A",
+                                        "descriptionText":  "PUBLISHED FOR OPPOSITION",
+                                        "date":  "2010-07-27",
+                                        "number":  41
+                                    },
+                                    {
+                                        "code":  "IUCN",
+                                        "type":  "S",
+                                        "descriptionText":  "NOTICE OF ALLOWANCE CANCELLED",
+                                        "date":  "2010-06-22",
+                                        "number":  40
+                                    },
+                                    {
+                                        "code":  "ATRQ",
+                                        "type":  "I",
+                                        "descriptionText":  "ATTORNEY REVIEW/DECISION ON AMENDMENT REQUIRED",
+                                        "date":  "2010-02-22",
+                                        "number":  39
+                                    },
+                                    {
+                                        "code":  "PCBG",
+                                        "type":  "O",
+                                        "descriptionText":  "PETITION TO DIRECTOR - CHANGE BASIS - GRANTED",
+                                        "date":  "2010-02-22",
+                                        "number":  38
+                                    },
+                                    {
+                                        "code":  "EX3G",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 3 GRANTED",
+                                        "date":  "2010-02-18",
+                                        "number":  37
+                                    },
+                                    {
+                                        "code":  "EXT3",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 3 FILED",
+                                        "date":  "2010-01-21",
+                                        "number":  36
+                                    },
+                                    {
+                                        "code":  "APET",
+                                        "type":  "A",
+                                        "descriptionText":  "ASSIGNED TO PETITION STAFF",
+                                        "date":  "2010-02-16",
+                                        "number":  35
+                                    },
+                                    {
+                                        "code":  "PDCB",
+                                        "type":  "I",
+                                        "descriptionText":  "PETITION TO DIRECTOR - CHANGE BASIS - RECEIVED",
+                                        "date":  "2010-01-27",
+                                        "number":  34
+                                    },
+                                    {
+                                        "code":  "MAIL",
+                                        "type":  "I",
+                                        "descriptionText":  "PAPER RECEIVED",
+                                        "date":  "2010-01-27",
+                                        "number":  33
+                                    },
+                                    {
+                                        "code":  "EEXT",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS EXTENSION RECEIVED",
+                                        "date":  "2010-01-21",
+                                        "number":  32
+                                    },
+                                    {
+                                        "code":  "EX2G",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 2 GRANTED",
+                                        "date":  "2009-07-23",
+                                        "number":  31
+                                    },
+                                    {
+                                        "code":  "EXT2",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 2 FILED",
+                                        "date":  "2009-07-21",
+                                        "number":  30
+                                    },
+                                    {
+                                        "code":  "EEXT",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS EXTENSION RECEIVED",
+                                        "date":  "2009-07-21",
+                                        "number":  29
+                                    },
+                                    {
+                                        "code":  "EX1G",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 1 GRANTED",
+                                        "date":  "2009-01-22",
+                                        "number":  28
+                                    },
+                                    {
+                                        "code":  "EXT1",
+                                        "type":  "S",
+                                        "descriptionText":  "EXTENSION 1 FILED",
+                                        "date":  "2009-01-07",
+                                        "number":  27
+                                    },
+                                    {
+                                        "code":  "AITU",
+                                        "type":  "A",
+                                        "descriptionText":  "CASE ASSIGNED TO INTENT TO USE PARALEGAL",
+                                        "date":  "2009-01-22",
+                                        "number":  26
+                                    },
+                                    {
+                                        "code":  "EEXT",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS EXTENSION RECEIVED",
+                                        "date":  "2009-01-07",
+                                        "number":  25
+                                    },
+                                    {
+                                        "code":  "NOAM",
+                                        "type":  "O",
+                                        "descriptionText":  "NOA MAILED - SOU REQUIRED FROM APPLICANT",
+                                        "date":  "2008-07-22",
+                                        "number":  24
+                                    },
+                                    {
+                                        "code":  "PUBO",
+                                        "type":  "A",
+                                        "descriptionText":  "PUBLISHED FOR OPPOSITION",
+                                        "date":  "2008-04-29",
+                                        "number":  23
+                                    },
+                                    {
+                                        "code":  "NPUB",
+                                        "type":  "O",
+                                        "descriptionText":  "NOTICE OF PUBLICATION",
+                                        "date":  "2008-04-09",
+                                        "number":  22
+                                    },
+                                    {
+                                        "code":  "PREV",
+                                        "type":  "O",
+                                        "descriptionText":  "LAW OFFICE PUBLICATION REVIEW COMPLETED",
+                                        "date":  "2008-03-21",
+                                        "number":  21
+                                    },
+                                    {
+                                        "code":  "ALIE",
+                                        "type":  "A",
+                                        "descriptionText":  "ASSIGNED TO LIE",
+                                        "date":  "2008-03-21",
+                                        "number":  20
+                                    },
+                                    {
+                                        "code":  "CNSA",
+                                        "type":  "P",
+                                        "descriptionText":  "APPROVED FOR PUB - PRINCIPAL REGISTER",
+                                        "date":  "2008-03-04",
+                                        "number":  19
+                                    },
+                                    {
+                                        "code":  "XAEC",
+                                        "type":  "I",
+                                        "descriptionText":  "EXAMINER\u0027S AMENDMENT ENTERED",
+                                        "date":  "2008-03-04",
+                                        "number":  18
+                                    },
+                                    {
+                                        "code":  "GNEN",
+                                        "type":  "O",
+                                        "descriptionText":  "NOTIFICATION OF EXAMINERS AMENDMENT E-MAILED",
+                                        "date":  "2008-03-04",
+                                        "number":  17
+                                    },
+                                    {
+                                        "code":  "GNEA",
+                                        "type":  "O",
+                                        "descriptionText":  "EXAMINERS AMENDMENT E-MAILED",
+                                        "date":  "2008-03-04",
+                                        "number":  16
+                                    },
+                                    {
+                                        "code":  "CNEA",
+                                        "type":  "R",
+                                        "descriptionText":  "EXAMINERS AMENDMENT -WRITTEN",
+                                        "date":  "2008-03-04",
+                                        "number":  15
+                                    },
+                                    {
+                                        "code":  "TEME",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS/EMAIL CORRESPONDENCE ENTERED",
+                                        "date":  "2008-02-14",
+                                        "number":  14
+                                    },
+                                    {
+                                        "code":  "CRFA",
+                                        "type":  "I",
+                                        "descriptionText":  "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+                                        "date":  "2008-02-14",
+                                        "number":  13
+                                    },
+                                    {
+                                        "code":  "ERFR",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS REQUEST FOR RECONSIDERATION RECEIVED",
+                                        "date":  "2008-02-14",
+                                        "number":  12
+                                    },
+                                    {
+                                        "code":  "GNFN",
+                                        "type":  "O",
+                                        "descriptionText":  "NOTIFICATION OF FINAL REFUSAL EMAILED",
+                                        "date":  "2007-09-27",
+                                        "number":  11
+                                    },
+                                    {
+                                        "code":  "GNFR",
+                                        "type":  "O",
+                                        "descriptionText":  "FINAL REFUSAL E-MAILED",
+                                        "date":  "2007-09-27",
+                                        "number":  10
+                                    },
+                                    {
+                                        "code":  "CNFR",
+                                        "type":  "R",
+                                        "descriptionText":  "FINAL REFUSAL  WRITTEN",
+                                        "date":  "2007-09-27",
+                                        "number":  9
+                                    },
+                                    {
+                                        "code":  "TEME",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS/EMAIL CORRESPONDENCE ENTERED",
+                                        "date":  "2007-09-08",
+                                        "number":  8
+                                    },
+                                    {
+                                        "code":  "CRFA",
+                                        "type":  "I",
+                                        "descriptionText":  "CORRESPONDENCE RECEIVED IN LAW OFFICE",
+                                        "date":  "2007-09-04",
+                                        "number":  7
+                                    },
+                                    {
+                                        "code":  "TROA",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS RESPONSE TO OFFICE ACTION RECEIVED",
+                                        "date":  "2007-09-04",
+                                        "number":  6
+                                    },
+                                    {
+                                        "code":  "GNRT",
+                                        "type":  "F",
+                                        "descriptionText":  "NON-FINAL ACTION E-MAILED",
+                                        "date":  "2007-03-07",
+                                        "number":  5
+                                    },
+                                    {
+                                        "code":  "CNRT",
+                                        "type":  "R",
+                                        "descriptionText":  "NON-FINAL ACTION  WRITTEN",
+                                        "date":  "2007-03-07",
+                                        "number":  4
+                                    },
+                                    {
+                                        "code":  "DOCK",
+                                        "type":  "D",
+                                        "descriptionText":  "ASSIGNED TO EXAMINER",
+                                        "date":  "2007-03-05",
+                                        "number":  3
+                                    },
+                                    {
+                                        "code":  "MDSC",
+                                        "type":  "O",
+                                        "descriptionText":  "NOTICE OF DESIGN SEARCH CODE MAILED",
+                                        "date":  "2006-11-10",
+                                        "number":  2
+                                    },
+                                    {
+                                        "code":  "NWAP",
+                                        "type":  "I",
+                                        "descriptionText":  "NEW APPLICATION ENTERED IN TRAM",
+                                        "date":  "2006-11-09",
+                                        "number":  1
+                                    }
+                                ],
+                     "owners":  [
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "31",
+                                        "nationality":  [
+                                                            "IN"
+                                                        ],
+                                        "legalEntityTypeCode":  "11",
+                                        "partyName":  "TATA SONS PRIVATE LMITED",
+                                        "address1":  "BOMBAY HOUSE, 24 HOMI MODY STREET",
+                                        "address2":  null,
+                                        "city":  "MUMBAI",
+                                        "country":  "IN",
+                                        "state":  null,
+                                        "postcode":  "400001",
+                                        "nameChangeExplanation":  null
+                                    },
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "30",
+                                        "nationality":  [
+                                                            "IN"
+                                                        ],
+                                        "legalEntityTypeCode":  "99",
+                                        "partyName":  "Tata Sons Limited",
+                                        "address1":  "Bombay House",
+                                        "address2":  "24 Homi Mody Street",
+                                        "city":  "Mumbai",
+                                        "country":  "IN",
+                                        "state":  null,
+                                        "postcode":  "400001",
+                                        "nameChangeExplanation":  null
+                                    },
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "20",
+                                        "nationality":  [
+                                                            "IN"
+                                                        ],
+                                        "legalEntityTypeCode":  "99",
+                                        "partyName":  "Tata Sons Limited",
+                                        "address1":  "Bombay House",
+                                        "address2":  "24 Homi Mody Street",
+                                        "city":  "Mumbai",
+                                        "country":  "IN",
+                                        "state":  null,
+                                        "postcode":  "400001",
+                                        "nameChangeExplanation":  null
+                                    },
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "10",
+                                        "nationality":  [
+                                                            "IN"
+                                                        ],
+                                        "legalEntityTypeCode":  "99",
+                                        "partyName":  "Tata Sons Limited",
+                                        "address1":  "Bombay House",
+                                        "address2":  "24 Homi Mody Street",
+                                        "city":  "Mumbai",
+                                        "country":  "IN",
+                                        "state":  null,
+                                        "postcode":  "400001",
+                                        "nameChangeExplanation":  null
+                                    }
+                                ],
+                     "markDrawingCode":  "3000",
+                     "caseFileStatements":  {
+                                                "GS0411":  "(Based upon Foreign Reg. No. 1247051) Conducting simulation workshops in the fields of performance enhancing products, content design and development, technology solutions in the fields of business studies, university and school education; language training; training services in the field of Information Technology, government and defense, airlines, healthcare, retail, telecom, manufacturing, banking, insurance and Fast Moving Consumer Goods",
+                                                "DM0000":  "The mark consists of \"TATA\" and Broken Stacked Oval Design.",
+                                                "GS0181":  "(Based upon Foreign Reg. No. 838434) [ Animal skins; back packs made of leather; bags, namely, bags made of leather, shoulder bags made of leather and leather wallets; leather leashes for animals; leather straps; semi-worked leather; shoulder belts made of leather, pocket wallets made of leather, purses made of leather, suitcases; unworked chamois leather, not for cleaning purposes; raw skins; envelopes of leather for packaging, hand bags made of leather and unworked moleskin ]",
+                                                "GS0381":  "(Based upon Foreign Reg. No. 1247048) Telecommunications services, namely, providing local and long distance transmission of voice, video and data via a fiber optic network; providing multiple use access to a global computer network; satellite communications; voice over Internet protocol services and the provision of voice activated dialing services, electronic collection, processing and transmission of messages",
+                                                "GS0251":  "(Based upon Foreign Reg. No. 838441) [ Boots, boot uppers, boots for sports; clothing, namely, shirts, trousers, skirts, socks, jackets and gloves; footwear; footwear uppers, heels, heel pieces, sandals, shoes, slippers, soles for footwear and headwear, leather boots; linings of leather for boots and shoes; and bands of leather for wrist bands ]",
+                                                "GS0361":  "(Based upon Reg. No. 1247046) [ Telephone calling card services ]",
+                                                "CC0000":  "Color is not claimed as a feature of the mark.",
+                                                "GS0211":  "(Based upon Foreign Reg. No. 838437)[ Curry combs ]",
+                                                "GS0421":  "(Based upon Foreign Reg. No. 1247052) Database development services, namely, information technology infrastructure development; computer project management services featuring the development of information technology infrastructures; computer network design for others; computer technology consultation; computer programming for others; computer software design for others; and mechanical, electrical, and systems engineering services for others"
+                                            },
+                     "correspondenceName":  "Paul F. Kilmer",
+                     "correspondenceAddress1":  "HOLLAND ",
+                     "correspondenceAddress2":  "800 17th Street, NW",
+                     "attorneyName":  "Paul F. Kilmer ",
+                     "attorneyDocketNumber":  "072460.00002",
+                     "currentLocation":  "GENERIC WEB UPDATE",
+                     "statusCode":  "800",
+                     "liveOrDeadStatus":  "Live",
+                     "logo":  "https://tsdr.uspto.gov/img/77037369/large"
+                 },
+                 {
+                     "id":  "62a8753708c6f9240d410688",
+                     "markIdentification":  "TATA",
+                     "filingDate":  "2008-10-29",
+                     "transactionDate":  "2020-05-31",
+                     "statusDate":  "2009-09-03",
+                     "serialNumber":  77602687,
+                     "registrationNumber":  "0000000",
+                     "classification":  [
+                                            {
+                                                "internationalCodeTotalNo":  "1",
+                                                "usCodeTotalNo":  "2",
+                                                "internationalCode":  [
+                                                                          "033"
+                                                                      ],
+                                                "usCode":  [
+                                                               "047",
+                                                               "049"
+                                                           ],
+                                                "statusCode":  "6",
+                                                "statusDate":  "2008-11-03",
+                                                "firstUseAnywhereDate":  null,
+                                                "firstUseInCommerceDate":  null,
+                                                "primaryCode":  "033"
+                                            }
+                                        ],
+                     "events":  [
+                                    {
+                                        "code":  "MAB2",
+                                        "type":  "O",
+                                        "descriptionText":  "ABANDONMENT NOTICE MAILED - FAILURE TO RESPOND",
+                                        "date":  "2009-09-03",
+                                        "number":  9
+                                    },
+                                    {
+                                        "code":  "ABN2",
+                                        "type":  "O",
+                                        "descriptionText":  "ABANDONMENT - FAILURE TO RESPOND OR LATE RESPONSE",
+                                        "date":  "2009-09-03",
+                                        "number":  8
+                                    },
+                                    {
+                                        "code":  "GNRN",
+                                        "type":  "O",
+                                        "descriptionText":  "NOTIFICATION OF NON-FINAL ACTION E-MAILED",
+                                        "date":  "2009-02-05",
+                                        "number":  7
+                                    },
+                                    {
+                                        "code":  "GNRT",
+                                        "type":  "F",
+                                        "descriptionText":  "NON-FINAL ACTION E-MAILED",
+                                        "date":  "2009-02-05",
+                                        "number":  6
+                                    },
+                                    {
+                                        "code":  "CNRT",
+                                        "type":  "R",
+                                        "descriptionText":  "NON-FINAL ACTION  WRITTEN",
+                                        "date":  "2009-02-05",
+                                        "number":  5
+                                    },
+                                    {
+                                        "code":  "DOCK",
+                                        "type":  "D",
+                                        "descriptionText":  "ASSIGNED TO EXAMINER",
+                                        "date":  "2009-01-30",
+                                        "number":  4
+                                    },
+                                    {
+                                        "code":  "TAEA",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS AMENDMENT ENTERED BEFORE ATTORNEY ASSIGNED",
+                                        "date":  "2008-11-17",
+                                        "number":  3
+                                    },
+                                    {
+                                        "code":  "PARI",
+                                        "type":  "I",
+                                        "descriptionText":  "TEAS VOLUNTARY AMENDMENT RECEIVED",
+                                        "date":  "2008-11-17",
+                                        "number":  2
+                                    },
+                                    {
+                                        "code":  "NWAP",
+                                        "type":  "I",
+                                        "descriptionText":  "NEW APPLICATION ENTERED IN TRAM",
+                                        "date":  "2008-11-03",
+                                        "number":  1
+                                    }
+                                ],
+                     "owners":  [
+                                    {
+                                        "entryNumber":  1,
+                                        "partyType":  "10",
+                                        "nationality":  [
+                                                            "CL"
+                                                        ],
+                                        "legalEntityTypeCode":  "03",
+                                        "partyName":  "Montes S.A.",
+                                        "address1":  "Av. Del Valle No. 945, Of. 2611",
+                                        "address2":  "Ciudad Empresarial",
+                                        "city":  "Huechuraba, Santiago",
+                                        "country":  "CL",
+                                        "state":  null,
+                                        "postcode":  null,
+                                        "nameChangeExplanation":  null
+                                    }
+                                ],
+                     "markDrawingCode":  "4000",
+                     "caseFileStatements":  {
+                                                "GS0331":  "Wine"
+                                            },
+                     "correspondenceName":  "KEITH BARRITT",
+                     "correspondenceAddress1":  "FISH ",
+                     "correspondenceAddress2":  "PO BOX 1022",
+                     "attorneyName":  "Keith Barritt ",
+                     "attorneyDocketNumber":  "20735/TATA",
+                     "currentLocation":  "TMO LAW OFFICE 111 - EXAMINING ATTORNEY ASSIGNED",
+                     "statusCode":  "602",
+                     "liveOrDeadStatus":  "Dead",
+                     "logo":  "https://tsdr.uspto.gov/img/77602687/large"
+                 }
+             ]
+}
